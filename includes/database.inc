@@ -96,7 +96,7 @@ class database{
 //
     var_dump($query);
 //    exit;
-
+//    
     // With built query, Execute and return results as an array.
     if($queryResults = mysql_query($query)){
       $output = array();
@@ -108,7 +108,6 @@ class database{
 //        $output[$rowID] = $row;
         $output[] = $row;
       }
-
       return $output;
     }else{
       return FALSE;
