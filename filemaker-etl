@@ -1,0 +1,1860 @@
+firstName,lastName,email,phone,clients::client_name,clients::client_prefix,clients::url,courses::courseId,courses::courseName
+Bob,Johnson,rljohnson@access.k12.wv.us,,Fred Eberle Tech,hv.fetc,http://fetc.cdxsite.com/,B7275E,CDX Diesel Online Course Series
+,,,,,,,3223F8,CDX Diesel: Electrical and Electronic Systems
+,,,,,,,729E76,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,572363,CDX Diesel: Steering and Suspension 
+,,,,,,,42A4A9,CDX Diesel: Brakes
+,,,,,,,338F3F,CDX Diesel: HVAC
+,,,,,,,E6C6E7,CDX Diesel: Engines
+,,,,,,,3CE24A,CDX Diesel: Drive Trains
+,,,,,,,7ABA3A,CDX Diesel: Hydraulics
+,,,,,,,,
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,LV 2014
+,,,,,,,,LV 2014
+Charlie,Johnson,johnsocw@palmbeachstate.edu,,Palm Beach College,hv.pbcc,http://pbcc.cdxsite.com/,232457,CDX Diesel Online Course Series
+,,,,,,,82DA3B,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,DECF34,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,F23A87,CDX Diesel: Steering and Suspension 
+,,,,,,,2DF29A,CDX Diesel: Brakes
+,,,,,,,E54362,CDX Diesel: HVAC
+,,,,,,,52D227,CDX Diesel: Engines
+,,,,,,,68C633,CDX Diesel: Drive Trains
+,,,,,,,2ED3B2,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,89CC4D,CDX: Light Vehicle 2 Year
+Dannie,Russell,dannie.russell@tulsatech.edu,,Tulsa Tech Broken Arrow,hv.ttba,http://ttba.cdxsite.com/,BDDCA3,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,8D72D8,CDX Diesel Online Course Series
+,,,,,,,A2D625,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,E523C2,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,E36C63,CDX Diesel: Steering and Suspension 
+,,,,,,,7D72DA,CDX Diesel: Brakes
+,,,,,,,BB5D8D,CDX Diesel: HVAC
+,,,,,,,3D63EA,CDX Diesel: Engines
+,,,,,,,5E4CD6,CDX Diesel: Drive Trains
+,,,,,,,49342A,CDX Diesel: Hydraulics
+Ed,Heim,Heim.ed@bgsd.k12.wa.us,360 885-6571,Battle Ground High School,bghi,http://bghi.cdxsite.com/,EFD529,CDX Plus Navigate Secondary School Edition
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,MLR
+James,Rogers,jimr@ctechok.org,918-352-2551,Central Technology Center - Drumright,ctcd,http://ctcd.cdxsite.com/,7FB469,CDX Diesel Online Course Series
+,,,,,,,382F38,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,28937D,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,,CDX: Light Vehicle
+Jayson,Collins,jcollins@omnisourcese.com,,OmniSource Recycling,http://www.omnisource.com/,http://www.omnisource.com/,C92AF8,CDX Diesel: Preventive Maintenance & Inspection
+Miguel,Rojas,rtiger51@hotmail.com,,Chicago Vocational High,hv.cvoc,http://cvoc.cdxsite.com,E52322,CDX Diesel Online Course Series
+,,,,,,,3DF6D4,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,DABBFB,CDX Diesel: Preventive Maintenance & Inspection
+PMI,Demo,info@jblearning.com,,,,,437E2B,CDX Diesel: Preventive Maintenance & Inspection
+Sean,Miller,Sean.Miller@veoliatransportation.com,,Veolia,,,2BC544,CDX Bus: Modern Electrical Systems / Individual Access Code
+Earl,Elliot,earle@ctechok.org,,CTC Drumright,,,2E35D3,CDX Diesel Online Course Series
+,,,,,,,D94A25,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,3C8233,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,283323,CDX Diesel: Steering and Suspension 
+,,,,,,,3E4348,CDX Diesel: Brakes
+,,,,,,,596CA7,CDX Diesel: Engines
+,,,,,,,6473D9,CDX Diesel: Drive Trains
+,,,,,,,7A9F6A,CDX Diesel: Hydraulics
+Wesley,Mickens,westlee51@hotmail.com,773-535-7944,Chicago Vocational High,hv.cvoc,http://cvoc.cdxsite.com,E52322,CDX Diesel Online Course Series
+,,,,,,,DABBFB,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,3DF6D4,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,77C3D3,CDX Diesel: Steering and Suspension 
+,,,,,,,23435F,CDX Diesel: Brakes
+,,,,,,,8A323C,CDX Diesel: HVAC
+,,,,,,,5ECA83,CDX Diesel: Engines
+,,,,,,,23EC3E,CDX Diesel: Drive Trains
+,,,,,,,89882F,CDX Diesel: Hydraulics
+Mike,Smith,msmith@chattahoocheetech.edu,770-529-2308,Chattahoochee Technical College,ctech,http://ctech.cdxsite.com,EB3355,CDX Diesel Online Course Series
+,,,,,,,728A48,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,E4CE63,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,5ACDE5,CDX Diesel: Steering and Suspension 
+,,,,,,,A642CD,CDX Diesel: Brakes
+,,,,,,,F2C832,CDX Diesel: HVAC
+,,,,,,,F43BF3,HV Diesel complete
+Jon,Walraven,jwalraven@oftc.edu,478-274-7864,Oconee Fall Line Technical College,hv.oconee,http://oconee.cdxsite.com/,D523D3,CDX Diesel Series
+,,,,,,,968ED7,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2BA2DB,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,FD4EFC,CDX Diesel: Steering and Suspension 
+,,,,,,,3D28A6,CDX Diesel: Brakes
+,,,,,,,8E9D3A,CDX Diesel: HVAC
+,,,,,,,347CE5,CDX Diesel: Engines
+,,,,,,,DD5D3F,CDX Diesel: Hydraulics
+,,,,,,,2C2423,CDX Diesel: Drive Trains
+Jeremy,Smith,jeremy.smith@wallacestate.edu,256-352-8063,Wallace State Community College,hv.wscc,http://wscc.cdxsite.com/,87AE53,CDX Diesel Online Course Series
+,,,,,,,2222D8,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,CD5EDD,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,C9776F,CDX Diesel: Steering and Suspension 
+,,,,,,,AD338B,CDX Diesel: Brakes
+,,,,,,,34B36B,CDX Diesel: HVAC
+,,,,,,,452765,CDX Diesel: Engines
+,,,,,,,FC3A72,CDX Diesel: Drive Trains
+,,,,,,,BFE38B,CDX Diesel: Hydraulics
+,,,,,,,7FD6F2,CDX Diesel Series
+James,Swan,jwswan@midsouthcc.edu,,Mid-South Community College,,,3BDEA2,CDX Diesel Online Course Series
+,,,,,,,7BE597,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,E22539,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,D266B2,CDX Diesel: Steering and Suspension 
+,,,,,,,7CEACF,CDX Diesel: Brakes
+,,,,,,,62E3D5,CDX Diesel: HVAC
+,,,,,,,A23582,CDX Diesel: Engines
+,,,,,,,3676F4,CDX Diesel: Drive Trains
+,,,,,,,C8E74D,CDX Diesel: Hydraulics
+,,,,,,,F93223,CDX Diesel Online Course Series
+Mike,Kimbrell,mwkimbrell@bscc.edu,205-648-3271,Bevill State Community College,,,954D7C,CDX Diesel Online Course Series
+,,,,,,,7AA342,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,A3664A,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,B23622,CDX Diesel: Steering and Suspension 
+,,,,,,,C7EF25,CDX Diesel: Brakes
+,,,,,,,C693FC,CDX Diesel: Engines
+,,,,,,,686AEC,CDX Diesel: Drive Trains
+,,,,,,,AD3766,CDX Diesel: Hydraulics
+,,,,,,,,LV 2014
+Patrick,Rafferty,patrick.rafferty@saintpaul.edu,651-846-1600,St Paul College,hv.stpaul,http://stpaul.cdxsite.com/,34CF92,CDX Diesel Online Course Series
+,,,,,,,223CD2,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,64B47A,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,249423,CDX Diesel: Steering and Suspension 
+,,,,,,,94DCAC,CDX Diesel: Brakes
+,,,,,,,AC2DCC,CDX Diesel: Engines
+,,,,,,,E8E95A,CDX Diesel: Drive Trains
+,,,,,,,25252E,CDX Diesel: Hydraulics
+,,,,,,,FDA2C5,CDX Diesel: HVAC
+Bryan,Kelly,bkelly@southgatech.edu,229-931-2587,South Georgia Technical College,,,B733CD,CDX Diesel Online Course Series
+,,,,,,,2EAB74,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,8F7366,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,3289D2,CDX Diesel: Steering and Suspension 
+,,,,,,,38BD53,CDX Diesel: Brakes
+,,,,,,,B57B96,CDX Diesel: HVAC
+,,,,,,,ED3CD2,CDX Diesel: Engines
+,,,,,,,D7BD2A,CDX Diesel: Drive Trains
+,,,,,,,2B9334,CDX Diesel: Hydraulics
+Mike,Batchelor,mbatchelor@havc.k12.al.us,205-486-7907,Haleyville Center of Technology,hact.cdxsite.com,http://hact.cdxsite.com/,D29F8C,CDX Diesel Online Course Series
+,,,,,,,5C32A2,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,A6BC36,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,EB33EC,CDX Diesel: Steering and Suspension 
+,,,,,,,B63BE7,CDX Diesel: Brakes
+,,,,,,,F6887F,CDX Diesel: HVAC
+,,,,,,,28628E,CDX Diesel: Engines
+,,,,,,,A52F3A,CDX Diesel: Drive Trains
+,,,,,,,A32A4B,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Reed,Cooper,rcooper38@ivytech.edu,767-772-9100,Ivy Tech Lafayette,,,FCBB45,CDX Diesel Online Course Series
+,,,,,,,982BD6,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,E9BC22,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,7D343D,CDX Diesel: Steering and Suspension 
+,,,,,,,D662A8,CDX Diesel: Brakes
+,,,,,,,D25BF3,CDX Diesel: HVAC
+,,,,,,,79E3DF,CDX Diesel: Engines
+,,,,,,,C3673C,CDX Diesel: Drive Trains
+,,,,,,,DBBC83,CDX Diesel: Hydraulics
+Jason,Kubasiak,kubasiaj@calhounisd.org,269-968-2271,Calhoun Area Tech,hv.calh.cdxsite.com,http://calh.cdxsite.com/,34CD35,CDX Diesel Online Course Series
+,,,,,,,3274C8,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,28BCC8,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,382FCB,CDX Diesel: Steering and Suspension 
+,,,,,,,3FE732,CDX Diesel: Brakes
+,,,,,,,9EA8DF,CDX Diesel: HVAC
+,,,,,,,DDDA8B,CDX Diesel: Engines
+,,,,,,,B235D6,CDX Diesel: Drive Trains
+,,,,,,,4E9278,CDX Diesel: Hydraulics
+Frank,Quinn,frank.quinn@west-mec.org,602-525-2839,West-Mec,hv.westmec,http://westmec.cdxsite.com/,F833DC,CDX Diesel Online Course Series
+,,,,,,,A22636,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,8A9633,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,B623B8,CDX Diesel: Steering and Suspension 
+,,,,,,,D26B3F,CDX Diesel: Brakes
+,,,,,,,2997D3,CDX Diesel: HVAC
+,,,,,,,62853B,CDX Diesel: Engines
+,,,,,,,93B299,CDX Diesel: Drive Trains
+,,,,,,,3BAECF,CDX Diesel: Hydraulics
+Brad,Jones,brjones@richlandone.org,803-735-3352,Heyward Career Tech,hv.heyward,http://heyward.cdxsite.com/,7588FC,CDX Diesel Online Course Series
+,,,,,,,2F537A,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,234F2E,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,6E3352,CDX Diesel: Steering and Suspension 
+,,,,,,,349722,CDX Diesel: Brakes
+,,,,,,,78B352,CDX Diesel: HVAC
+,,,,,,,2535F4,CDX Diesel: Engines
+,,,,,,,5FDC3D,CDX Diesel: Drive Trains
+,,,,,,,7328C3,CDX Diesel: Hydraulics
+Joseph,Koposko,jkoposko@fayettevo-tech.org,724-437-2721,Fayette County Area Vocational Technical School,hv.fayette.cdxsite.com,http://fayette.cdxsite.com,CC35D8,CDX Diesel Online Course Series
+,,,,,,,34B76D,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,23BFEB,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,E6A5C8,CDX Diesel: Steering and Suspension 
+,,,,,,,523927,CDX Diesel: Brakes
+,,,,,,,8EB63B,CDX Diesel: HVAC
+,,,,,,,8379BA,CDX Diesel: Engines
+,,,,,,,25EEC2,CDX Diesel: Drive Trains
+,,,,,,,2982A3,CDX Diesel: Hydraulics
+Arnie,Tasto,atasto@sctcc.edu,320-308-5915,St Cloud Tech,hv.stcloud,http://stcloud.cdxsite.com/,E24F2E,CDX Diesel Online Course Series
+,,,,,,,F46385,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,A73F23,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,42D5E3,CDX Diesel: Steering and Suspension 
+,,,,,,,684F36,CDX Diesel: Brakes
+,,,,,,,37532,CDX Diesel: HVAC
+,,,,,,,594ABE,CDX Diesel: Engines
+,,,,,,,F67E7A,CDX Diesel: Drive Trains
+,,,,,,,46B993,CDX Diesel: Hydraulics
+Tracey,Cornwell,tcornwell@kcs.kana.k12.wv.us,,Ben Franklin Vocational,hv.bfvc,http://bfvc.cdxsite.com/,43483,CDX Diesel Online Course Series
+,,,,,,,ABCBC8,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,8D3A23,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,9E4E38,CDX Diesel: Brakes
+,,,,,,,327ADC,CDX Diesel: HVAC
+,,,,,,,FD9E32,CDX Diesel: Engines
+,,,,,,,6DA8BE,CDX Diesel: Drive Trains
+,,,,,,,C894FA,CDX Diesel: Hydraulics
+Kevin,Heimbach,kevin.heimbach@berkscareer.com,,Berks Career Tech,hv.berks,http://berks.cdxsite.com/,9327AC,CDX Diesel Online Course Series
+,,,,,,,625869,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,BBE5BD,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,FC2527,CDX Diesel: Steering and Suspension 
+,,,,,,,533242,CDX Diesel: Brakes
+,,,,,,,BE92C2,CDX Diesel: HVAC
+,,,,,,,D926F8,CDX Diesel: Engines
+,,,,,,,88D2F2,CDX Diesel: Drive Trains
+,,,,,,,3B9472,CDX Diesel: Hydraulics
+Tim,Anderson,anderstd@ips.k12.in.us,,Career Tech Arsenal,,,7968D7,CDX Diesel Online Course Series
+,,,,,,,243253,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,83FA4F,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,379FBC,CDX Diesel: Brakes
+,,,,,,,67D7CA,CDX Diesel: HVAC
+,,,,,,,B2BBBC,CDX Diesel: Engines
+,,,,,,,6F439A,CDX Diesel: Drive Trains
+,,,,,,,F37AAB,CDX Diesel: Hydraulics
+Brian,Bair,bbair@central9.k12.in.us,317-888-4401,Central Nine Career Center,hv.cncc.cdxsite.com,http://cncc.cdxsite.com,A397FE,CDX Diesel Online Course Series
+,,,,,,,233C2F,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2A8526,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,B375FA,CDX Diesel: Steering and Suspension 
+,,,,,,,6269EA,CDX Diesel: Brakes
+,,,,,,,E8A78C,CDX Diesel: HVAC
+,,,,,,,346368,CDX Diesel: Engines
+,,,,,,,64C572,CDX Diesel: Drive Trains
+,,,,,,,FAF23A,CDX Diesel: Hydraulics
+john,fike,jfike@cpi.edu,814-359-2599,Central PA Institute,hv.centralpa,http://centralpa.cdxsite.com/,625AAC,CDX Diesel Online Course Series
+,,,,,,,A295F4,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,FBDBCC,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,C2B3BF,CDX Diesel: Steering and Suspension 
+,,,,,,,2673EA,CDX Diesel: Brakes
+,,,,,,,2757F7,CDX Diesel: HVAC
+,,,,,,,389AED,CDX Diesel: Engines
+,,,,,,,BEB9D7,CDX Diesel: Drive Trains
+,,,,,,,F2F5BC,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Hydraulics
+Phillip,Baus,Phillip.Baus@evergreenps.org,,"Clark County Skills
+",,,25B6A3,CDX Diesel Online Course Series
+,,,,,,,B52EF6,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,233443,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,3254A6,CDX Diesel: Steering and Suspension 
+,,,,,,,C6F45F,CDX Diesel: Brakes
+,,,,,,,46C5C8,CDX Diesel: HVAC
+,,,,,,,EF458F,CDX Diesel: Engines
+,,,,,,,34F262,CDX Diesel: Drive Trains
+,,,,,,,D3634C,CDX Diesel: Hydraulics
+,,,,,,,,MLR
+kent,norfleet,knorfleet@mexico.k12.mo.us,,Hart Career Tech,hv.hart,http://hart.cdxsite.com/,93C8ED,CDX Diesel Online Course Series
+,,,,,,,C64CA6,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,982462,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,C279AB,CDX Diesel: Steering and Suspension 
+,,,,,,,EC4AC4,CDX Diesel: Brakes
+,,,,,,,F9C3FF,CDX Diesel: HVAC
+,,,,,,,4B85E5,CDX Diesel: Engines
+,,,,,,,FD226F,CDX Diesel: Drive Trains
+,,,,,,,6652DE,CDX Diesel: Hydraulics
+David,Stone,davidestone@hptc.net,,High Plains Institute of Technology,,http://hipt.cdxsite.com,68898,CDX Diesel Online Course Series
+,,,,,,,A422FA,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,5CF262,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2B2A3A,CDX Diesel: Steering and Suspension 
+,,,,,,,E368FC,CDX Diesel: Brakes
+,,,,,,,9F5AE3,CDX Diesel: HVAC
+,,,,,,,EEDB76,CDX Diesel: Engines
+,,,,,,,D383FB,CDX Diesel: Drive Trains
+,,,,,,,342B5C,CDX Diesel: Hydraulics
+Kevin,Price,kwprice@access.k12.wv.us,,James Rumsey Tech,rumsey,http://rumsey.cdxsite.com/,5D85CB,CDX Diesel Online Course Series
+,,,,,,,B35E6A,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,6A6AAC,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,34C325,CDX Diesel: Brakes
+,,,,,,,43C74A,CDX Diesel: Steering and Suspension 
+,,,,,,,8E7B4B,CDX Diesel: HVAC
+,,,,,,,EA829D,CDX Diesel: Engines
+,,,,,,,D225E4,CDX Diesel: Drive Trains
+,,,,,,,2BC92F,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,CDX: Hydraulics
+,,,,,,,,LV 2014
+Larry,VanWhy,lvanwhy@lccc.wy.edu,307-778-1252,Laramie County Community College,lccc.cdxsite.com,http://lccc.cdxsite.com,835E63,CDX Diesel: Steering and Suspension 
+,,,,,,,33BAEF,CDX Diesel Online Course Series
+,,,,,,,57378D,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2857A5,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,75A2C9,CDX Diesel: Steering and Suspension 
+,,,,,,,2F4598,CDX Diesel: Brakes
+,,,,,,,CA29ED,CDX Diesel: HVAC
+,,,,,,,39632D,CDX Diesel: Engines
+,,,,,,,E3FF2D,CDX Diesel: Drive Trains
+,,,,,,,3E2F64,CDX Diesel: Hydraulics
+Joel,Ambrioso,joelea@leeschools.net,239-334-4544,Fort Myers Institute of Technology,hv.ftmyers,http://ftmyers.cdxsite.com/,82DDC3,CDX Diesel Online Course Series
+,,,,,,,372A52,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,E6824F,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,877325,CDX Diesel: Steering and Suspension 
+,,,,,,,424C3C,CDX Diesel: Brakes
+,,,,,,,A638D2,CDX Diesel: HVAC
+,,,,,,,9E2BD6,CDX Diesel: Engines
+,,,,,,,F985F6,CDX Diesel: Drive Trains
+,,,,,,,6EBB32,CDX Diesel: Hydraulics
+,,,,,,,,LV 2014
+Dave,Millikan,brandon.millikan@netech.edu,,Northeast Tech Afton,,,B2FFC4,CDX Diesel Online Course Series
+,,,,,,,662CD3,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,2B748D,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,75BD25,CDX Diesel: Steering and Suspension 
+,,,,,,,F6263C,CDX Diesel: Brakes
+,,,,,,,9D2843,CDX Diesel: HVAC
+,,,,,,,65F9B7,CDX Diesel: Engines
+,,,,,,,A8E27E,CDX Diesel: Drive Trains
+,,,,,,,773B99,CDX Diesel: Hydraulics
+Trent,Peper,trent.peper@netech.edu,,Northeast Tech Pryor,hv.pryor,http://pryor.cdxsite.com/,233C3F,CDX Diesel Online Course Series
+,,,,,,,7592F6,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,3F53B9,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,98E699,CDX Diesel: Steering and Suspension 
+,,,,,,,DA2235,CDX Diesel: Brakes
+,,,,,,,227EB5,CDX Diesel: HVAC
+,,,,,,,62A537,CDX Diesel: Engines
+,,,,,,,83237A,CDX Diesel: Drive Trains
+,,,,,,,A25293,CDX Diesel: Hydraulics
+Claude,Townsend,claude.townsend@oakland.k12.mi.us,248-668-5644,Oakland Schools Technical Campus - NE Pontiac : Oakland Schools Technical Campus - SW Walled Lake,oaks,http://oaks.cdxsite.com/,7D57E9,CDX Diesel Online Course Series
+,,,,,,,A94427,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,28CE37,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,77932A,CDX Diesel: Steering and Suspension 
+,,,,,,,C9F96A,CDX Diesel: Brakes
+,,,,,,,2B27A6,CDX Diesel: HVAC
+,,,,,,,3E72D3,CDX Diesel: Engines
+,,,,,,,AA234A,CDX Diesel: Drive Trains
+,,,,,,,3F8A52,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,CDX: Hydraulics
+Manuel,Moya,moyam@palmbeachstate.edu,561-914-0916,Palm Beach Belle Glade,,,56DD33,CDX Diesel Online Course Series
+,,,,,,,AC2524,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,8ADB22,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,9239C7,CDX Diesel: Steering and Suspension 
+,,,,,,,23832C,CDX Diesel: Brakes
+,,,,,,,BB6DF3,CDX Diesel: HVAC
+,,,,,,,7D7DD4,CDX Diesel: Engines
+,,,,,,,B9D233,CDX Diesel: Drive Trains
+,,,,,,,DDAD93,CDX Diesel: Hydraulics
+Robbie,Lindhorst,robbie.lindhorst@sic.edu,,SIC Harrisburg,hv.sich,http://sich.cdxsite.com/,84249C,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,B9A522,CDX Diesel Online Course Series
+,,,,,,,9EE794,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,F2D5B2,CDX Diesel: Steering and Suspension 
+,,,,,,,2B3376,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,9AC297,CDX Diesel: HVAC
+,,,,,,,AB6459,CDX Diesel: Engines
+,,,,,,,ECD52E,CDX Diesel: Drive Trains
+,,,,,,,347224,CDX Diesel: Hydraulics
+Ronnie,Daniels,ronnie.daniels@kctcs.edu,,Southeast KY Community College - Harlan Campus,kycc.cdxsite.com,http://kycc.cdxsite.com/,6F2576,CDX Diesel Online Course Series
+,,,,,,,22AFD7,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,259645,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,297872,CDX Diesel: Steering and Suspension 
+,,,,,,,8224B6,CDX Diesel: Brakes
+,,,,,,,48AFA8,CDX Diesel: HVAC
+,,,,,,,2E3758,CDX Diesel: Engines
+,,,,,,,9C5E33,CDX Diesel: Drive Trains
+,,,,,,,FC4EDF,CDX Diesel: Hydraulics
+,,,,,,,4522B5,CDX: Light Vehicle
+Jeff,McCathern,jmccathern@sotc.org,580-223-2070,Southern Oklahoma Technology Center,,http://sotc.cdxsite.com/,9732D6,CDX Diesel Online Course Series
+,,,,,,,FD82B3,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,848D39,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,CE6B5E,CDX Diesel: Steering and Suspension 
+,,,,,,,27BD24,CDX Diesel: Brakes
+,,,,,,,224267,CDX Diesel: HVAC
+,,,,,,,2E6662,CDX Diesel: Engines
+,,,,,,,DFBD37,CDX Diesel: Drive Trains
+,,,,,,,F396E3,CDX Diesel: Hydraulics
+Barry,Tompkins,barry.tompkins@ttcmemphis.edu,,TTC Memphis,hv.tenm,http://tenm.cdxsite.com/,C34E26,CDX Diesel Online Course Series
+,,,,,,,9B42CB,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,D2E9D3,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,5A434F,CDX Diesel: Steering and Suspension 
+,,,,,,,235B5F,CDX Diesel: Brakes
+,,,,,,,D23876,CDX Diesel: HVAC
+,,,,,,,BF6322,CDX Diesel: Engines
+,,,,,,,5ACD97,CDX Diesel: Drive Trains
+,,,,,,,7622A5,CDX Diesel: Hydraulics
+Dennis,Massingham,afdmm1@uaa.alaska.edu,907-786-1460,University of Alaska - Anchorage,hv.uoaa,http://uoaa.cdxsite.com/,8E53BE,CDX Diesel Online Course Series
+,,,,,,,9EC8B2,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,3A74A2,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,257E4D,CDX Diesel: Steering and Suspension 
+,,,,,,,3827F5,CDX Diesel: Brakes
+,,,,,,,B7F8B5,CDX Diesel: HVAC
+,,,,,,,26EC92,CDX Diesel: Engines
+,,,,,,,B495DC,CDX Diesel: Drive Trains
+,,,,,,,DA3237,CDX Diesel: Hydraulics
+Levi,Jones,ljones@westtech.edu,,Western Technology Center,hv.wetc,http://wetc.cdxsite.com/,43CF54,CDX Diesel Online Course Series
+,,,,,,,C3D32C,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,6A352B,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,265BDE,CDX Diesel: Steering and Suspension 
+,,,,,,,5ADF3F,CDX Diesel: Brakes
+,,,,,,,385A5F,CDX Diesel: HVAC
+,,,,,,,59827E,CDX Diesel: Engines
+,,,,,,,7BA5F3,CDX Diesel: Drive Trains
+,,,,,,,CD2ABE,CDX Diesel: Hydraulics
+Clacey,Lambert,claceylambert@hotmail.com,,Wyoming County Career,hv.wyocounty,http://wyocounty.cdxsite.com/,D79B88,CDX Diesel Online Course Series
+,,,,,,,3A8DD3,CDX Diesel: Electrical and Electronic Systems
+,,,,,,,2B79B7,CDX Diesel: Steering and Suspension 
+,,,,,,,FE3D78,CDX Diesel: Brakes
+,,,,,,,BAB8BA,CDX Diesel: HVAC
+,,,,,,,3DA6E2,CDX Diesel: Engines
+,,,,,,,D43A47,CDX Diesel: Drive Trains
+,,,,,,,595362,CDX Diesel: Hydraulics
+Patrick,Wallet,pwallet@gjctc.org,814-266-6073,Greater Johnstown Career Tech,hv.steel,http://gjct.cdxsite.com,3A632E,CDX Diesel Online Course Series
+,,,,,,,4D3DD3,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,933349,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,8D8265,CDX Diesel: Steering and Suspension 
+,,,,,,,223E77,CDX Diesel: Brakes
+,,,,,,,A9587B,CDX Diesel: HVAC
+,,,,,,,,
+,,,,,,,E5F3FE,CDX Diesel: Engines
+,,,,,,,8E3B5F,CDX Diesel: Drive Trains
+,,,,,,,99EDDE,CDX Diesel: Hydraulics
+Billy,Phillips,blphillips@johnstoncc.edu,919-464-2334,Johnston Community College,johnston,http://johnston.cdxsite.com/,44BB88,CDX Diesel Online Course Series
+,,,,,,,263433,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,26AFF7,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,488393,CDX Diesel: Steering and Suspension 
+,,,,,,,3F3F55,CDX Diesel: Brakes
+,,,,,,,D628EC,CDX Diesel: HVAC
+,,,,,,,C3FFC4,CDX Diesel: Engines
+,,,,,,,832353,CDX Diesel: Drive Trains
+,,,,,,,D7457C,CDX Diesel: Hydraulics
+Jim,McEwen,jim@uawletc.com,801-416-4424,Job Corps Clearfield UAW,hv.clfd,http://clfd.cdxsite.com/,583E36,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,C8F3B3,CDX Diesel Online Course Series
+,,,,,,,96C244,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,C6C233,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,C36FD2,CDX Diesel: Steering and Suspension 
+,,,,,,,B2D28B,CDX Diesel: Brakes
+,,,,,,,7544D2,CDX Diesel: HVAC
+,,,,,,,F524BA,CDX Diesel: Engines
+,,,,,,,463CA5,CDX Diesel: Drive Trains
+,,,,,,,AD63D8,CDX Diesel: Hydraulics
+Doug,Turk,dturk@scavts.net,412-469-3200,Steel Area Vocational,scav.cdxsite.com,http://scav.cdxsite.com,6E7B32,CDX Diesel Online Course Series
+,,,,,,,5B9384,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,F8F4B4,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,2D3FD2,CDX Diesel: Steering and Suspension 
+,,,,,,,A2DDD3,CDX Diesel: Brakes
+,,,,,,,497D92,CDX Diesel: HVAC
+,,,,,,,253262,CDX Diesel: Engines
+,,,,,,,BC7D34,CDX Diesel: Drive Trains
+,,,,,,,8B362F,CDX Diesel: Hydraulics
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,MLR
+Butch,Warner,butchwarner@hibbing.edu,218-262-7200,Hibbing Community College,hv.hibbing,http://hibbing.cdxsite.com/,3C5DF3,CDX Diesel Online Course Series
+,,,,,,,3BAC73,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2837AA,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,AE2E2C,CDX Diesel: Steering and Suspension 
+,,,,,,,3E999B,CDX Diesel: Brakes
+,,,,,,,CB32C7,CDX Diesel: HVAC
+,,,,,,,CA66F7,CDX Diesel: Engines
+,,,,,,,742ED3,CDX Diesel: Drive Trains
+,,,,,,,E2D5DD,CDX Diesel: Hydraulics
+James,Mitchell,james.mitchell@sdhc.k12.fl.us,813-744-8360,Tampa Bay Tech,hv.htbt,http://htbt.cdxsite.com/,B74793,CDX Diesel Online Course Series
+,,,,,,,3758AA,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,239F58,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,59CE54,CDX Diesel: Brakes
+,,,,,,,3D2423,CDX Diesel: Steering and Suspension 
+,,,,,,,FAF236,CDX Diesel: HVAC
+,,,,,,,996997,CDX Diesel: Hydraulics
+,,,,,,,8327A2,CDX Diesel: Engines
+,,,,,,,2EA499,CDX Diesel: Drive Trains
+Ian,Andrew,iana@cdxglobal.com,978-760-2914,CDX Demo course,http://proto.cdxsite.com,http://proto.cdxsite.com,3C53E6,CDX Diesel: Hydraulics
+,,,,,,,362BE6,CDX: Light Vehicle
+Kirk,VanGelder,kirk.vangelder@cdxglobal.com,360-903-4976,Kirk Fleet Demo,,,ABDD8A,CDX: Fleet
+Jim,Szautner,jim.szautner@sait.ca,,Southern Alberta Institute,,,237478,CDX Diesel Online Course Series
+,,,,,,,3D2B42,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,2EF73D,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,4EDB82,CDX Diesel: Steering and Suspension 
+,,,,,,,395C8D,CDX Diesel: Brakes
+,,,,,,,C6578E,CDX Diesel: HVAC
+,,,,,,,58F4D5,CDX Diesel: Engines
+,,,,,,,4778E9,CDX Diesel: Drive Trains
+FMwash,Teacher,fmwash@cdxsite.com,123-123-1234,Washington County,fmwash,http://fmwash.cdxsite.com/,C783B3,CDX: Fleet
+FMwena,Teacher,fmwena@cdxsite.com,123-123-1234,Washington County,fmwash,http://fmwash.cdxsite.com/,CB86FC,CDX: Fleet
+FMchel,Teacher,fmchel@cdxsite.com,123-123-1234,Chelan County Public Works ,fmchel,http://fmchel.cdxsite.com,FFCF3D,CDX: Fleet
+FMlane,Teacher,fmlane@cdxsite.com,123-123-1234,Lane County Fleet Services,fmlane,http://fmlane.cdxsite.com,B58E63,CDX: Fleet
+,,,,,,,,LV 2014
+FMport,Teacher,fmport@cdxsite.com,123-123-1234,City of Portland - Fleet Services,fmport,http://fmport.cdxsite.com,328233,CDX: Fleet
+Douglas,Hanson,dhanson@northeast.tec.ma.us,,Northeast Metro Regional Vocational School,nemetro,http://nemetro.cdxsite.com/,,CDX: Light Vehicle
+Fred,Brown,fred.brown@aims.edu,970-330-8008,Aims Community College,aatc,http://aatc.cdxsite.com/,4A39A7,CDX: Light Vehicle
+John,Reinwald,jreinwald@windsorct.org,(860) 687-2020,Windsor High School,wihs,http://wihs.cdxsite.com/,,CDX: Light Vehicle
+Greg,Atencio,geatencio@aps.k12.co.us,(303) 344-4910,TH Pickens Technical Center,thpt,http://thpt.cdxsite.com/,,CDX: Light Vehicle
+Ed,Luther,eluther@questar.org,(518) 828-4159,Questar III Columbia-Greene Education Center,qcge,http://qcge.cdxsite.com/,,CDX: Light Vehicle
+Tim,Longacre,longacret@wctech.org,(908) 835-2848,Warren County Technical School,wctech,http://wctech.cdxsite.com/,,CDX: Light Vehicle
+Avery,Turley,ave290turley@yahoo.com,"(865) 828-5291
+(865) 828-5291
+(865) 828-5291
+(865) 828-5291",Grainger High School,grainger,http://grainger.cdxsite.com/,,CDX: Light Vehicle
+Vince,DeSalvatore,desalvatore.vince@jobcorps.org,(518) 767-2437,Jobs Corps Center - Glenmont,jccg,http://jccg.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Jim,Cimino,jim.cimino@elklakeschool.org,(570) 278-9229,Susquehanna County Career and Technology Center,susquehanna,http://scctc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Kevin,Brewer,kbrewer@sbcsc.k12.in.us,(574) 243-7027,Clay High School,clay,http://clay.cdxsite.com/,,CDX: Light Vehicle
+Michael,Bowles,mbowles@rps.k12.ar.us,(479) 631-3579,Arkansas: Rogers Heritage High School,rhhs,http://rhhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Bill,McReynolds,bill.mcreynolds@cps.k12.ar.us,(501) 843-3562,Arkansas: Cabot High School,cabo,http://cabo.cdxsite.com/,,CDX: Light Vehicle
+Matt,Holcomb,mholcomb@wcmail.k12.ar.us,(870) 879-2361,Arkansas: Watson Chapel Senior High School,wchs,http://wchs.cdxsite.com/,,CDX: Light Vehicle
+Devron,Dever,ddever@npcc.edu,(501) 760-4333,Arkansas: National Park Community College,npcc,http://npcc.cdxsite.com/,,CDX: Light Vehicle
+John,Bratton,jbratton@otcweb.edu,(501) 332-0261,Arkansas: Ouachita Area High School Career Center,oahs,http://oahs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Ricky,Purifoy,rpurifoy@sautech.edu,(870) 574-4428,Arkansas: Southern Arkansas University Career Academy,sauc,http://sauc.cdxsite.com/,,CDX: Light Vehicle
+Bennie,Byrd,bbyrd21ll@centurytel.net,(479) 880-2010,Arkansas: Area Career and Technical Center,actc,http://actc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Mary Jane,Dove,mjdove@pulaskitech.edu,(501) 602-2420,Arkansas: Pulaski Technical College - Saline County Career Center,ptcs,http://ptcs.cdxsite.com/,,CDX: Light Vehicle
+Victor,Eackles,victor.eackles@lrsc.org,(501) 565 8465,Arkansas: Metropolitan Career & Technical Center,mctc,http://mctc.cdxsite.com/,,CDX: Light Vehicle
+Karsten,Tidwell,ktidwell@southark.edu,(800) 955-2289,Arkansas: South Arkansas Career Center,sacc,http://sacc.cdxsite.com/,,CDX: Light Vehicle
+Kurt,Moore,kmoore@hhs.nwsc.k12.ar.us,(479) 738-2500,Arkansas: Huntsville High School-AR,hhsa,http://hhsa.cdxsite.com/,,CDX: Light Vehicle
+Shawn,Poindexter,chopzuk@yahoo.com,(501) 982-2128,Arkansas: Jacksonville High School - AR,jhsa,http://jhsa.cdxsite.com/,,CDX: Light Vehicle
+Mark,Kutak,mkutak@cccua.edu,(870) 584-4471,Arkansas: Cossatot Community College DeQueen,coss,http://coss.cdxsite.com/,,CDX: Light Vehicle
+Mark,Lennon,mlennon@uafortsmith.edu,(479) 788-7702,Arkansas: Western Arkansas Technical Center,wtec,http://wtec.cdxsite.com/,,CDX: Light Vehicle
+Scott,Plumlee,splumlee@nwti.edu,(479) 751-8824,Arkansas: Northwest Technical Institute,nwti,http://nwti.cdxsite.com/,,CDX: Light Vehicle
+Frank,Wrinkle,frankw@scsd.info,(870) 447-6111,Arkansas: North Central Vocational Center,ncvc,http://ncvc.cdxsite.com/,,CDX: Light Vehicle
+Napoleon,Hilson,hilsonn@yahoo.com,(870) 543-4301,Arkansas: Pine Bluff High School,pbhs,http://pbhs.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Parker,kparker@northark.edu,,Arkansas: North Arkansas College,nark,http://nark.cdxsite.com/,,CDX: Light Vehicle
+Keith,Brigance,brigance.keith@waldronsd.org,(479) 637-3405,Arkansas: Waldron High School,wald,http://wald.cdxsite.com/,,CDX: Light Vehicle
+Ed,Gorman,egorman@dumas.k12.ar.us,(870) 382-4151,Dumas New Tech High School,duma,http://duma.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Robert,Kean,rdkean@midsouthcc.edu,,Arkansas: Mid-South Community College,mscc,http://mscc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,F93223,CDX Diesel Online Course Series
+Wayne,Thomas,Wayne.Thomas@arkansas.gov,(501) 701-6274,Arkansas: Arkansas Career Training Institute,acti,http://acti.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Allen,Allison,aallison@ark.edu,(870) 780-1209,Arkansas: Arkansas Northeastern College,arnc,http://arnc.cdxsite.com/,,CDX: Light Vehicle
+Bobby,Sewell,bsewell@atu.edu,(479) 667-2117,Arkansas: Arkansas Tech University - Ozark Campus,atuo,http://atuo.cdxsite.com/,,CDX: Light Vehicle
+Orival,McClure,omclure@wmsd.net,(870) 735-3660,Arkansas: West Memphis High School,wmph,http://wmph.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Bryan,Holliman,hollimanb@sccsd.k12.ar.us,(501) 354-9475,Arkansas: River Valley Technical Center,rvtc,http://rvtc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+David,Mills,dmills@monticello.k12.ar.us,,Arkansas: Monticello Occupational Education Center,moec,http://moec.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Lou,Wallman,lwallman@vbsd.k12.ar.us,(479) 474-4951,Arkansas: Van Buren High School Career Center,vanb,http://vanb.cdxsite.com/,,CDX: Light Vehicle
+Michael,McIntosh,mmcintosh@searcy.asub.edu,(501) 207-6224,Arkansas: Arkansas State University - Searcy,asus,http://asus.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Mathis,mathiske@conwayschools.net,(501) 450-4888,Arkansas: Conway Area Career Center,conw,http://conw.cdxsite.com/,,CDX: Light Vehicle
+Jim,Gore,jgore@cnm.edu,,Central New Mexico Community College,cnmcc,http://hv.cnm.cdxsite.com,24D26D,CDX Diesel Online Course Series
+,,,,,,,468F22,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,686234,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,FD2A4E,CDX Diesel: Brakes
+,,,,,,,B862C4,CDX Diesel: Steering and Suspension 
+,,,,,,,278F68,CDX Diesel: HVAC
+,,,,,,,863878,CDX Diesel: Engines
+,,,,,,,4CBC87,CDX Diesel: Drive Trains
+,,,,,,,34BBC4,CDX Diesel: Hydraulics
+Gary,Norden,gnorden@elgin.edu ,847-214-7236,Elgin Community College,elgi,http://elgi.cdxsite.com/,42AFEC,CDX: Light Vehicle
+Armondo,Escalante,armandoe@susd12.org,(520) 545-2000,PIMA: Sunnyside High School,sunn,http://sunn.cdxsite.com/,,CDX: Light Vehicle
+David,Damiani,d.j.damiani@maranausd.org,(520) 579-4400,PIMA: Mountain View High School,movi,http://movi.cdxsite.com/,,CDX: Light Vehicle
+Don,Zell,d.w.zell@maranausd.org,,PIMA: Marana High School,marh,http://marh.cdxsite.com/,,CDX: Light Vehicle
+Robert,Saul,robert.saul@tusd1.org,(520) 731-7673,PIMA: Santa Rita High School,rita,http://rita.cdxsite.com/,,CDX: Light Vehicle
+Bill,Yandell,William.Yandell@tusd.k12.az.us,(520) 232-5805,PIMA: Rincon High School,rinc,http://rinc.cdxsite.com/,,CDX: Light Vehicle
+David,McQuillen,david.mcquillen@tusd1.org,(520) 584-7646,PIMA: Palo Verde Magnet High School,pave,http://pave.cdxsite.com/,,CDX: Light Vehicle
+Jack,Ramsey,Robert.Ramsey@tusd1.org,(520) 731-7155,PIMA: Sahuaro High School,sauo,http://sauo.cdxsite.com/,,
+Jeremy,Tarbet,jtarbet@amphi.com,(520) 696-5670,PIMA: Canyon Del Oro High School,cdoh,http://cdoh.cdxsite.com/,,CDX: Light Vehicle
+Reginald,Brooks,rbrooks@iobusd40.org,(520) 383-6842,PIMA: Baboquivari High School,babo,http://babo.cdxsite.com/,,CDX: Light Vehicle
+Wes,Marsh,wes.marsh@tusd1.org,(520) 225-4300,PIMA: Pueblo High School,pueb,http://pueb.cdxsite.com/,,CDX: Light Vehicle
+Kimberly,Bailey,kimberly.bailey@tusd1.org,(520) 225-5244,PIMA: Tucson High Magnet School,tusc,http://tusc.cdxsite.com/,,CDX: Light Vehicle
+Jerry,Gage,jgage@tabletoptelephone.com,,Ajo High School,ajoh,http://ajoh.cdxsite.com/,,CDX: Light Vehicle
+Rick,Lopez,rlopez@santacruz.k12.az.us,,PIMA: Rio Rico High School,rico,http://rico.cdxsite.com/,,CDX: Light Vehicle
+Jeffery,Peterson,Jeffery.Peterson@tusd1.org,(520)225-4151,PIMA: Cholla Magnet High School,chol,http://chol.cdxsite.com/,,CDX: Light Vehicle
+Bryce,Bond,bbond@sahuarita.net,(520) 625-3502,PIMA: Sahuarita High School,sahu,http://sahu.cdxsite.com/,,CDX: Light Vehicle
+Larry,Sarver,lsarver@acadiana.edu,337-788-7521,Acadiana Technical College,acadiana,http://acadiana.cdxsite.com,,CDX: Light Vehicle
+Andrew,Blair,blaira@branch-isd.org,(517) 279-5704,Branch Area Careers Center,bacc,http://bacc.cdxsite.com/,,CDX: Light Vehicle
+Richard,Curry,curry@parkwaywest.org,(412) 923-1772,Parkway West Career and Technology Center,parkway,http://parkway.cdxsite.com,,CDX: Light Vehicle
+Charles,Gibson,charles.gibson@pgcps.org,301-372-0140,Gwynn Park High School,gwynn,http://gwynn.cdxsite.com,,CDX: Light Vehicle
+Glenn,Sorber,glenn.sorber@pgcps.org,301-497-2079,Laurel High School,laurel,http://laurel.cdxsite.com,,CDX: Light Vehicle
+Dennis,Asselin,dasselin@valleytech.k12.ma.us,508-529-7758,Blackstone Valley Regional VTHS,bvrv,http://bvrv.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+David,Wright,dwright@wtc.tec.ok.us,580-562-3181,Western Technology Center,wetc,http://wetc.cdxsite.com/,,
+Kevin,Johnson,kevin.johnson@anoka.k12.mn.us ,763-506-6500,Blaine Senior High School,blaine,http://blaine.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Pat,Cochrane,pat.cochrane@anoka.k12.mn.us,763-506-7135,Coon Rapids High School,rapids,http://rapids.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Carter,Gerlach,carter.gerlach@anoka.k12.mn.us,763-506-6845,Champlin Park High School,cham,http://cham.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,
+,,,,,,,,MLR 2014
+Frank,Kratchovill,frank.kratochvill@anoka.k12.mn.us,763-506-8400,Andover High School,andover,http://andover.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Bernie,Volesky,bernie.volesky@anoka.k12.mn.us,763-506-6200,Anoka High School,anoka,http://anoka.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Abraham,Arispe,aarispe@tcc.edu,(757) 822-1110,Tidewater Community College,tidewater,http://tidewater.cdxsite.com,B52242,CDX Diesel: Classroom Package
+,,,,,,,7572CA,CDX Diesel: Preventive Maintenance & Inspection
+Peter,Schwartzott,pschwartzott@swboces.org,914-761-3400,Southern Westchester BOCES,swboces,http://swboces.cdxsite.com,,CDX: Light Vehicle
+Tom,Searle,tsearl@hononegah.org,815-624-2070,Hononegah High School,hqhs,http://hqhs.cdxsite.com/,,CDX: Light Vehicle
+Richard,Lewis,richard.lewis@texarkanacollege.edu,903-733-3752,Texarkana College,texarkana,http://texarkana.cdxsite.com,3BC5E3,CDX: Light Vehicle
+Bruce,Britton,brittonb@michigan.gov,269-664-9262,Michigan Career & Technical Institute,mcti,http://mcti.cdxsite.com/,,CDX: Light Vehicle
+Mike,Morgan,mmorgan@acsc.net,765-641-2121,Ebbertt Education Center,ebbe,http://ebbe.cdxsite.com/,,CDX: Light Vehicle
+Matt,Rossow,rossowm@macomb.edu,586-445-7010,Macomb Community College,macc,http://macc.cdxsite.com/,65D53A,CDX: Light Vehicle
+Jesse,Mitchell,JMitchell2@starkstate.edu ,330-323-0489,Stark State College of Technology,stark,http://stark.cdxsite.com/,EB255F,CDX: Light Vehicle
+Everett,Sutphin,everett.sutphin@lcps.org,703-771-6560,Monroe Technology Center,vcsm,http://vcsm.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Joe,Ferebee,jferebee@ahs.accomack.k12.va.us,757-824-6386,Accomack County Public Schools : The Badger Technical Center North,vbnt,http://vbnt.cdxsite.com/,,CDX: Light Vehicle
+Less,Steger,Lless.Steger@fcps.edu,703-219-8589,Fairfax County Public Schools : Fairfax High School,vfac,http://vfac.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Ronnie,Goad,goadr@floyd.k12.va.us,540-745-9450,Floyd County High School,vflo,http://vflo.cdxsite.com/,,CDX: Light Vehicle
+Jason,Moyers,vrrcsupervisor@cdxplus.com,804-246-5741,Rowanty Technical Center,vrrc,http://vrrc.cdxsite.com/,,CDX: Light Vehicle
+James,King,kingj@frederick.k12.va.us,540-662-8997,Frederick County Public Schools : Dowell J Howard Center,vdjh,http://vdjh.cdxsite.com/,,CDX: Light Vehicle
+Toby,Calloway,calloway@gc.k12.va.us,804-693-7173,Gloucester High School,vglo,http://vglo.cdxsite.com/,,CDX: Light Vehicle
+Scott,Freeman,sfreeman@fcps1.org,540-347-6100,Fauquier High School,vfau,http://vfau.cdxsite.com/,,CDX: Light Vehicle
+John,Smith,john.smith@wythek12.org,276-228-5481,Wythe County Technology Center,vwcc,http://vwcc.cdxsite.com/,,CDX: Light Vehicle
+James,Parnell,jparnell@tazewell.k12.va.us,276-988-2529,Tazewell County Public Schools : Tazewell County Career and Technical Center,vtcc,http://vtcc.cdxsite.com/,,CDX: Light Vehicle
+Joe,Pattarozzi,pattarnj@pwcs.edu,(703) 365-6571,Osbourn Park High School,vosp,http://vosp.cdxsite.com/,,CDX: Light Vehicle
+Jeffrey,Heinbaugh,jeff.heinbaugh@frco.k12.va.us,540-483-0221,Franklin County High School - VA,vfra,http://vfra.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Moyers,dmoyers@rockingham.k12.va.us,540-434-5961,Massanutten Tech Center,vmat,http://vmat.cdxsite.com/,,CDX: Light Vehicle
+Michael,Blondin,Michael.Blondin@fcps.edu,703-207-4056,Fairfax County Public Schools : Falls Church High School,vfch,http://vfch.cdxsite.com/,,CDX: Light Vehicle
+John,Bogan,JSBogan@fcps.edu,703-924-8111,Fairfax County Public Schools : Edison Academy,veda,http://veda.cdxsite.com/,,CDX: Light Vehicle
+Robbie,Robinson,rrobinson@hcps.us,804-467-6359,Hanover Center for Trades and Technology,vhct,http://vhct.cdxsite.com/,,CDX: Light Vehicle
+Joe,DeSio,joe.desio@fcps.edu,(703) 642-4213,Fairfax County Public Schools : Annandale High School,anhs,http://anhs.cdxsite.com/,,CDX: Light Vehicle
+Wally,Hunt,whunt@scs.k12.va.us,540-898-2655 ext 206,Spotsylvania Career & Technical Center,vsct,http://vsct.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Young,dyoung@nhrec.org,757-766-1100 ext 346,New Horizons - Butler Farm,vnbf,http://vnbf.cdxsite.com/,,CDX: Light Vehicle
+David,Cardwell,cardwelldm@lcsedu.net,434-522-3712,EC Glass High School,vecg,http://vecg.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Erik,Falk,ejfalk@fcps.edu,703-714-5530,Fairfax County Public Schools : Marshall High School Academy,vmaa,http://vmaa.cdxsite.com/,,CDX: Light Vehicle
+Wayne,McKnight,gwmcknig@ccpsd.k12.va.us,(276) 728-2125,Carroll County High School,vcch,http://vcch.cdxsite.com/,,CDX: Light Vehicle
+Frank,Gailliot,Frank.Gailliot@fcps.edu  ,(703) 426-2176,Fairfax County Public Schools : Robinson Secondary School,vros,http://vros.cdxsite.com/,,CDX: Light Vehicle
+Frank,Cannon,frank.cannon@fcps.edu,(703) 446-1600,Fairfax County Public Schools : South County Secondary School,vscs,http://vscs.cdxsite.com/,,CDX: Light Vehicle
+Doug,Haga,doughaga@scsb.org,(276) 646-8117,Smyth County Career and Tech Center,vsmt,http://vsmt.cdxsite.com/,,CDX: Light Vehicle
+Joe,Henderson,joseph_henderson@ccpsnet.net,(804) 723-3700,Chesterfield Technical Center,vctc,http://vctc.cdxsite.com/,,CDX: Light Vehicle
+Bruce,Wade,wadeb@valleytech.us,(540) 245-5002,Valley Vocational Technical Center,vvvc,http://vvvc.cdxsite.com/,,CDX: Light Vehicle
+Paul,Johnson,pljohnson@k12albemarle.org,(434) 973-4462,Charlottesville Albemarle Tech Education Centre,vcat,http://vcat.cdxsite.com/,,CDX: Light Vehicle
+Larry,Ambrose,llambrose@shenandoah.k12.va.us,(540) 477-3161,Triplett Technical Institute,vtbi,http://vtbi.cdxsite.com/,,CDX: Light Vehicle
+Lyman,Rose,lyman.rose@fcps.edu,(703) 802-5588,Fairfax County Public Schools : Centreville High School,vcen,http://vcen.cdxsite.com/,,CDX: Light Vehicle
+Richard,Dickson,rdickson@jrtc.info,(540) 862-1308,Jackson River Technical Center,vjrt,http://vjrt.cdxsite.com/,,CDX: Light Vehicle
+Robert,Hall,rhall@amherst.k12.va.us,(434) 946-2898,Amherst County High School,vach,http://vach.cdxsite.com/,,CDX: Light Vehicle
+Gregory,Payne,Gregory.Payne@fcps.edu  ,(703) 924-7469,Fairfax County Public Schools : Hayfield High School,vhss,http://vhss.cdxsite.com/,,CDX: Light Vehicle
+John,Butcher,butchjth@cps.k12.va.us,(757) 547-0134,Chesapeake Center for Science & Technology,vccs,http://vccs.cdxsite.com/,,CDX: Light Vehicle
+Anthony,DeJarnette,ardejarnette@henrico.k12.va.us,(804) 756-3020,Henrico County Public Schools : Hermitage Technical Center,vhts,http://vhts.cdxsite.com/,,CDX: Light Vehicle
+Richard,Durrett,rdurrett@rcps.info,(540) 853-6102,Gibboney Technical Center,vgit,http://vgit.cdxsite.com/,,CDX: Light Vehicle
+Michael,Dickerson,mdickerson@mail.mcps.org,(540) 382-5178,Montgomery County Public Schools : Christiansburg High School,vchr,http://vchr.cdxsite.com/,,CDX: Light Vehicle
+Charles,McPeak,charlesmcpeak@gcps.k12.va.us,(276) 236-2991,Galax High School,vghs,http://vghs.cdxsite.com/,,CDX: Light Vehicle
+Mike,McGhee,mike_mcghee@apsva.us,(703) 228-5749,Arlington Public Schools : Arlington Career Center,arcc,http://arcc.cdxsite.com/,,CDX: Light Vehicle
+Daniel,Riley,driley@ncpsk12.com,(757) 678-5151,Northampton High School,vnhs,http://vnhs.cdxsite.com/,,CDX: Light Vehicle
+Pierre,Howard,phoward@nps.k12.va.us,(757) 892-3300,Norfolk Technical Vocational Center,vntc,http://vntc.cdxsite.com/,,CDX: Light Vehicle
+Roy,Parham,roy_parham@colonialhts.net  ,(804) 524-3405,Colonial Heights High School Tech Center,vcol,http://vcol.cdxsite.com/,,CDX: Light Vehicle
+Scott,Anderson,scotta@wcs.k12.va.us,(276) 739-3100,William N Neff Center for Science & Technology,vnvc,http://vnvc.cdxsite.com/,,CDX: Light Vehicle
+Dominic,Prakash,Dominic.Prakash@fcps.edu  ,(703) 426-1084,Fairfax County Public Schools : Lake Braddock Secondary School,vlbs,http://vlbs.cdxsite.com/,,CDX: Light Vehicle
+Steve,Hoback,shoback@rcs.k12.va.us,(540) 857-5000,Burton Technology Ctr,vbtc,http://vbtc.cdxsite.com/,,CDX: Light Vehicle
+Paul,Strassner,pstrassner@pagecounty.k12.va.us  ,(540) 778-7282,Page County Tech Center,vpac,http://vpac.cdxsite.com/,,CDX: Light Vehicle
+Jeff,Hicks,jeffh@bath.k12.va.us ,(540) 839-4802,Bath County Public Schools : Bath County High School,vmev,http://vmev.cdxsite.com/,,CDX: Light Vehicle
+Larry,Brown,sbrown@mathews.k12.va.us,(804) 725-3702,Mathews County High School,vmhs,http://vmhs.cdxsite.com/,,CDX: Light Vehicle
+Tommy,Oliver,toliver2@mail.mcps.org ,(540) 951-5706,Montgomery County Public Schools : Blacksburg High School,vbhs,http://vbhs.cdxsite.com/,,CDX: Light Vehicle
+Tony,Pearce,tonpearce@prudencenter.net  ,(757) 925-5651,Pruden Center for Industry and Technology,vprc,http://vprc.cdxsite.com/,,CDX: Light Vehicle
+Frank,Ramey,framey@bristolvaschools.org ,(276) 821-5924,Virginia High School,vvhs,http://vvhs.cdxsite.com/,,CDX: Light Vehicle
+Caleb,Williams,cwilliams@tcc.edu,(757) 822-5028,Portsmouth Public Schools : Craddock Career & Technical Center,vcca,http://vcca.cdxsite.com/,,CDX: Light Vehicle
+Eddie,Stevens,stevenev@pwcs.edu  ,(703) 580-4261,CD Hylton Senior High School,vpwi,http://vpwi.cdxsite.com/,,CDX: Light Vehicle
+Arnold,Gayles,arnold.gayles@southside.edu  ,(434) 542-4111,Charlotte County Public Schools : Randolph Henry High School,vrhh,http://vrhh.cdxsite.com/,,CDX: Light Vehicle
+Joe,Cortez,jcortez@reynolds.edu,(804) 662-6443,Powhatan HS,vpwh,http://vpwh.cdxsite.com/,,CDX: Light Vehicle
+Keith,Maxey,klmaxey@appomattox.k12.va.us,(434) 352-7146,Appomattox County High School,vapp,http://vapp.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+Mike,Fanelli,mfanelli@nelson.k12.va.us  ,(434) 263-8317,Nelson County High School,vnch,http://vnch.cdxsite.com/,,CDX: Light Vehicle
+Ronnie,Moore,rmoore@dickenson.k12.va.us  ,(276) 835-8049,Dickenson County Career Center,vdcc,http://vdcc.cdxsite.com/,,CDX: Light Vehicle
+Rayford,Dingus,rdingus@scott.k12.va.us,(276) 386-6515,Scott County Public Schools : Scott County Career and Technical Center,vscv,http://vscv.cdxsite.com/,,CDX: Light Vehicle
+Gray,Brill,Gray.Brill@fcps.edu ,(703) 222-7467,Fairfax County Public Schools : Chantilly High School,vcha,http://vcha.cdxsite.com/,,CDX: Light Vehicle
+Martin,Edwards,medwards@richmond.k12.va.us ,(804) 780-6237,Richmond Technical Center - South,vrtc,http://vrtc.cdxsite.com/,,CDX: Light Vehicle
+Stephen,Kingrey,steve_kingery@rockbridge.k12.va.us,(540) 463-5555,Rockbridge County High School,vrch,http://vrch.cdxsite.com/,,CDX: Light Vehicle
+David,Turley,daturley@fcps.edu ,(703) 924-8337,Fairfax County Public Schools : Lee High School,vrel,http://vrel.cdxsite.com/,,CDX: Light Vehicle
+Elwood,Wooden,elwood_wooden@surryschools.net ,(757) 267-2211,Surry County High School,vsco,http://vsco.cdxsite.com/,,CDX: Light Vehicle
+Wallace,Kelse,wkelce@iwcs.k12.va.us ,(757) 357-3108,Smithfield High School,vshs,http://vshs.cdxsite.com/,,CDX: Light Vehicle
+Gerald,Brooks,brooksgw@staffordschools.net,(540) 658-6080,Stafford County Schools : Brooke Point High School,vbrp,http://vbrp.cdxsite.com/,,CDX: Light Vehicle
+David,Rife,drife@salem.k12.va.us ,(540) 387-2437,Salem City Schools : Salem High School,vsal,http://vsal.cdxsite.com/,,CDX: Light Vehicle
+Matt,Richardson,mrichardson@greenecountyschools.com ,(434) 985-5239,Greene County Tech Ed Center,vgrt,http://vgrt.cdxsite.com/,,CDX: Light Vehicle
+Wayne,Champigny,wachampi@vbschools.com ,(757) 648-5850,Virginia Beach City Public Schools : Virginia Beach Technical & Career Education Center,vvbc,http://vvbc.cdxsite.com/,,CDX: Light Vehicle
+Stephen,Tatarka,statarka@northernnecktech.org  ,(804) 333-4940,Northern Neck Technical Center,vnnt,http://vnnt.cdxsite.com/,,CDX: Light Vehicle
+Mark,Chandler,mark.chandler@pcs.k12.va.us,(434) 432-9416,Pittsylvania Vocational Technical Center,vpct,http://vpct.cdxsite.com/,,CDX: Light Vehicle
+Chris,Frost,cfrost@bcps.k12.va.us ,(540) 473-8216,Botetourt Technical Education Center,vbot,http://vbot.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Miller,dkmiller@henrico.k12.va.us,(804) 261-5085,Henrico County Public Schools : Virginia Randolph Community High School,vvrc,http://vvrc.cdxsite.com/,,CDX: Light Vehicle
+Randall,Westbrook,rwestbro@gilesk12.org,(540) 921-1166,Giles County Technology Center,vgct,http://vgct.cdxsite.com/,,CDX: Light Vehicle
+Frederick,Cofield,frcofield@petersburg.k12.va.us ,(804) 862-7024,Petersburg High School,vpet,http://vpet.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Mullins,dgmullins@wise.k12.va.us,(276) 328-6113,Wise County Career Tech Center,vwtc,http://vwtc.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Fike,kfike@bedford.k12.va.us,(540) 586-3933,Bedford Science & Technology Center,vbst,http://vbst.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+David,Sisson,dsisson@acps.k12.va.us,(703) 824-6800,Alexandria City Public Schools : T C Williams High School,vtcw,http://vtcw.cdxsite.com/,,CDX: Light Vehicle
+Greg,Harris,geharris@henrico.k12.va.us,(804) 328-4075,Henrico County Public Schools : Highland Springs Technical Center,vhst,http://vhst.cdxsite.com/,,CDX: Light Vehicle
+HC,Phillips,hphillips@halifax.k12.va.us,(434) 572-4977,Halifax County High School,vhch,http://vhch.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,MLR 2014
+Harrell,Bagbey,hbagbey@meck.k12.va.us,+1 (434) 447-3435,Mecklenburg County Public Schools : Park View Senior High School,vpvi,http://vpvi.cdxsite.com/,,CDX: Light Vehicle
+Ken,Wilson,wilsonwk@staffordschools.net,+1 (540) 658-6150,Stafford County Schools : North Stafford High School,vnst,http://vnst.cdxsite.com/,,CDX: Light Vehicle
+Mike,Weaver,michael.weaver@pecps.k12.va.us,(434) 315-2100,Prince Edward County Public Schools : Prince Edward County High School,vpre,http://vpre.cdxsite.com/,,
+Steve,Palmore,pals@bcpschools.org,(434) 969-6160,Buckingham County Public Schools : Buckingham Vocational Center,vbvc,http://vbvc.cdxsite.com/,,CDX: Light Vehicle
+Scott,Brann,sbrann@mail.dps.k12.va.us,(434) 799-6410,George Washington High School,vgwh,http://vgwh.cdxsite.com/,,CDX: Light Vehicle
+Roger,White,rwhite@pcva.us,(540) 643-0747,Pulaski County High School,vphs,http://vphs.cdxsite.com/,,CDX: Light Vehicle
+John,Decowski,JDecowski@germanna.edu,(540) 829-2044,George Washington Carver Applied Learning and Entrepreneurial Center,vgwc,http://vgwc.cdxsite.com/,,CDX: Light Vehicle
+Michael,Smith,msmith@meck.k12.va.us,(434) 372-5177,Mecklenburg County Public Schools : Bluestone Senior High School,vblu,http://vblu.cdxsite.com/,,CDX: Light Vehicle
+Michael,Myers,mmyers@campbell.k12.va.us,(434) 821-6213,Campbell County Public Schools : Campbell County Vocational Technical Center,vcct,http://vcct.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Voorheis,voorhedd@lcps.k12.va.us,(540) 894-5436,Louisa County Public Schools : Louisa County High School,vlou,http://vlou.cdxsite.com/,,CDX: Light Vehicle
+Richard,Hall,hallrl@staffordschools.net,(540) 371-7200,Stafford County Schools : Stafford Senior High School,vsts,http://vsts.cdxsite.com/,,CDX: Light Vehicle
+Ragnar,Magnusson,Ragnar.Magnusson@fcps.edu,(703) 715-4602,Fairfax County Public Schools : South Lakes High School,vslh,http://vslh.cdxsite.com/,,CDX: Light Vehicle
+Dale,Steele,voc-ti-3@patrick-county.org,(276) 694-3882,Patrick County High School,vpch,http://vpch.cdxsite.com/,,CDX: Light Vehicle
+Jansen,Cox,jcox@grayson.k12.va.us,(276) 773-2951,Grayson County Public Schools : Grayson County Career & Technical Education Center,vgcc,http://vgcc.cdxsite.com/,,CDX: Light Vehicle
+Doris Ray,Neff,dneff@leectysch.com,(276) 346-1960,Lee County Public Schools : Lee County Career Tech Center - VA,vlcv,http://vlcv.cdxsite.com/,,CDX: Light Vehicle
+Ed,Anthony,canthony@ph.vccs.edu,(276) 403-5790,Martinsville High School - VA,vmar,http://vmar.cdxsite.com/,,CDX: Light Vehicle
+William,Miller,wmiller924@gmail.com,(434) 848-2716,Brunswick Senior High School,vbru,http://vbru.cdxsite.com/,,CDX: Light Vehicle
+Steven,Clary,sclary@gcps.com,(434) 634-2195,Greensville County High School,vgre,http://vgre.cdxsite.com/,,CDX: Light Vehicle
+Keith,Riley,kriley@manassas.k12.va.us,(703) 257-8500,Osbourn High School,vman,http://vman.cdxsite.com/,,CDX: Light Vehicle
+Dan,Maguschak,dmaguschak@wcps.k12.va.us,(540) 635-7123,Blue Ridge Technical Center,vbrt,http://vbrt.cdxsite.com/,,CDX: Light Vehicle
+Jeffrey,Hodges,JHodges@buc.k12.va.us,(276) 935-4541,Buchanan County Technology & Career Center,vbcv,http://vbcv.cdxsite.com/,,CDX: Light Vehicle
+Brian,Hooker,bhooker@russell.k12.va.us  ,(276) 889-6550,Russell County Public Schools : Russell County Career & Technology Center,vrct,http://vrct.cdxsite.com/,,CDX: Light Vehicle
+Paul,Hetterich,paul_hetterich@ccpsnet.net,(804) 768-6110,Chesterfield Technical Center : Lloyd C Bird High School,vlcb,http://vlcb.cdxsite.com/,,CDX: Light Vehicle
+Phil,Younger,Younger.Philip@Brevardschools.org,,Brevard County: Eau Gallie High School,eaug,http://eaug.cdxsite.com/,,CDX: Light Vehicle
+Michael,Broud,broud.michael@brevardschools.org,,Brevard County: Heritage High School,htgh,http://htgh.cdxsite.com/,,CDX: Light Vehicle
+Steve,Chapman,chapman.steven@brevardschools.org,,Brevard County: Merritt Island Senior High School,mish,http://mish.cdxsite.com/,,CDX: Light Vehicle
+Gary,Martin,martin.gary@brevardschools.org,,Brevard County: Rockledge High School,rock,http://rock.cdxsite.com/,,CDX: Light Vehicle
+Randy,Pitts,pitts.robert@brevardschools.org,,Brevard County: Satellite High School,sahs,http://sahs.cdxsite.com/,,CDX: Light Vehicle
+Jim,Wrede,JWrede@tbaisd.k12.mi.us,(231) 922-7869,Traverse Bay Area Intermediate School District,trav,http://trav.cdxsite.com/,,CDX: Light Vehicle
+Dan,Clark,dclark@cte.k12.vt.us,,"Essex Junction Regional Technical Center, Center for Technology",ejrt,http://ejrt.cdxsite.com/,,CDX: Light Vehicle
+Dean,Sims,dsims@goshen.k12.wy.us,,Torrington High School,torr,http://torr.cdxsite.com/,,CDX: Light Vehicle
+Joe,Balaban,jbalaban@wactc.net,(724) 746-2890,Western Area Vocational Technical School,wavt,http://wavt.cdxsite.com,,CDX: Light Vehicle
+Frank,Soros,soros.frank@brevardschools.org,,Brevard County: Titusville High School,tihs,http://tihs.cdxsite.com/,,CDX: Light Vehicle
+Mark,Bullington,mbullington@goshen1.org,(307) 532-7176,Southeast High School,setorr,http://setorr.cdxsite.com,,CDX: Light Vehicle
+Paul,Flogel,PFlogel@matcmadison.edu,(608) 246-6816,Madison Area Technical College,matc,http://matc.cdxsite.com,72F372,CDX: Light Vehicle
+Mark,Murray,mmurray@cdxauto.com,,Mark Murray school,murray,http://murray.cdxsite.com,,CDX: Light Vehicle
+Larry,Charvoz,larry_charvoz@gisd.org,409-766-5757,Galveston Ball High School,galveston,http://galveston.cdxsite.com,,CDX: Light Vehicle
+Philip,Bailey,pbailey@swtech.edu,580-477-2250,Southwest Technology Center,swtech,http://swtech.cdxsite.com,,
+Bruce,Rellinger,brellinger@limacityschools.org,419-996-3020,Lima Senior High School,limahs,http://limahs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Bob,Gunn,robert.gunn@kctcs.edu,270-247-9633,Western Kentucky Technical College,wktc,http://wktc.cdxsite.com/,2523E7,CDX: Light Vehicle
+Jim,Ailey,aileyj@cowley.edu,(620) 441-5260,Cowley County Community College - Arkansas City,cowa,http://cowa.cdxsite.com/,F9E237,CDX: Light Vehicle
+Dan,Guericke,dan.guericke@k12.sd.us,605-337-2636,DIAL Virtual School,dial,http://dial.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Jimmy,Jones,jimmy.jones@chattanoogastate.edu,(423) 697-3178,Tennessee Technology Center Chattanooga,ttec,http://ttec.cdxsite.com/,BF5592,CDX: Light Vehicle
+Tom,Vannah,tvannah@mcst.tec.me.us,(207) 594-2161,Mid-Coast School of Technology - Region 8,mcst,http://mcst.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Bob,Irving,irvingr@citrus.k12.fl.us,352-726-2430,Withlacoochee Technical Institute,with,http://with.cdxsite.com/,7E6259,CDX: Light Vehicle
+,,,,,,,"7E6259
+",LV 2014
+,,,,,,,838A57,LV 2014 2 Year
+Mario,Schwarz,mario.schwarz@sfcc.edu,(352) 395-5250,Santa Fe Community College,sfcc,http://sfcc.cdxsite.com/,A3322D,CDX: Light Vehicle
+Ken,Hall,khall77@dadeschools.net,(305) 696-4161,Miami Central High School,mcsh,http://mcsh.cdxsite.com,,CDX: Light Vehicle
+Kent,Johnson,johnsokw@alfredstate.edu,(607) 587-3118,Alfred State College of Technology,alfred,http://alfred.cdxsite.com,287FD8,CDX: Light Vehicle
+Jack,Ireland,ireland@ucmo.edu,(660) 543-8415,University of Central Missouri,ucmo,http://ucmo.cdxsite.com/,9FA672,CDX: Light Vehicle
+Charles,Culp,cculp@broward.edu,954-201-8622,Broward College,broward,http://broward.cdxsite.com,CA4B6E,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Eric,Erskin,eerskin@ivytech.edu,765-269-5155,Ivy Tech State College - Lafayette Campus,ivyl,http://ivyl.cdxsite.com/,2BBA28,CDX: Light Vehicle
+George,Bolash,gbolash@nvcc.edu,703-257-6678,Northern Virginia Community College - Manassas,nvcc,http://nvcc.cdxsite.com/,C8D325,CDX: Light Vehicle
+,,,,,,,89E8EE,CDX Diesel Series
+,,,,,,,943299  ,CDX Diesel: Hydraulics
+Aaron,Metcalf,aaron.metcalf@colin.edu,601-643-8429,Copiah-Lincoln Junior College,cljc,http://cljc.cdxsite.com/,DCC3F6,CDX: Light Vehicle
+Perry,Cummins,pcummins@pittstate.edu,620-235-4827,Pittsburg State University,pbsu,http://pbsu.cdxsite.com/,33A5E3,CDX: Light Vehicle
+Michael,Rensberger,rensberger.michael@mybradford.us,904-966-6764,Bradford Union Area Career Technical Center,buav,http://buav.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+Justin,Flick,justin.flick@evergreenps.org,360-604-1050,Clark County Skills Center,ccsc,http://ccsc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Gerard,Horan,gerard.horan@navy.mil,228-871-2677,"NFELC, CED 2 Det GPT",nfelc,http://nfelc.cdxsite.com,8ADF9D,CDX: Fleet
+Jeffrey,Fitzwater,jfitzwater@camden.k12.ga.us,912-729-7318,Camden County High School,camd,http://camd.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Lee,Mercer,lmercer@clevelandschools.org,423-478-1113,Cleveland High School - TN,clev,http://clev.cdxsite.com/,,CDX: Light Vehicle
+Keith,Cornell,kcornell@effingham.k12.ga.us,912-754-6404,Effingham Career Academy,efca,http://efca.cdxsite.com/,,CDX: Light Vehicle
+Jimmy,Morris,jmorris@effingham.k12.ga.us,912-728-7511,South Effingham High School,efsh,http://sehs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Joe,Westbrook,westbrookjl@troup.org,706-845-2070,Troup County: Callaway High School,call,http://call.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Dewey,Lee,leedw@troup.org,706-883-1590,Troup County: LaGrange High School,lahs,http://lahs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,
+,,,,,,,,MLR 2014
+James,Winkles,jwinkles@troup.org,706-812-7957,Troup County: Troup High School,trou,http://trou.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+Miguel,Machado,301903@dadeschools.net,305-698-5000,Hialeah Gardens High School,hghs,http://hghs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Richard,Fortney,richard.fortney@sdhc.k12.fl.us,813-744-8018,Hillsborough: Bloomingdale High School,hbhs,http://hbhs.cdxsite.com/,,CDX: Light Vehicle
+Krishna,Alexander,krishna.alexander@sdhc.k12.fl.us,813-558-1750,Hillsborough: Bowers-Whitley Career Center,hbwc,http://hbwc.cdxsite.com/,,CDX: Light Vehicle
+Vic,Nieves,george.nieves@sdhc.k12.fl.us,813-744-8120,Hillsborough: Brandon High School,hbrh,http://hbrh.cdxsite.com/,,CDX: Light Vehicle
+Wayne,Nicholson,wayne.nicholson@sdhc.k12.fl.us,813-671-5134,Hillsborough: East Bay High School,hebh,http://hebh.cdxsite.com/,,CDX: Light Vehicle
+Joe,Mendola,joseph.mendola@sdhc.k12.fl.us,813-631-4139,Hillsborough: Gaither High School,hgah,http://hgah.cdxsite.com/,,CDX: Light Vehicle
+David,Cole,David.Cole@sdhc.k12.fl.us,813-276-5448,Henry W Brewster Tech Center,hwbt,http://hwbt.cdxsite.com/,5EC497,CDX: Light Vehicle
+,,,,,,,332B74,LV 2014
+Steven,Conti,Steven.Conti@sdhc.k12.fl.us,813-872-5300,Leto High School,leto,http://leto.cdxsite.com/,,CDX: Light Vehicle
+Ken,Nay,kenneth.nay@sdhc.k12.fl.us,813-757-9370,Hillsborough: Plant City High School,hplc,http://hplc.cdxsite.com/,,CDX: Light Vehicle
+Hinesman,Dukes,Hinesman.Dukes@sdhc.k12.fl.us,,Hillsborough: Robinson High School,hrhs,http://hrhs.cdxsite.com/,,CDX: Light Vehicle
+David,Sergent,david.sergent@sdhc.k12.fl.us,,Hillsborough: Tampa Bay Technical High School,htbt,http://htbt.cdxsite.com/,,CDX: Light Vehicle
+Carl,Attenhofer,Carl.attenhofer@marion.k12.fl.us,,Marion Technical Institute,mrnt,http://mrnt.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Anthony,Maffei,Anthony.Maffei@marion.k12.fl.us,,North Marion High School,nmar,http://nmar.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Michael,McLemore,Michael.McLemore@marion.k12.fl.us,,Vanguard High School,vang,http://vang.cdxsite.com/,,CDX: Light Vehicle
+Mike,McNeely,mmcneely@dadeschools.net,,D A Dorsey Educational Center,dors,http://dors.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Aaron,Renth,arenth@dadeschools.net,,Miami Dade County Public Schools : Hialeah Senior High School,hial,http://hial.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,
+Armando,Prieto,aprieto1@dadeschools.net,,Lindsey Hopkins Technical Education Center,lhte,http://lhte.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Jorge,Sanchez,sanchez@dadeschools.net,,Miami Dade County Public Schools : Miami Lakes Technical Education Center,mltc,http://mltc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ed,Gonzalez,282125@dadeschools.net,,Miami Dade County Public Schools : Miami Douglas Macarthur South,mdms,http://mdms.cdxsite.com/,,CDX: Light Vehicle
+Fabio,Ferreira,fferreira@dadeschools.net,,Miami Dade County Public Schools : Miami Northwestern Senior High School,mnsh,http://mnsh.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Rafael,Aguiar,ralfaguiar@dadeschools.net,,Miami Dade County Public Schools : Miami Senior High School,msen,http://msen.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Peter,Hoppe,phoppe@dadeschools.net,,Robert Morgan Educational Center,rmec,http://rmec.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Leroy,Owens,lowens@dadeschools.net,,Miami Dade County Public Schools : South Dade Senior High,sdsh,http://sdsh.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ernesto,Sanchez-Parodi,280401@dadeschools.net,,South Dade Skill Centre,sdsc,http://sdsc.cdxsite.com,,CDX: Light Vehicle
+Nestor,Yero,neyero@dadeschools.net,,Miami Dade County Public Schools : Southwest Miami Senior High School,smsh,http://smsh.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Dean,Richardson,henry.richardson@ocps.net,,Mid Florida Technical College,mftc,http://mftc.cdxsite.com/,DC77BF,CDX: Light Vehicle
+Luis,Tamayo,tamayol@palmbeachstate.edu,,Palm Beach Community College,pbcc,http://pbcc.cdxsite.com/,,CDX: Light Vehicle
+Pete,Stom,pstom@wcmail.k12.ar.us,,Arkansas: Watson Chapel Senior High School,wchs,http://wchs.cdxsite.com/,,CDX: Light Vehicle
+Louise,Drow,louise_drow@beaverton.k12.or.us,,Aloha High School,aloh,http://aloh.cdxsite.com/,,CDX: Light Vehicle
+Bill,Britt,bill.britt@hubarea.com,,Hub Area Tech School,hats,http://hats.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Ed,Rowan,erowan@fs.fed.us,,Job Corps Center - Angell,ajcc,http://ajcc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Joseph,Gonzales,Gonzales.Joseph@jobcorps.org,,Job Corps Center - Carville,jcar,http://jcar.cdxsite.com/,,CDX: Light Vehicle
+Benjamin,Gonzalez,gonzalez.benjamin@jobcorps.org,,Job Corps - National Office : Job Corps Center - David L Carrasco,jocc,http://jocc.cdxsite.com/,,CDX: Light Vehicle
+Jim,McEwan,mcewen.jim@jobcorps.org,,Job Corps - National Office : Job Corps Center - MTC - Clearfield,clfd,http://clfd.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+David,Luedtke,luedtke.david@jobcorps.org,,Job Corps - National Office : Job Corps Center - San Diego,jobc,http://jobc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Pat,McCue,pmccue@nsd.org,,Northshore Automotive Technology,both,http://both.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Scott,Westenberg,swestenb@inghamisd.org,,Capital Area Career Center,cacc,http://cacc.cdxsite.com/,,CDX: Light Vehicle
+Steve,Filiaga,stfiliaga@weber.k12.ut.us,,Weber School District : Bonneville High School,rotc,http://bonneville.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Arne,Erisoty,aerisoty@weber.k12.ut.us,,Weber School District : Fremont High School,frem,http://fremonths.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Paul,Fawson,pafawson@weber.k12.ut.us,,Weber School District : Roy High School,royh,http://royhs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Nick,Lamarr,nilamarr@weber.k12.ut.us,,Weber School District : Weber High School,webh,http://weberhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Dan,Camber,dan.camber@lyndoninstitute.org,,Lyndon Institute,lynd,http://lynd.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+Robert,Thomsen,haydenvt@gmail.com,,Patricia Hannaford Career Center,phcc,http://phcc.cdxsite.com/,,CDX: Light Vehicle
+Dean,Richardson,henry.richardson@ocps.net,407-251-6117,Mid Florida Technical College,mftc,http://mftc.cdxsite.com/,DC77BF,CDX: Light Vehicle
+Tom,Curvat,tcurvat@clark.edu,360-992-2551,Clark College,clco,http://clco.cdxsite.com/,6EFC6B,CDX: Light Vehicle
+,,,,,,,E3D46D,CDX: Light Vehicle 2 Year
+Bill,Owen,bowen@mccneb.edu,402-738-4521,Metropolitan Community College,mecc,http://mecc.cdxsite.com/,7AE78A,CDX: Light Vehicle
+Kevin,Mathweg,kevin.mathweg@umpqua.edu,541-440-4600,Umpqua Community College,umpq,http://umpq.cdxsite.com/,E687E3,CDX: Light Vehicle
+Mark,Lammers,mlammers@ivytech.in.edu,812-429-0593,Ivy Tech State College - Evansville,ivyt,http://ivyt.cdxsite.com/,357B85,CDX: Light Vehicle
+Mike,Erny,merny1@ivytech.edu,765-459-0561,Ivy Tech State College - Kokomo Campus,ivyk,http://ivyka.cdxsite.com/,3C7773,CDX: Light Vehicle
+Ed,Herendeen,eherende@ivytech.edu ,574-289-7001,Ivy Tech State College - North Central,ivyn,http://ivyn.cdxsite.com/,62BE69,CDX: Light Vehicle
+Marty,Kamimoto,martin.kamimoto@fresnocitycollege.edu,559-442-4600,Fresno City College,frcc,http://frcc.cdxsite.com/,22849A,CDX: Light Vehicle
+Wade,Esplin,wesplin@swatc.edu,435-865-8378,South West ATC,sowe,http://sowe.cdxsite.com/,FE9892,CDX: Light Vehicle
+Warren,Farnell,wfarnell@northampton.edu,610-861-5327,Northampton Community College,nocc,http://nocc.cdxsite.com/,4F7B25,CDX: Light Vehicle
+Marty,Christian,christian@stevenscollege.edu,717-299-7730,Thaddeus Stevens College of Technology,tsct,http://tsct.cdxsite.com/,,
+Laurence,Schwendeman,lschwendeman@reynolds.edu,804-523-5938,J Sargeant Reynolds Community College,srcc,http://srcc.cdxsite.com/,28ACBF,CDX: Light Vehicle
+David,Wood,dwood@acs.ac,,Anderson County Career and Technology Center,acct,http://acct.cdxsite.com/,,CDX: Light Vehicle
+Louis,Terrell,lterrell@atlantatech.edu,,Atlanta Technical College,attc,http://attc.cdxsite.com/,6F3932,CDX: Light Vehicle
+,,,,,,,,CDX Diesel Series
+Jerry,McCarter,mccarterj@k12tn.net,,Cookeville High School,cook,http://cook.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+John,Romano,jromano@greenville.k12.sc.us,,J Harley Bonds Resource Center,hbrc,http://hbrc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Russell,Tribble,rtribble@k12k.com,,Kingsport City School District : Dobyns-Bennett High School,t044,http://t044.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Ken,Massey,masseyk@lcss.us,,Lawrence County High School - TN,lawc,http://lawc.cdxsite.com/,,CDX: Light Vehicle
+Larry,Muhlstadt,larry.muhlstadt@mnps.org,,Antioch High School,mnah,http://mnah.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Mike,Cloniger,cloninger.mike@gaston.edu,,Gaston College,gaco,http://gaco.cdxsite.com/,BAB8DD,CDX: Light Vehicle
+Brett,Colston,bcolston@oftc.edu,,Heart of Georgia Technical College,hoga,http://hoga.cdxsite.com/,,CDX: Light Vehicle
+Dean,Holland,hollandde@rcschools.net,,Holloway High School,holl,http://holl.cdxsite.com/,,CDX: Light Vehicle
+Jim,Estes,estesj@rcschools.net,,Oakland High School,oakh,http://oakh.cdxsite.com/,,CDX: Light Vehicle
+Brian,Staats,staatsb@rcschools.net,,Rutherford: Riverdale High School,rvhs,http://rvhs.cdxsite.com/,,CDX: Light Vehicle
+Kenny,Anderson,andersonke@rcschools.net,,Smyrna High School,smhs,http://smhs.cdxsite.com/,,CDX: Light Vehicle
+Neal,Sanders,neal.sanders@rcstn.net,,Springfield High School-TN,t115,http://t115.cdxsite.com/,,CDX: Light Vehicle
+Bruce,McClure,bruce.mcclure@sumnerschools.org,,White House High School,whhs,http://whhs.cdxsite.com/,,CDX: Light Vehicle
+Frederick,Mohl,fmohl@sumterschools.org,,Americus-Sumter County High School,asch,http://asch.cdxsite.com/,,CDX: Light Vehicle
+Garrett,Van Brocklin,vanbrockling@wcschools.com,,Mount Juliet High School,tmjh,http://tmjh.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Ronnie,Todd,toddr@wcschools.com,,Wilson Central High School,twch,http://twch.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Allen,Davis,davisga@wcschools.com,,Wilson County Career Technical Center,twcc,http://twcc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Bryan,Benitez,bryant3t4ek@yahoo.com,,Aldine High School,aldh,http://aldh.cdxsite.com/,,CDX: Light Vehicle
+Teo,Rios,trios1@aliceisd.esc2.net,,Alice High School,alhs,http://alhs.cdxsite.com/,,CDX: Light Vehicle
+Howard,Bynum,hbynum@andrews.esc18.net,,Andrews High School,andh,http://andh.cdxsite.com/,,CDX: Light Vehicle
+Ed,Williamsen,edward.williamsen@austinisd.org,,Crockett High School,croh,http://croh.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,
+Michael,Setzer,michael.setzer@browardschools.com,,Broward County Board of Education : Sheridan Technical Center,sher,http://sher.cdxsite.com/,,CDX: Light Vehicle
+Vince,Tringali,vincent.tringali@browardschools.com,,Broward County Board of Education : William T McFatter Technical Center,wtmt,http://wtmt.cdxsite.com,,CDX: Light Vehicle
+Nathan,McCann,nmccann@bryanisd.org,,Bryan ISD : Bryan High School,byhs,http://byhs.cdxsite.com/,,CDX: Light Vehicle
+Rick,Stansel,richard.stansel@channelview.isd.esc4.net,,Channelview High School,chan,http://chan.cdxsite.com/,,CDX: Light Vehicle
+Mike,Hernandes,jh4344@dallasisd.org,,LG Pinkston High School,pink,http://pink.cdxsite.com/,,CDX: Light Vehicle
+Pete,Dijkman,pdijkman@dallasisd.org,,Dallas ISD: Skyline High School,skyl,http://skyl.cdxsite.com/,,CDX: Light Vehicle
+Timmy,Martin,timmartin@dallasisd.org,,Dallas ISD: WH Adamson High School,whah,http://whah.cdxsite.com/,,CDX: Light Vehicle
+Michael,Dean,deanm@jackson.k12.al.us,,Earnest Pruett Center of Technology,eapr,http://eapr.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Keith,McCants,rkmccants@ebrschools.org,,McKinley Senior High School,mshs,http://mshs.cdxsite.com/,,CDX: Light Vehicle
+Jim,Lafevers,jlafevers@eoctech.org,,Eastern Oklahoma County AVTS,oakc,http://oakc.cdxsite.com/,,CDX: Light Vehicle
+Heriberto,Santillana,hsantill@fabensisd.net,,Fabens High School,fbhs,http://fbhs.cdxsite.com/,,CDX: Light Vehicle
+Michael,Lackey,michael.lackey@gonzales.txed.net,,Gonzales High School,gonz,http://gonz.cdxsite.com/,,CDX: Light Vehicle
+Troy,Campbell,tmcampbell@hsv.k12.al.us,,Huntsville Center for Technology,hcft,http://hcft.cdxsite.com/,,CDX: Light Vehicle
+Lee,Brown,leebrown@chilton.k12.al.us,,Lecroy Career Technical Center,lect,http://lect.cdxsite.com/,,CDX: Light Vehicle
+Phillip,Otinger,otingerp@marshallk12.org,,Marshall Technical School,mars,http://mars.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+George,Garcia,george.garcia@harlandale.net,,McCollum High School,mchi,http://mchi.cdxsite.com/,,CDX: Light Vehicle
+Robert,Bryson,bhsautoinstructor@yahoo.com,,Brewer High School,brew,http://brew.cdxsite.com/,,CDX: Light Vehicle
+Kenny,Martin,kmartin@nacogdoches.k12.tx.us,,Nacogdoches High School,ndhs,http://ndhs.cdxsite.com/,,CDX: Light Vehicle
+Jeff,Johnson,jjohnson@francistuttle.com,,Francis Tuttle Technology Center  - Rockwell,fttc,http://fttc.cdxsite.com/,,CDX: Light Vehicle
+Robert,Blair,rblair@francistuttle.com,,Francis Tuttle Technology Center - Reno Campus,ftre,http://ftre.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Ron,Rader,rrader@nwtech.edu,,Northwest Technology Center - Alva,ntca,http://ntca.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Mark,Mester,mark.mester@risd.org,,Richardson High School,rich,http://rich.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Jim,Lupinek,jlupinek@pasco.k12.fl.us ,,Marchman Technical Education Center,marc,http://marc.cdxsite.com/,,CDX: Light Vehicle
+Bill,Grimm,BGrimm@seisd.net,,San Elizario High School,selz,http://selz.cdxsite.com/,,CDX: Light Vehicle
+Mick,Louthan,mlouthan@seiling.k12.ok.us,,Seiling High School,seil,http://seil.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+Angel,Medina,amedina@swisd.net,,Southwest High School,swhs,http://swhs.cdxsite.com/,,CDX: Light Vehicle
+Steve,Barron,smbarron@gccisd.net,,Stuart Career Center,stut,http://stut.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+James,Potter,james.potter@terrellisd.org,,Terrell High School,terr,http://terr.cdxsite.com/,,CDX: Light Vehicle
+Darryl,Glass,dglass@tmisd.esc2.net,,Tuloso-Midway High School,tulo,http://tulo.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Stephen,Burgett,stephen.burgett@wallacestate.edu,,Wallace State Community College,wscc,http://wscc.cdxsite.com/,,CDX: Light Vehicle
+Charles,Whitehouse,yatcwhit@bellsouth.net,,Youth Automotive Training Center,yatc,http://yatc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Fred,Treadwell,treadwellf@bsd405.org,,Bellevue High School,belv,http://belv.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+David,Hale,david.hale@k12northstar.org,,Hutchison Career Center,htcc,http://htcc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Jerald,Swenson,jerald.swenson@k12.sd.us,,Huron High School,huhs,http://huhs.cdxsite.com/,,CDX: Light Vehicle
+David,Reuland,david.reuland@k12.sd.us,,Mitchell High School,mihs,http://mihs.cdxsite.com/,,CDX: Light Vehicle
+Jim,Watson,jim.dean.watson@gmail.com,,Natrona County High School,natr,http://natr.cdxsite.com/,,CDX: Light Vehicle
+Stan,Bratt,sbratt@osd.wednet.edu,,Olympia High School,olhs,http://olhs.cdxsite.com/,,CDX: Light Vehicle
+Chris,Hadfield,hadfieldc@district279.org,,Osseo Senior High,osse,http://osse.cdxsite.com/,,CDX: Light Vehicle
+Tim,McGee,timothy.mcgee@spps.org,,Harding High School,hahs,http://hahs.cdxsite.com/,,CDX: Light Vehicle
+Jon,Severson,jon.severson@k12.sd.us,,Sioux Falls CTE Academy,wash,http://wash.cdxsite.com/,,CDX: Light Vehicle
+Joel,Hieb,Joel.Hieb@k12.sd.us,,South Dakota Department of Education : Riggs Senior High School,rigg,http://rigg.cdxsite.com/,,CDX: Light Vehicle
+Gary,Thomerson,gcthomerson@alaska.edu,,University of Alaska : University of Alaska - Fairbanks,uala,http://uala.cdxsite.com/,,CDX: Light Vehicle
+Mark,Pier,mark.pier@k12.sd.us,,Vermillion School District : Vermillion High School,vehs,http://vehs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Robert,Evans,BEvans@ysd.k12.sd.us,,Yankton Senior High School,yshs,http://yshs.cdxsite.com/,,CDX: Light Vehicle
+Roger,McNeely,rmcneely@kcs.kana.k12.wv.us,,Ben Franklin Vocational Center,bfvc,http://bfvc.cdxsite.com/,,CDX: Light Vehicle
+Dale,Keenan,dkeenan@access.k12.wv.us,,Brooke High School,brkh,http://brkh.cdxsite.com/,,CDX: Light Vehicle
+Larry,Nunnery,nunneryszoo@hotmail.com,,Fayette Institute of Technology,faye,http://faye.cdxsite.com/,,CDX: Light Vehicle
+Josh,Mitchem,jrmitchem@access.k12.wv.us,,Greenbrier East High School,gehs,http://gehs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+James,Botkin,jbotkin@kcs.kana.k12.wv.us,,Garnet Career Center,gacc,http://gacc.cdxsite.com/,,CDX: Light Vehicle
+John,Howell,jhowell@lcisd.k12.mi.us,,Lapeer County Education and Technology Center,lcet,http://lcet.cdxsite.com/,,CDX: Light Vehicle
+Bobby,Poore,bpoore@access.k12.wv.us,,Mercer County Technical Education Center,mcte,http://mcte.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Brown,kevinbrownncctc@yahoo.com ,,Nicholas County Career Technical Center,ncct,http://ncct.cdxsite.com/,,CDX: Light Vehicle
+Wayne,Moody,WMoody@message.nmc.edu,,Northwestern Michigan College,nwmc,http://nwmc.cdxsite.com/,C34287,CDX: Light Vehicle
+Jed,Metzler,jedareno23@hotmail.com,,South Branch Career and Technical Center,sbct,http://sbct.cdxsite.com/,,CDX: Light Vehicle
+Peter,Pacheco,pacheco_p@aps.edu,,Volcano Vista High School,volc,http://volc.cdxsite.com/,,CDX: Light Vehicle
+John,Lee,johnlee@autotrainingschools.com,,Automotive Training Schools,atts,http://atts.cdxsite.com/,,CDX: Light Vehicle
+Greg,Newcomb,gnewcomb@buhs.k12.ca.us,,Bishop Union High School,bisu,http://bisu.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+Don,Kimbrough,kcdon03@yahoo.com ,,Chinle High School,chin,http://chin.cdxsite.com/,,CDX: Light Vehicle
+Kim,Een,KPE941@interact.ccsd.net,,Western High School,ccpv,http://ccpv.cdxsite.com/,,CDX: Light Vehicle
+Alan,Zobrist,avzobrist@interact.ccsd.net,,El Dorado High School,edhs,http://edhs.cdxsite.com/,,CDX: Light Vehicle
+Chris,May,cjmay@interact.ccsd.net,,Laughlin High School,laug,http://laug.cdxsite.com/,,CDX: Light Vehicle
+Dee,Rawson,drrawson@DATC.EDU,,Davis Applied Technology College,datc,http://datc.cdxsite.com/,,CDX: Light Vehicle
+Michael,Lomeli,michael-lomeli@hotmail.com,,Douglas High School,dohs,http://dohs.cdxsite.com/,,CDX: Light Vehicle
+Kurt,Woods,kurt.woods@dysart.org,,Dysart High School,dysh,http://dysh.cdxsite.com/,,CDX: Light Vehicle
+Robert,Galvan,rgalvan@echalk.gisd.k12.nm.us,,Gadsden Independent School District: Chaparral High School,chap,http://chap.cdxsite.com/,,CDX: Light Vehicle
+Carlos,Enriquez,Caenriquez1@gmail.com,,Gadsden Independent School District : Gadsden High School,gisd,http://gisd.cdxsite.com/,,CDX: Light Vehicle
+Joseph,Bell,jospeh.bell@gilbertschools.net ,,Highland High School,hhaz,http://hhaz.cdxsite.com/,,CDX: Light Vehicle
+Michael,Conner,mconner@msud20.org,,Maricopa Unified School District #20,musd,http://musd.cdxsite.com/,,CDX: Light Vehicle
+Tincer,Harris,tincer.harris@srpnet.com,,Navajo Generating Station,nava,http://nava.cdxsite.com/,,CDX: Light Vehicle
+Joshua,Huntsman,jhuntsman@pageud.k12.az.us,,Page Unified School District : Page High School,pusd,http://pusd.cdxsite.com/,,CDX: Light Vehicle
+Mickey,Chaney,mickey.chaney@prescottschools.com,,Prescott High School,pres,http://pres.cdxsite.com/,,CDX: Light Vehicle
+Jason,Keith,jason.keith@sanjuan.edu,,New San Juan High School,sanj,http://sanj.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Gary,Faulkenberry,Faulkeg@msmusd.org,,San Manuel High School,sman,http://sman.cdxsite.com/,,CDX: Light Vehicle
+James,Dutcher,dutcherj@averillpark.k12.ny.us,,Averill Park High School,aphs,http://aphs.cdxsite.com/,,CDX: Light Vehicle
+David,Minott,dminott@rsu1.org,,Bath Regional Technology Center,brtc,http://brtc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ray,Ferraro,rayfer@Bergen.org,,Hudson County School of Technology : Bergen County Technical High School - Teterboro,bcth,http://bcth.cdxsite.com/,,CDX: Light Vehicle
+John,Colaneri,johcol@bergen.org,,Bergen County Vocational Center - Paramus,bcvc,http://bcvc.cdxsite.com/,,CDX: Light Vehicle
+Byron,Dreher,Dreherb@butlercounty.tec.pa.us,,Butler County AVTS,bcou,http://bcou.cdxsite.com/,,CDX: Light Vehicle
+Bob,Poore,rpoore@ccboe.com,,North Point High School,nphs,http://nphs.cdxsite.com/,,CDX: Light Vehicle
+Bill,Murphy,wamurphy6@verizon.net,,Davies Career & Technical High School,dcth,http://dcth.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ronald,Erle,rerle@dciu.org,,Delaware County Technical High School,dcts,http://dcts.cdxsite.com/,,CDX: Light Vehicle
+Jim,Foster,fosterj@dcmoboces.com,,Delaware Chenango Madison Otsego BOCES - Chenango Campus,dcmo,http://dcmo.cdxsite.com/,,CDX: Light Vehicle
+Lawrence,Sullivan,lawrence.sullivan@dcboces.org,,Dutchess County BOCES,dcob,http://dcob.cdxsite.com/,,CDX: Light Vehicle
+John,McDonald,jmcdonal@eastech.org,,Eastern Center for Arts and Technology,ecat,http://ecat.cdxsite.com/,,CDX: Light Vehicle
+David,Macholz,dmacholz@esboces.org,,Edward J Milliken Tech Center Islip,ejmt,http://ejmt.cdxsite.com/,,CDX: Light Vehicle
+Sam,Maclees,smaclees@esboces.org,,HB Ward Tech Center Eastern Suffolk BOCES,hbwt,http://hbwt.cdxsite.com/,,CDX: Light Vehicle
+Gerald,Frain,gfrain@wiu.k12.pa.us,,Eastern Westmoreland Career & Technology Center,ewct,http://ewct.cdxsite.com/,,CDX: Light Vehicle
+David,Michalak,dmichalak@ects.org,,Erie County Technical School,ects,http://ects.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Lawton,klawton@bedfordctc.org,,Bedford County Technical Center,bedt,http://bedt.cdxsite.com/,,CDX: Light Vehicle
+Randy,Poissant,poissant@mail.fehb.org,,North Franklin Education Center,nfec,http://nfec.cdxsite.com/,,CDX: Light Vehicle
+Tad,Davis,tdavis@hfmboces.org,,Hamilton-Fulton-Montgomery BOCES,hfmb,http://hfmb.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+John,Goebel,jgoebel@lcvt.tec.pa.us,,Lawrence County Area Vocational Technical School,lawr,http://lawr.cdxsite.com/,,CDX: Light Vehicle
+Jeff,Chase,chasej@mcvts.org,,Morris County School of Technology,morr,http://morr.cdxsite.com/,,CDX: Light Vehicle
+Edward,Stella,estella@mail.nasboces.org,,Barry Career and Technical Education Center,bcte,http://bcte.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Daniel,Pontes,dpontes@cox.net,,Newport Area Career & Technical Center,nact,http://nact.cdxsite.com/,,CDX: Light Vehicle
+Paul,Wagner,Paul_Wagner@newton.k12.ma.us,,Newton North High School,newt,http://newt.cdxsite.com/,,CDX: Light Vehicle
+Joe,Seguin,joseguin@hotmail.com,,North County Career Center,nccc,http://nccc.cdxsite.com/,,CDX: Light Vehicle
+Michael,Gregory,mgregory@ocmboces.org,,Onandaga Cortland Madison BOCES Adult Ed,ocae,http://ocae.cdxsite.com/,,CDX: Light Vehicle
+Mark,Proulx,mproulx@ocmboces.org,,Onondaga Cortland Madison BOCES - Cortland,onon,http://onon.cdxsite.com/,,CDX: Light Vehicle
+Kevin,Stowell,kstowell@prhs.sau48.org,,Plymouth Regional High School,plym,http://plym.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Marc,Daigle,mdaigle@questar.org,,Questar III Rensselaer Education Center,qrec,http://qrec.cdxsite.com/,,CDX: Light Vehicle
+Al,Roeske,aroeske@scvts.org,,Vocational Technical Career Center,voca,http://voca.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Alan,Creveling,acreveling@SCVTS.NET,,Somerset County Vocational Technical High School,scvs,http://scvs.cdxsite.com/,,
+Robert,Vinskus,rvinskus@sersd.org,,Southeastern Regional Vocational Technical School,srvt,http://srvt.cdxsite.com/,,CDX: Light Vehicle
+Jamie,Lucks,jlucks@ulsterboces.org,,Ulster Career & Technical Center,uctc,http://uctc.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Mark,Watson,watsonma@wallenpaupack.org,,Wallenpaupack Area High School,wahs,http://wahs.cdxsite.com/,,CDX: Light Vehicle
+Gary,Bish,bishg@wcsdpa.org,,Warren County Career Center,wccc,http://wccc.cdxsite.com/,,CDX: Light Vehicle
+Greg,VanDeusen,gvandeusen@wswheboces.org,,Washington Saratoga Warren Hamilton Essex BOCES : F Donald Myer Education Center,dmec,http://dmec.cdxsite.com/,,CDX: Light Vehicle
+Ray,Cole,RCole@WSWHEBOCES.ORG,,Washington Saratoga Warren Hamilton Essex BOCES : Southern Adirondack Education Center,saec,http://saec.cdxsite.com/,,CDX: Light Vehicle
+Chet,Kuhn,ckuhn@wflboces.org,,Wayne Technology & Career Center,wtcc,http://wtcc.cdxsite.com/,,CDX: Light Vehicle
+Joe,Tribble,jtribble@wsboces.org,,Western Suffolk BOCES Manor Plains Campus,wsbm,http://wsbm.cdxsite.com/,,CDX: Light Vehicle
+Chris,Adikes,Cadikes@wsboces.org,,Wilson Technical Center - Dix Hills,wils,http://wils.cdxsite.com/,,CDX: Light Vehicle
+Ralph,Savarese,rsavarese@wsboces.org,,Wilson Technical Center - Northport,boce,http://boce.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Mark,Bartosik,mark.bartosik@wwrc.virginia.gov,,Woodrow Wilson Rehabilitation Center,wwre,http://wwre.cdxsite.com/,,CDX: Light Vehicle
+Tim,Lewis,tlewis@augustatech.edu,,Augusta Technical College,agtc,http://agtc.cdxsite.com/,FC775F,CDX: Light Vehicle
+Troy,Peco,tpeco@gntc.edu,,Georgia Northwestern Technical College,gntc,http://gntc.cdxsite.com/,357FE3,CDX: Light Vehicle
+,,,,,,,6B5D9F,LV 2014
+Toby,Heard,theard@moultrietech.edu,,Moultrie Technical College,moul,http://moul.cdxsite.com/,4C233E,CDX: Light Vehicle
+,,,,,,,89DE35,CDX: Light Vehicle 2 Year
+Hunter,Taylor,taylorh@halifaxcc.edu,,Halifax Community College,hacc,http://hacc.cdxsite.com/,9422ED,CDX: Light Vehicle
+,,,,,,,8C7C75,CDX: Light Vehicle 2 Year
+Chad,Bryant,cbryant@bscc.edu,,Bevill State Community College,bscc,http://bscc.cdxsite.com/,A49E85,CDX: Light Vehicle
+,,,,,,,AD32A6,HV Diesel complete
+John,Gardner,gardnerj@chipola.edu,,Chipola College,chco,http://chco.cdxsite.com/,AD399F,CDX: Light Vehicle
+,,,,,,,42554E,CDX: Light Vehicle 2 Year
+Brian,Anderson,bandy@coastalbend.edu,,Coastal Bend College,cbco,http://cbco.cdxsite.com/,426A94,CDX: Light Vehicle
+,,,,,,,B33622,CDX: Light Vehicle 2 Year
+Paul,Rossiter,rossitep@cf.edu,,College of Central Florida,cflo,http://cflo.cdxsite.com/,DB3684,CDX: Light Vehicle
+Harold,Waddell,hwaddell@gadsdenstate.edu,,Gadsden State Community College,gdsc,http://gdsc.cdxsite.com/,7238AE,CDX: Light Vehicle
+Phillip,Wall,wallph@collierschools.com,,Immokalee Technical Center,imtc,http://imtc.cdxsite.com/,B338BB,CDX: Light Vehicle
+Gregg,Hoover,hooverg@leonschools.net,,Lively Technical Center,lvtc,http://lvtc.cdxsite.com/,79EF3A,CDX: Light Vehicle
+Jerry,Palmer,jwpalmer@nemcc.edu,,Northeast Mississippi Community College,nmcc,http://nmcc.cdxsite.com/,33BC65,CDX: Light Vehicle
+David,Yount,wdyount@northwestms.edu,,Northwest Mississippi Community College,mssc,http://mssc.cdxsite.com/,6735FB,CDX: Light Vehicle
+Rick,Hatton,rick.hatton@fctc.edu,,First Coast Technical College,fctc,http://fctc.cdxsite.com/,228BC8,CDX: Light Vehicle
+Bill,Weber,weberb@seminolestate.edu ,,Seminole Community College,semi,http://semi.cdxsite.com/,2583E3,CDX: Light Vehicle
+Rueben,Buice,reubenb@live.com,,Trenholm State Technical College,tren,http://tren.cdxsite.com/,C7A428,CDX: Light Vehicle
+Barry,Lewis,blewis@cccneb.edu,,Central Community College - Hastings,hast,http://hast.cdxsite.com/,EC7D78,CDX: Light Vehicle
+,,,,,,,C3CBE9,CDX: Light Vehicle 2 Year
+Dave,Oie,dave.oie@hennepintech.edu,,Hennepin Technical College - Brooklyn Park,hptc,http://hptc.cdxsite.com/,25BA2E,CDX: Light Vehicle
+Andy,Summers,asummers@indianhills.edu,,Indian Hills Community College,ihcc,http://ihcc.cdxsite.com/,C2DA92,CDX: Light Vehicle
+Mitch,Connor,m.connor@lsc.edu,,Lake Superior College,lsuc,http://lsuc.cdxsite.com/,938C2E,CDX: Light Vehicle
+Dennis,Miller,Dennis.Miller@minnesota.edu,,Minnesota State Community & Technical College - Moorhead,mict,http://mict.cdxsite.com/,53774B,CDX: Light Vehicle
+,,,,,,,2EB7C2,CDX: Light Vehicle 2 Year
+Scott,Parsons,slparsons@uaa.alaska.edu,,University of Alaska - Anchorage,uoaa,http://uoaa.cdxsite.com/,5F4E8F,CDX: Light Vehicle
+Jim,Palmer,jim.palmer@highland.edu,,Highland Community College,hicc,http://hicc.cdxsite.com/,73FF72,CDX: Light Vehicle
+Tim,Jervis,Tim.Jervis@kctcs.edu,,Jefferson Community and Technical College,jtec,http://jtec.cdxsite.com/,DAB2AA,CDX: Light Vehicle
+Dan,Johnson,dajohnso@bakersfieldcollege.edu,,Bakersfield College,bcol,http://bcol.cdxsite.com/,A83B32,CDX: Light Vehicle
+Bernardino,Rodriguez,bxrodriguez@pasadena.edu,,Pasadena City College,pacc,http://pacc.cdxsite.com/,C54E7F,CDX: Light Vehicle
+Dan,Horine,dhorine@virginiawestern.edu,,Virginia Western Community College,vwst,http://vwst.cdxsite.com/,B238A6,CDX: Light Vehicle
+Charles,Dawson,cdawson@athenstech.edu,,Athens Tech,hv.athens,http://athens.cdxsite.com/,3EC3E4,CDX Diesel: Classroom Package
+,,,,,,,34E262,CDX Diesel: Brakes
+,,,,,,,527D68,CDX Diesel: Drive Trains
+,,,,,,,F65272,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,54C8E5,CDX Diesel: Engines
+,,,,,,,93453F,CDX Diesel: HVAC
+,,,,,,,88DA54,CDX Diesel: Hydraulics
+,,,,,,,A2C859,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,CD3473,CDX Diesel: Steering and Suspension 
+Tom,Waite,thompson.waite@browardschools.com,,Broward County Board of Education : William T McFatter Technical Center,wtmt,http://wtmt.cdxsite.com,A94BF9,CDX Diesel Online Course Series
+,,,,,,,CF4356,CDX Diesel: Brakes
+,,,,,,,52C5CE,CDX Diesel: Drive Trains
+,,,,,,,5BE5BA,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,3BE879,CDX Diesel: Engines
+,,,,,,,36CDAB,CDX Diesel: HVAC
+,,,,,,,5B24D4,CDX Diesel: Hydraulics
+,,,,,,,DDE222,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,F87DBE,CDX Diesel: Steering and Suspension 
+Mike,King,mking@atienterprises.edu,,ATI Career Training Center - Oklahoma City,atio,http://atio.cdxsite.com/,,CDX: Light Vehicle
+Paul,Sherman,Paul.Sherman@macdill.af.mil,,US Air Force - MacDill,usam,http://usam.cdxsite.com/,,CDX: Light Vehicle
+Bobby,Clark,clarkb@wfpsb.org,,West Feliciana High School,wfhs,http://wfhs.cdxsite.com/,,CDX: Light Vehicle
+Brian,Stretch,bstretch@nthurston.k12.wa.us,,North Thurston School District 3 : North Thurston High School,nths,http://nths.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Carl,Schlegel,cschlegel@nthurston.k12.wa.us,,North Thurston School District 3 : River Ridge High School,rrhs,http://rrhs.cdxsite.com/,,CDX: Light Vehicle
+David,Livesay,dlivesay@nthurston.k12.wa.us,,North Thurston School District 3 : Timberline High School,tbhs,http://tbhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Robert,Clark,clarkr@nwasco.k12.or.us,,The Dalles Wahtonka High School,dwhs,http://dwhs.cdxsite.com/,,CDX: Light Vehicle
+David,Stidham,stidhamd@bcsc.k12.in.us,,Columbus North High School,cnhs,http://cnhs.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Collins,dcollins@d230.org,,Consolidated High School District 230 : Amos Alonzo Stagg High School,aash,http://aash.cdxsite.com/,,CDX: Light Vehicle
+Robert,Faoro,rfaoro@tfd215.org,,Consolidated High School District 230 : Carl Sandburg High School,carl,http://carl.cdxsite.com/,,CDX: Light Vehicle
+Tim,Stroub,tstroub@findlaycityschools.org,,Millstream Career Technical Center North,mctn,http://mctn.cdxsite.com/,,CDX: Light Vehicle
+Rodney,Maxey,maxeyr@iecc.edu,,Frontier Community College,fron,http://fron.cdxsite.com/,23A743,CDX: Light Vehicle
+Andy,Michalik,amichalik@davisonschools.org,,Genesee ISD : Davison Senior High School,davh,http://davh.cdxsite.com/,,CDX: Light Vehicle
+Travis,Pike,piketra@gasc.flint.k12.mi.us,,Genesee ISD : GASC Technology Center,gasc,http://gasc.cdxsite.com/,,CDX: Light Vehicle
+Denny,Holt,dholt@grandblancschools.org,,Genesee ISD : Grand Blanc High School,grbl,http://grbl.cdxsite.com/,,CDX: Light Vehicle
+Matt,Roda,matt.roda@mcc.edu,,Genesee ISD : Mott Community College,mott,http://mott.cdxsite.com/,,CDX: Light Vehicle
+Ryan,Hardy,rhardy@ioniaisd.org,,Heartlands Institute of Technology,hiot,http://hiot.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+John,Carlson,carlsonj@ips.k12.in.us,,Indianapolis Public Schools : Career & Technology Center,catc,http://catc.cdxsite.com/,,CDX: Light Vehicle
+Jim,Coleman,jicolema@jjc.edu,,Joliet Junior College,joli,http://joli.cdxsite.com/,,CDX: Light Vehicle
+Joe,Wheeler,jwheeler@liberty.k12.mo.us ,,Liberty High School,libh,http://libh.cdxsite.com/,,CDX: Light Vehicle
+Dean,Bergeron,dnbergeron@clarenceville.k12.mi.us,,Clarenceville High School,clhs,http://clhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Greg,Ososky,greg.ososky@farmington.k12.mi.us,,Farmington High School,fahs,http://fahs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Tom,Jenkins,tjenkins@hazelpark.k12.mi.us,,Hazel Park School,haps,http://haps.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Paul,Macintyre,pmacintyre@lakeorion.k12.mi.us,,Lake Orion High School,lohs,http://lohs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+David,Verbeke,david.verbeke@farmington.k12.mi.us,,Farmington Public Schools : North Farmington High School,nfhs,http://nfhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Joel,Massarello,joel.massarello@oakland.k12.mi.us,,Oakland Schools Technical Campus - NE Pontiac & NW Clarkston,nwcl,http://nwcl.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Barry,Sherk,Barry.Sherk@oakland.k12.mi.us,,Oakland Schools Technical Campus - NE Pontiac & SE Royal Oak,sero,http://sero.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Dan,Balsley,balsld01@oxford.k12.mi.us,,Oxford High School,oxhs,http://oxhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Doug,Ogonowski,dougogonowski@wlcsd.org,,Walled Lake Western High School,wlwh,http://wlwh.cdxsite.com/,,CDX: Light Vehicle
+Chris,Bonfiglio,bonfic01@wsdmi.org,,Waterford Mott High School,wmhs,http://wmhs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Curtis,Garrett,cgarrett@elcamino.edu,,Compton Community College,comc,http://comc.cdxsite.com/,,CDX: Light Vehicle
+Ken,Faverty,Kfaverty@powayusd.com,,Poway High School,pohs,http://pohs.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Bill,Battaglia,william.battaglia@reg5.k12.ct.us,,Amity Regional Senior High School,areg,http://areg.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Steve,Burhoe,sburhoe@blmfld.org,,Bloomfield High School,blmh,http://blmh.cdxsite.com/,,CDX: Light Vehicle
+Hal,Resh,hcresh@yahoo.com,,Carbon Career and Technical Institute,ccti,http://ccti.cdxsite.com/,,CDX: Light Vehicle
+Dave,Appleman,applemad@carlisleschools.org,,Carlisle Area High School,csle,http://csle.cdxsite.com/,,CDX: Light Vehicle
+George,Varre,gvarre@wiu.k12.pa.us,,Northern Westmoreland Career & Technical Center,nwct,http://nwct.cdxsite.com/,,CDX: Light Vehicle
+William,Bertoti,wbertoti@pottstownsd.org,,Pottstown Senior High School,pott,http://pott.cdxsite.com/,,CDX: Light Vehicle
+Dennis,Stiefel,dlstiefel@dekalbk12.org,,Dekalb County Technology Center,dktc,http://dktc.cdxsite.com/,,CDX: Light Vehicle
+Michael,Stiles,mstiles@irsc.edu,,Indian River State College,irsc,http://irsc.cdxsite.com/,FCA2F4,CDX: Light Vehicle
+Marshall,Lystra,mlystra@muskegonisd.org,,Muskegon Area Technical Center,mact,http://mact.cdxsite.com/,,CDX: Light Vehicle
+Larry,Marshall,lmarshall@lawsonstate.edu,,Lawson State Community College,lscc,http://lscc.cdxsite.com,DA59FF,CDX: Light Vehicle
+Bob,Frantz,bfrantz@ivytech.edu,,Ivy Tech State College - Richmond Campus,ivyr,http://ivyr.cdxsite.com/,52D386,CDX: Light Vehicle
+Mario,Mirabal,mmirabal@hccfl.edu,1 (813) 253-7683,Hillsborough Community College,hill,http://hill.cdxsite.com/,DF647E,CDX: Light Vehicle
+Shannon,Kies,skies@unoh.edu,,University of Northwestern Ohio,unoh,http://unoh.cdxsite.com,432F3D,CDX: Light Vehicle
+,,,,,,,423F3D,CDX Diesel Online Course Series
+,,,,,,,432F3D,CDX: Hydraulics
+Chuck,McCarty,cmccarty@nvcc.edu,703-257-6579,Northern Virginia Community College - Manassas,nvcc,http://nvcc.cdxsite.com/,89E8EE,CDX Diesel Series
+,,,,,,,72F5B2,CDX Diesel: Brakes
+,,,,,,,84A275,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,DE3D68,CDX Diesel: Steering and Suspension 
+,,,,,,,C35C4B,CDX Diesel: Electrical & Electronic Systems
+Jeremy,Horton,jhorton@usd506.org,,Labette County High School,lchs,http://lchs.cdxsite.com,,CDX: Light Vehicle
+Jimmy,Caudill,jimmyd.caudill@kctcs.edu,606-435-6101,Hazard Community College,hazard,http://hazard.cdxsite.com,E38A77,CDX: Light Vehicle
+,,,,,,,CB4666,CDX Diesel Series
+Keith,Cornell - 2,kcornell@effingham.k12.ga.us ,,Effingham County High School,echs,http://echs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Curtis,Cline,curtisc@wcjc.edu,979-532-6548,Wharton County Junior College,wcjc,http://wcjc.cdxsite.com,C4CDD5,CDX: Light Vehicle
+Ralph,Schultz,ralph_shultz@ycs.wednet.edu,,Yelm High School,yelm,http://yelm.cdxsite.com,,CDX: Light Vehicle
+Dale,Pletan,dpletan@uttc.edu,701-255-3285,United Tribes Technical College,uttc,http://uttc.cdxsite.com,C7AAD6,CDX: Light Vehicle
+Marvin,Argersinger,argersm@lcc.edu,517-483-1375,Lansing Community College,lans,http://lans.cdxsite.com/,4538C9,CDX: Light Vehicle
+,,,,,,,FE2262,CDX: Light Vehicle 2 Year
+Dennis,Ruedel,autoshop@mooseheart.org,,Mooseheart High School,mhhs,http://mhhs.cdxsite.com,,CDX: Light Vehicle
+Dan,Buzalski,dbuzalski@vbisd.org,,Van Buren Vocational Tech Center,vbvt,http://vbvt.cdxsite.com,,CDX: Light Vehicle
+Casey,Knecht,knechtc@daytonastate.edu,386-506-3000,Daytona State College,daytona,http://daytona.cdxsite.com,742AE5,CDX: Light Vehicle
+,,,,,,,D72FD3,CDX: Light Vehicle 2 Year
+Mitch,Rightnowar,MDRightnowar@rolla.k12.mo.us,,Rolla Technical Institute,rolla,http://rolla.cdxsite.com,,CDX: Light Vehicle
+Scott,Webb,swebb@sotc.org,,Southern Oklahoma Technology Center,sotc,http://sotc.cdxsite.com,,CDX: Light Vehicle
+Henry,Lyles,luvurrntoday@aol.com,,AH Parker High School,ahph,http://ahph.cdxsite.com,,CDX: Light Vehicle
+Anthony,Windham,aiwindham@bhamcityschools.org,,Jackson-Olin High School,johs,http://johs.cdxsite.com,,CDX: Light Vehicle
+Nathan,Vannest,nvannest@oaisd.org,,Careerline Tech Center,ctec,http://ctec.cdxsite.com,,CDX: Light Vehicle
+Mike,Johnson,mjohnson4@gvboces.org,,Genesee Valley BOCES - Mt Morris Campus,gvmm,http://gvmm.cdxsite.com,,CDX: Light Vehicle
+Glenn,Cramer,gcramer@gvboces.org,,Genesee Valley BOCES - Batavia Campus,gvbb,http://gvbb.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Randy,Yates,yatesr@lake.k12.fl.us,352-589 2250,Lake Technical Center,laketech,http://laketech.cdxsite.com,7DC584,CDX Diesel: Brakes
+,,,,,,,3282D3,CDX Diesel: Drive Trains
+,,,,,,,BE22AD,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,433396,CDX Diesel: Engines
+,,,,,,,8EFED4,CDX Diesel: HVAC
+,,,,,,,C4D4C9,CDX Diesel: Hydraulics
+,,,,,,,5D9682,CDX Diesel: Preventive Maintenance & Inspection
+,,,,,,,4E9726,CDX Diesel: Steering and Suspension 
+Dan,Uhl,Dan.Uhl@portlandoregon.gov,503-823-1834,City of Portland,cpdx,http://cpdx.cdxsite.com/,,CDX: Fleet
+Gary,Doolin,Gary.doolin@viu.ca,250-740-6453,Skills Canada: Vancouver Island University,viun,http://viun.cdxsite.com/,B45A32,CDX: Light Vehicle
+David,Shields,davids@meridian-technology.com,,Meridian Technology Center,meridian,http://meridian.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Clarence,Brewer,cbrewer@crowder.edu,417-451-3223,Crowder College,crowder,http://crowder.cdxsite.com,832228,CDX Diesel Series
+Joe,Smith,lsmith@watc.edu,316-677-9476,Wichita Area Technical College  ,watc,http://watc.cdxsite.com,B6726C,CDX: Light Vehicle
+Bill,Barbie,bbarbie@carson.k12.nv.us,,Carson High School,carson,http://carson.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Jim,Daniels,jdaniels@morainepark.edu,920-924-3159,Moraine Park Technical College,mptc,http://mptc.cdxsite.com/,963253,CDX: Light Vehicle
+Liz,Dobson,edobson@centennialcollege.ca,416-289-5000,Centennial College: Centennial Libraries,cenl,http://cenl.cdxsite.com/,28C379,CDX Diesel Series
+Hugh,Mann,hugh.mann@hccs.edu,713-718-8121,Houston Community College,hcom,http://hcom.cdxsite.com,3338E7,CDX Diesel Series
+Vance,Garrett,garrettv@walkercountyschools.com,205-387-0561,Walker County Center of Technology,wcct,http://wcct.cdxsite.com,9D72B2,CDX Diesel Series
+John,Riser,jriser@ashworthuniversity.edu,770-729-8400,Ashworth University,ashworth,http://ashworth.cdxsite.com,,CDX: Light Vehicle
+Scott,Benedict,sbenedict@wflboces.org,585-526-6418,Finger Lakes Technical and Career Center  ,fltc,http://fltc.cdxsite.com,AB3E32,CDX Diesel Series
+Neal,Harris,neal.harris@northshorecollege.edu,985-807-5585,North Shore Technical College,nstc,http://nstc.cdxsite.com,3BB226,CDX Diesel Series
+Larry,Seibel,LSeibel@mvctc.com,937-854-6358,Miami Valley Career Technology Center,mvct,http://mvct.cdxsite.com,9A3432,CDX Diesel Series
+Steven,Stuelp,sstuelp@gadsdenstate.edu,256-835-5419,Gadsden State Community College,gdsc,http://gdsc.cdxsite.com/,2444A8,CDX Diesel Series
+Billy,Eller,billy.eller@wilkescc.edu,336-838-6243,Wilkes Community College,wilkes,http://wilkes.cdxsite.com,33FE87,CDX Diesel: Brakes
+,,,,,,,D23BC7,CDX Diesel: Electrical & Electronic Systems
+,,,,,,,3F3CBD,CDX Diesel: Engines
+,,,,,,,7593FC,CDX Diesel: Steering and Suspension 
+,,,,,,,2EBA5C,CDX Diesel Online Course Series
+Rick,Stewart,rstewart@monett.k12.mo.us,417-235-7022,Scott Regional Technology Center,srct,http://srct.cdxsite.com,535E39,CDX Diesel Series
+Kevin,Human,khuman@ttcharriman.edu,865-882-6703,Tennessee Technology Center - Harriman,ttch,http://ttch.cdxsite.com/,C22F24,CDX Diesel Series
+,,,,,,,DE3636,CDX: Light Vehicle 2 Year
+Brian,Lee,texas_ronin@yahoo.com,,Brownwood High School,brownwood,http://brownwood.cdxsite.com,,CDX: Light Vehicle
+Clinton,Ellis,cellis@cvtech.edu,,Canadian Valley Technology Center - Chickasha,cvtc,http://cvtc.cdxsite.com,,CDX: Light Vehicle
+Lance,David,ldavid@clcillinois.edu,847-543-2509,College of Lake County,colc,http://colc.cdxsite.com,A4D924,CDX: Light Vehicle
+Chris,Cooper,ccooper@laniertech.edu,706-265-4382,Lanier Technical College - Dawson Campus,ltcd,http://ltcd.cdxsite.com,8A8242,CDX: Light Vehicle
+Pete,Holland,pholland@wbactc.org,570-822-4131,Wilkes-Barre Area Career and Technical Center,wbac,http://wbac.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Eric,Alexander,ealexander@gptech.org,580-355-6371,Great Plains Technology Center,gptc,http://gptc.cdxsite.com,435E5E,CDX: Light Vehicle
+Joe,Gravino,jgravino@pcti.tec.nj.us,973-389-4271,Passaic County Technical Institute,pasc,http://pasc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Paul,Nelson,nelsopj@bay.k12.fl.us,850-767-5500,Tom P Haney Technical Center,tpht,http://tpht.cdxsite.com,D373B7,CDX: Light Vehicle
+,,,,,,,83B8F7,CDX: Light Vehicle 2 Year
+Tony,Marra,tmarra@pgcc.edu,443-518-4180,Prince George's Community College,pgcc,http://pgcc.cdxsite.com,49AD49,CDX: Light Vehicle
+Dan,Beeson,dbeeson@btc.ctc.edu,,Bellingham Technical College,bete,http://bete.cdxsite.com/,36ED97,CDX: Light Vehicle
+,,,,,,,49593D,CDX: Light Vehicle 2 Year
+Leslie,Warr,leslie.warr@jonesboroschools.net,870-933-5891,Northeast Arkansas Career and Technical Center,neac,http://neac.cdxsite.com,,CDX: Light Vehicle
+Mike,Garrett,mgarrett@lubbockisd.org,,Byron Martin Technology Center,bmtc,http://bmtc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+John,Weaver,john.weaver@ttccovington.edu,901-475-2526,Tennessee Technology Center - Covington,tcov,http://tcov.cdxsite.com,326B29,CDX: Light Vehicle
+Mark,Hendricks,mhendricks@rdanderson.org,,RD Anderson Applied Technology Center,rdat,http://rdat.cdxsite.com,,CDX: Light Vehicle
+Randy,Schock,schockr@lcti.org,610-799-2300,Lehigh Career & Technical Institute,lehigh,http://lehigh.cdxsite.com,,CDX Diesel Series
+Dustin,Bickley,dbickley@cvtech.edu,,Canadian Valley Technology Center - El Reno,cvte,http://cvte.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Jeff,Taylor,jtaylor@jamessprunt.edu,910-296-2587,James Sprunt Community College,sprunt,http://sprunt.cdxsite.com,D3C737,CDX Diesel: Hydraulics
+Mike,Hagan,mike.hagan@cherokee.k12.ga.us,,Cherokee High School - GA,cher,http://cher.cdxsite.com,,CDX: Light Vehicle
+Chuck,Wilson,charles.wilson@cherokee.k12.ga.us,,Sequoyah High School,sequ,http://sequ.cdxsite.com,,CDX: Light Vehicle
+David,Wood,dwood@acs.ac,,Anderson County Career and Technology Center,acct,http://acct.cdxsite.com/,,CDX: Light Vehicle
+Paul,Anderson,paul.anderson@gfschools.org,,Red River High School,rriv,http://rriv.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,MLR
+Eric,Enocksen,eenocksen@dallasisd.org,,Dallas ISD: Skyline High School,skyl,http://skyl.cdxsite.com/,,CDX Diesel Series
+Larry,DeBello,debellol@hasdk12.org,570-459-3221,Hazleton Area Career Center,hazleton,http://hazleton.cdxsite.com,,CDX: Light Vehicle
+Jeffrey,Thorpe,jthorpe@irvingisd.net,972-600-4800,Ratteree Career Center,ratteree,http://ratteree.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Charlie,Magruder,magruder@moberly.k12.mo.us,660-269-2690,Moberly Area Technical Center,moberly,http://moberly.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+Jim,Michlig,james.michlig@muskegonorway.org,262-971-1790,Muskego High School,muskego,http://muskego.cdxsite.com,,CDX: Light Vehicle
+Steve,Street,steve.street@netech.edu,(918) 257-8324,Northeast Technology Center - Afton Campus,afton,http://afton.cdxsite.com,,CDX: Light Vehicle
+kevin,roberts,kmreagle@gmail.com,304-586-3494,Putnam Career Technical Center,putnam,http://putnam.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Steve,Johnson,steven.johnson@kctcs.edu,859-246-6774,Bluegrass Community and Technical College,bctc,http://bctc.cdxsite.com/,2D9B3D,CDX: Light Vehicle
+,,,,,,,CE752E,CDX: Light Vehicle 2 Year
+Phil,Morgan,pjmorgan@ivytech.edu,765-289-2291,Ivy Tech State College - East Central,ivye,http://ivye.cdxsite.com/,2DB9F2,CDX: Light Vehicle
+Tester,One,t1@wd31.com,,testschool,testschool,http://testschool.cdxsite.com,D4D7D5,CDX: Light Vehicle 2 Year
+,,,,,,,,MLR
+Scott,Street,strscott@sd151.k12.id.us,,Cassia Regional Technical Center,cassia,http://cassia.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Brian,Manley,manley_brian@hotmail.com,,Smoky Hill High School,smoky,http://smoky.cdxsite.com,,CDX: Light Vehicle
+Bill,Uttich,bill.uttich@bvsd.org,,Boulder Technical Education Center,boulder,http://boulder.cdxsite.com,,CDX: Light Vehicle 2 Year
+Mitch,Crowden,mcrowden@sanjuan.edu,,Casa Roble Fundamental High School,crfh,http://crfh.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Jim,Blair,james442@frontier.com,,New River Community and Technical College,newriver,http://newriver.cdxsite.com,B7CF2F,CDX: Light Vehicle
+Brent,Wilson,bwilson@germanna.edu,,James Monroe High School,jmhs,http://jmhs.cdxsite.com,,CDX: Light Vehicle
+Mike,Bammer,mbammer@lcisd.k12.mi.us,,Lapeer County Education and Technology Center,lapeer,http://lcet.cdxsite.com,,CDX Diesel Series
+Charles,Harrell,harrell@uaccm.edu,,University of Arkansas Community College - Morrilton,uacm,http://uacm.cdxsite.com,,CDX: Light Vehicle
+Drew,Barnes,dbarnes@buhlschools.org,,Buhl High School,buhl,http://buhl.cdxsite.com,843E4D,CDX: Light Vehicle
+Tom,Lowe,lowet@calhounisd.org,,Calhoun Area Technology Center,calh,http://calh.cdxsite.com,,CDX: Light Vehicle
+Lee,Berger,lberger@cseced.org,,Carver-Scott Educational Cooperative,csec,http://csec.cdxsite.com,,CDX: Light Vehicle
+Fred,Davis,fdavis@uacch.edu,,Arkansas: University of Arkansas Community College Hope,uach,http://uach.cdxsite.com/,,CDX: Light Vehicle
+John,Rickerson,jrickerson@peachschools.org,,Peach County High School,pchs,http://pchs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Brian,LaCroix,blacroix@gw.neric.org,,Capital Region Career and Technical School,capital,http://capital.cdxsite.com,,CDX: Light Vehicle
+Ronnie,Webster,rwebster@dillonatech.com,,Dillon County Technology Center,dillon,http://dillon.cdxsite.com,,CDX: Light Vehicle
+Ian,Saville,oranger@comcast.net,,Mineral County Vocational Technical Center,mineral,http://mineral.cdxsite.com,,CDX: Light Vehicle
+Claude,Townsend,claude.townsend@oakland.k12.mi.us ,,Oakland Schools Technical Campus - NE Pontiac : Oakland Schools Technical Campus - SW Walled Lake,oaks,http://oaks.cdxsite.com/,,CDX Diesel Series
+,,,,,,,,LV 2014
+Lewis,Turpin,lewis.turpin@ttcathens.edu,,Tennessee Technology Center - Athens,ttca,http://ttca.cdxsite.com/,2C53C3,CDX: Light Vehicle 2 Year
+,,,,,,,A2C369,HV Diesel complete
+Roger,Gregory,roger.gregory@ttchartsville.edu,,Tennessee Technology Center - Hartsville,tchv,http://tchv.cdxsite.com/,,CDX: Light Vehicle
+Ronnie,Bush,rbush@ttcjackson.edu,,Tennessee Technology Center - Jackson,tenj,http://tenj.cdxsite.com/,"E8DED5
+",CDX: Light Vehicle
+,,,,,,,83CA72,CDX: Light Vehicle 2 Year
+Mike,Parson,mparton@ttcmorristown.edu,,Tennessee Technology Center - Morristown,tmor,http://tmor.cdxsite.com/,,CDX: Light Vehicle
+Mike,McCord,mike.mccord@ttcwhiteville.edu,,Tennessee Technology Center - Whiteville,ttcw,http://ttcw.cdxsite.com/,,CDX: Light Vehicle
+Mike,King,mking@ttcnashville.edu,,Tennessee Technology Center - Nashville,tent,http://tent.cdxsite.com/,,CDX: Light Vehicle
+Charles,Vaughn,cvaughn@ttcmurfreesboro.edu,,Tennessee Technology Center - Murfreesboro,murf,http://murf.cdxsite.com/,,CDX: Light Vehicle
+Rick,Vanderford,rick.vanderford@ttcmemphis.edu,,Tennessee Technology Center - Memphis,tenm,http://tenm.cdxsite.com/,,CDX: Light Vehicle
+Monty,Smith,montysmith@herefordisd.net,,Hereford High School,hereford,http://hereford.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Mike,Kinney,mkinney@bates.ctc.edu,,Bates Technical College,bates,http://bates.cdxsite.com,,CDX: Light Vehicle
+Cam,McRobb,cmcrobb@okanagan.bc.ca,,Central Okanagan School District #23 : Okanagan University College,okan,http://okan.cdxsite.com/,7D67E3,CDX: Light Vehicle
+Ed,Anthony,canthony@patrickhenry.edu,,Patrick Henry Community College,patrick,http://patrick.cdxsite.com,CAE788,CDX: Light Vehicle
+,,,,,,,69E973,LV 2014
+Roy,Shafer,roys@coffeyville.edu,,Coffeyville Community College & Area Tech School,coff,http://coff.cdxsite.com/,98737F,CDX: Light Vehicle
+Jeff,Hardy,jwhardy@access.k12.wv.us,,John D Rockefeller IV Career Center,jdrock,http://jdrock.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+,,,,,,,,LV 2014
+Bob,Weil,bweil@stlcc.edu,,St Louis Community College - Forest Park,stlouis,http://stlouis.cdxsite.com,93D226,CDX: Light Vehicle
+Greg,Jones,greg.jones@fayette.kyschools.us,,Eastside Center for Applied Tech (Fayette Co.),ecatf,http://ecatf.cdxsite.com,,CDX: Light Vehicle
+George,Englebrecth,gengelbrecht@wacoisd.org,,University High School,uhs,http://uhs.cdxsite.com,,CDX: Light Vehicle
+Mark,Penney,mpenney@wacoisd.org,,Waco High School,waco,http://waco.cdxsite.com,,CDX: Light Vehicle
+Randy,Davis,rdavis@msln.net,,Northern Penobscot Tech Region III,nprt,http://nptr.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+Scott,Patrick,scott.patrick@pickawayross.com,,Pickaway Ross Career & Technical,pickaway,http://pickaway.cdxsite.com,,CDX Diesel Series
+Tom,Meyers,tmyers@westerncenter.org,,Western Montgomery Career and Technology Center,wmct,http://wmct.cdxsite.com,,CDX Diesel Series
+Robert,Christian,rchristian@access.k12.wv.us,,McDowell Career & Technology Center,mcdowell,http://mcdowell.cdxsite.com,,CDX: Light Vehicle
+Brian,Rencher,bkrencher@alaska.edu,,University of Alaska : University of Alaska - Fairbanks,uala,http://uala.cdxsite.com/,,CDX Diesel Series
+Ralph,Hutzel,rhutzell@gjctc.org,,Greater Johnstown Career & Technology Center,gjct,http://gjct.cdxsite.com,,
+Roxanne,Amiot,roxanne.amiot@ct.gov,,Bullard Havens Vo-Tech School,bhvt,http://bhvt.cdxsite.com,,CDX: Light Vehicle
+Ignacio,Vega,ignacio.vega@ct.gov,,Connecticut: Emmett O'Brien Technical High School,eobh,http://eobh.cdxsite.com/,,CDX: Light Vehicle
+John,Blake,John.Blake@ct.gov,,Connecticut: Grasso Southeastern Technical High School,gsth,http://gsth.cdxsite.com/,,CDX: Light Vehicle
+Mark,Langlais,mark.langlais@ct.gov,,Connecticut: Henry Abbott Regional Technical High School,habb,http://habb.cdxsite.com/,,CDX: Light Vehicle
+Brendan,Smith,Brendan.Smith@ct.gov,,Connecticut: HH Ellis Technical High School,hhet,http://hhet.cdxsite.com/,,CDX: Light Vehicle
+David,Morello,David.Morello@ct.gov,,Howell Cheney Regional Technical High School,hcrt,http://hcrt.cdxsite.com,,CDX Diesel Series
+,,,,,,,,LV 2014
+Peter,Fiasconaro,Peter.fiasconaro@ct.gov,,Connecticut: Norwich Regional Technical High School,nrth,http://nrth.cdxsite.com/,,CDX: Light Vehicle
+Carlos,Nieves,Carlos.Nieves@ct.gov,,Connecticut: Vinal Technical High School,vths,http://vths.cdxsite.com/,,CDX: Light Vehicle
+Travis,LaRiviere,Travis.LaRiviere@ct.gov,,Connecticut: Windham Regional Technical High School,wrth,http://wrth.cdxsite.com/,,CDX: Light Vehicle
+Nick,Shearer,nshearer@crawfordctc.org,,Crawford County Area Vocational-Technical School  ,ccav,http://ccav.cdxsite.com,,
+James,Baker,bakerj@hocking.edu,,Hocking College,hock,http://hock.cdxsite.com/,,CDX: Light Vehicle
+Chris,Boggs,ccboggs@access.k12.wv.us,,Monongalia County Technical Education Center,monongalia,http://monongalia.cdxsite.com,,CDX: Light Vehicle
+Anthony,Trump,atrump@hcstonline.org,,Hudson County School of Technology,hcst,http://hcst.cdxsite.com/,,CDX: Light Vehicle
+Jim,Stafford,jstafford@ttcnewbern.edu,,Tennessee Technology Center - Newbern,tenn,http://tenn.cdxsite.com/,5F32FA,CDX: Light Vehicle
+,,,,,,,76343A,CDX: Light Vehicle 2 Year
+Dwane,Bennett,cdbennet@access.k12.wv.us,,Wheeling Park High School,wheeling,http://wheeling.cdxsite.com,,CDX: Light Vehicle
+Tim,Timoszyk,timoszyt@saline.k12.mi.us,,Saline High School,saline,http://saline.cdxsite.com,,CDX: Light Vehicle
+Henry,Thoreson,hthoreson111@kctcs.edu,,Southeast KY Community College - Harlan Campus,kycc,http://kycc.cdxsite.com,,CDX Diesel Series
+Don,Mason,don.mason@sait.ca,,Southern Alberta Institute of Technology,sait,http://sait.cdxsite.com,,CDX Diesel Series
+James,Lester,jlester@laniertech.edu,,Lanier Technical College - Oakwood Campus,lanier,http://lanier.cdxsite.com,24B463,CDX: Light Vehicle
+Heinz,Autenried,heinz.autenried@ttchohenwald.edu,,Tennessee Technology Center - Hohenwald,tthw,http://tthw.cdxsite.com/,,CDX: Light Vehicle
+Bob,Swartzentrover,bob.swartzentrover@ttcshelbyville.edu,,Tennessee Technology Center - Shelbyville,ttcs,http://ttcs.cdxsite.com/,,CDX: Light Vehicle
+Harold,Santamaria,hsantamaria@ccc.edu,,Truman College,truman,http://truman.cdxsite.com,5643B8,CDX: Light Vehicle 2 Year
+Leroy,Myers,emyers@access.k12.wv.us,,Rubenstein Correction Center,rubenstein,http://rubenstein.cdxsite.com,,CDX: Light Vehicle
+Cliff,Motes,jmotes@access.k12.wv.us,,Ralph R Willis Career Tech Center,rrwc,http://rrwc.cdxsite.com,,CDX: Light Vehicle
+Dan,Kortas,dkortas@airport.k12.mi.us,,Airport Senior High School,ashs,http://ashs.cdxsite.com,,CDX: Light Vehicle
+Ken,Ellefson,kellefson@techcampus.org,,Lake County High Schools Technology Campus,lake,http://lake.cdxsite.com/,,CDX: Light Vehicle
+Tim,Turner,jtturner@access.k12.wv.us,,Fred Eberle Tech,hv.fetc,http://fetc.cdxsite.com/,,CDX: Light Vehicle
+Andy,Smith,andy.smith@ttcknoxville.edu,,Tennessee Technology Center - Knoxville,ttck,http://ttck.cdxsite.com/,A5AABC,CDX: Light Vehicle
+,,,,,,,F3D2BA,CDX: Light Vehicle 2 Year
+Richard,Lotito,rlotito@dadeschools.net,,Braman Automotive Training Center – LHTEC,braman,http://braman.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Terry,Butler,terry.butler@browardschools.com,,Atlantic Technical Center,atlantic,http://atlantic.cdxsite.com,,CDX: Light Vehicle
+George,Medina,medinage@butte.edu,,Butte College,butte,http://butte.cdxsite.com,737667,CDX: Light Vehicle
+Ron,Kirmer,kirmerr@bartonccc.edu,,Barton County Community College,barton,http://barton.cdxsite.com,,CDX: Light Vehicle
+Mike,Harris,Michael.harris@chattanoogastate.edu,,Tennessee Technology Center Chattanooga,ttec,http://ttec.cdxsite.com/,,CDX Diesel Series
+Marshall,Britton,MEB562@interact.ccsd.net,,Southeast Career Technical Academy (SECTA),scta,http://scta.cdxsite.com,,CDX: Light Vehicle
+Ronald,Luellen,Ronald_Luellen@yc.edu,,Yavapai Community College,yavapai,http://yavapai.cdxsite.com,CB524B,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+,,,,,,,,CDX Hydraulics & Fluid Power: Level 1
+Terry,Avery,tavery_2000@yahoo.com,,Lincoln County High School,lincoln,http://lincoln.cdxsite.com,,CDX: Light Vehicle
+Mike,Davis,mdavis@ivytech.edu,,Ivy Tech Distance Learning,ivyd,http://ivyd.cdxsite.com,8BFF77,CDX: Light Vehicle
+Donald,Lumsdon,dlumsdon@ivytech.edu,,Ivy Tech State College - Terre Haute (Wabash),ivyth,http://ivyth.cdxsite.com,F6533F,CDX: Light Vehicle
+Brad,Huffman,brad.huffman@sdhc.k12.fl.us,,South County Career Center,sccc,http://sccc.cdxsite.com,,CDX: Light Vehicle
+David,Gautreau,DavidGautreau@k12.waltham.ma.us,,Waltham High School,waltham,http://waltham.cdxsite.com,,CDX: Light Vehicle
+Peter,Coomar,pcoomar@monroeccc.edu,,Monroe County Community College,monroe,http://monroe.cdxsite.com,DB2829,CDX: Light Vehicle
+Juan,Wood,juan_wood@hcpss.org,,Applications and Research Laboratory,aarl,http://aarl.cdxsite.com,,CDX: Light Vehicle
+Monte,Hamsher,monteeh@leeschools.net,,Fort Myers Institute of Technology,ftmyers,http://ftmyers.cdxsite.com,,CDX: Light Vehicle
+Galeon,Smith,galeonsmith@crowder.edu,,Crowder College,crowder,http://crowder.cdxsite.com,,CDX: Light Vehicle
+Mike,Kurz,mkurz@nwltc.edu,,Northwest Louisiana Technical College - Shreveport,nltcs,http://nltcs.cdxsite.com,CB22FC,CDX: Light Vehicle
+,,,,,,,EF6642,CDX: Light Vehicle 2 Year
+Dan,Adamczyk,adamczykd@sps.springfield.ma.us,,Putnam Vocational Technical Academy,pvta,http://pvta.cdxsite.com,,CDX: Light Vehicle
+Billy,Young,billy.young@ttcknoxville.edu,,Tennessee Technology Center - Knoxville,ttck,http://ttck.cdxsite.com/,,CDX Diesel Series
+Jeff,Curtis,jcurtis@btc.ctc.edu,,Bellingham Technical College,bete,http://bete.cdxsite.com/,,CDX: Hydraulics
+,,,,,,,,CDX Diesel Series
+Gary,Busch,buschg@hasdk12.org,,Hazleton Area Career Center,hazleton,http://hazleton.cdxsite.com,,CDX Diesel Series
+Scott,Gallegos,sgallegos@hollandamerica-princess.com,,HAP Alaska - Yukon,hapy,http://hapy.cdxsite.com,,CDX: Fleet
+,,,,,,,,LV 2014
+Jeff,Cole,Jcole@dc3.edu,,Dodge City Community College,dodge,http://dodge.cdxsite.com,,CDX: Light Vehicle
+Kevin,Kneece,kkneece@lexington4.net,,Swansea High School,swansea,http://swansea.cdxsite.com,,CDX: Light Vehicle
+Jerry,Cremeans,jcremean@access.k12.wv.us,,Lincoln County School District,lcsd,http://lcsd.cdxsite.com,,CDX: Light Vehicle
+Ed,Jolly,edj@gctech.org,,Gordon Cooper Technology Center,hv.gctc,http://gctc.cdxsite.com,,CDX Diesel Series
+Michael,Peat,mpeat@oakton.edu,,Oakton Community College,oakton,http://oakton.cdxsite.com,,CDX: Light Vehicle
+Peter,Girard,peter.girard@mnwest.edu,,Minnesota West Community & Technical College - Canby,mwct,http://mwct.cdxsite.com,72CBAA,CDX Diesel Series
+James,Hathaway,Jameshathaway@bpsma.org,,Brockton High School,brhs,http://brhs.cdxsite.com,,CDX: Light Vehicle
+Joe,Lazzarino,JOSEPH.LAZZARINO@farmington.k12.mi.us,,Harrison High School-MI,harrison,http://harrison.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Michael,Conner,mconner@msjc.edu,,Mt San Jacinto College,mtsjc,http://mtsjc.cdxsite.com,957BC6,CDX: Light Vehicle
+Tom,Millard,tmillard@jeffco.k12.co.us,,Warren Technical Center,wrtc,http://wrtc.cdxsite.com,,CDX: Light Vehicle
+Kathy,Levinson,kathyluvky@hotmail.com,,"Jefferson Community & Technical College, Workforce Solutions",jctcws,http://jctcws.cdxsite.com,4EE9C8,CDX: Light Vehicle
+Steve,Esch,steven.esch@colin.edu,601-643-8437,Copiah-Lincoln Junior College,cljc,http://cljc.cdxsite.com/,58E382,CDX Diesel Series
+Jason,Allen,jallen68@ivytech.edu,765-269-5000,Ivy Tech - Lafayette Institute,ivyli,http://ivyli.cdxsite.com,595832,CDX: Light Vehicle
+Stan,Kachmarski,skachmar@nlc.bc.ca,,Northern Lights College,nlights,http://nlights.cdxsite.com,,CDX: Light Vehicle
+Marvin,Miyashiro,marmiya@hotmail.com,,McKinley High,mckinley,http://mckinley.cdxsite.com,,CDX: Light Vehicle
+Amanda,Mitchell,amitchell@jblearning.com,,Reviewers Master copies,review.cdxsite.com,http://review.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Light Vehicle
+,,,,,,,,CDX: Hydraulics
+Demo,Hydraulics,demohydraulics@cdxauto.com,,Demo CDX Hydraulics & Fluid Power,demohyd,http://demohyd.cdxsite.com,23c442,CDX Hydraulics & Fluid Power: Level 1
+Steve,Bingham,binghams@hartfordschools.net,,Hartford Career & Technical Center,hartford,http://hartford.cdxsite.com,,CDX: Light Vehicle
+Michael,Holub,michael.holub@gvltec.edu,,Greenville Technical College,gvltec,http://gvltec.cdxsite.com,,CDX Diesel Series
+,,,,,,,,CDX: Light Vehicle
+Pete,Lafranca,plafranca@schools.nyc.gov,,Alfred E Smith High School,aesh,http://aesh.cdxsite.com/,,CDX: Light Vehicle
+Jeff,Keen,keenj@ccetc.org,,Crockett County High School,crockett,http://crockett.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Martin,Ross,mrbross@access.k12.wv.us,,Spring Valley Career and Technical Center,svct,http://svct.cdxsite.com,,CDX: Light Vehicle
+Peter,Mandt,Peter.Mandt@ndscs.edu,701-671-2442,North Dakota State College of Science,ndscs,http://ndscs.cdxsite.com,D42A42,CDX: Light Vehicle
+,,,,,,,e72ca6,CDX: Light Vehicle 2 Year
+Cassandra,Washington,cmwashington@bibb.k12.ga.us,,William S Hutchings Career Center,hutchings,http://hutchings.cdxsite.com,,CDX: Light Vehicle
+Larry,Krugle,lrkrugle@wfisd.net,,Hirschi High School,hirschi,http://hirschi.cdxsite.com,,CDX: Light Vehicle
+Chuck,Mainwaring,Charles.p.mainwaring@willistonstate.edu,701-774-4200,Williston State College,williston,http://hv.williston.cdxsite.com,232222,CDX Diesel Series
+Kip,Ramsey,kiramsey@gips.org,,Grand Island High School,gihs,http://gihs.cdxsite.com,,CDX: Light Vehicle
+Michael,Humm,michael.humm@mhs.org,,Murphysboro High School,murphy,http://murphy.cdxsite.com,,CDX: Light Vehicle
+Terry,Edwards,terry.edwards@desotoisd.org,,Desoto High School,desoto,http://desoto.cdxsite.com,,CDX: Light Vehicle
+Jason,Brooks,brooksj@mcduffie.k12.ga.us,,Thomson High School,thomson,http://thomson.cdxsite.com,,CDX: Light Vehicle
+Ruben,Ramirez,rframire@episd.org,,Center for Career & Technology Education,hv.ccte,http://hv.ccte.cdxsite.com,,CDX Diesel Series
+Tom,Fischer,fischert@salemhigh.com,,Salem Community High School,salem,http://salem.cdxsite.com,,CDX: Light Vehicle
+Daryl,Littles,ittlda@boe.richmond.k12.ga.us,,Glenn Hills High School,glennhills,http://glennhills.cdxsite.com,,CDX: Light Vehicle
+John,Lee,john.lee@ttcelizabethton.edu,423-547-2590,Tennessee Technology Center - Elizabethton,ttce,http://ttce.cdxsite.com/,EBE232,CDX Diesel Series
+Joseph,Cosby,Joseph.Cosby@Allen.kyschools.us,,Allen County Vocational School,allen,http://allen.cdxsite.com,,CDX: Light Vehicle
+Brian,Kanable,kanableb@westerntc.edu,,Western Technical College - WI,westtech,http://westtech.cdxsite.com,2F56F2,CDX: Light Vehicle
+James,Carter,carterj@tennk12.net,,Chester County High School,chester,http://chester.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Walter,Posten,postenw@martin.k12.fl.us,,Martin County High School,martin,http://martin.cdxsite.com,,CDX: Light Vehicle
+Mark,Hendrix,hendrim@martin.k12.fl.us,,South Fork High School,southfork,http://southfork.cdxsite.com,,CDX: Light Vehicle
+Keith,Barnett,kbarnett@matech.org,,Mid-America Technology Center,midamerica,http://midamerica.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,CDX Diesel Online Course Series
+Richard,Curry,rcurry1@pghboe.net,,Pittsburgh Brashear High School,pbhigh,http://pghboe.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+Larry,Pelletier,lpelletier@aos94.org,,Tri-County Technical High School,tricounty,http://tricounty.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+David,Borelli,dborrell@polytech.k12.de.us,,Polytech High School - DE,polytechhs,http://polytechhs.cdxsite.com,,CDX: Light Vehicle
+Todd,Kessler,tkessler@ycstech.org,,York County School of Technology,york,http://york.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+,,,,,,,,LV 2014
+Mark,Kozemko,mkozemko@johnson.edu,,Johnson College,johnson,http://johnson.cdxsite.com,6F2F27,CDX: Light Vehicle 2 Year
+Jim,Nelson,james.nelson@dmps.k12.ia.us,,Des Moines Central Campus,dmcc,http://dmcc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Russell,Anderson,russell.anderson@vta.org,,Santa Clara Valley Transit Authority,scvt,http://scvt.cdxsite.com/,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Ted,Cameron,tcameron@minidokaschools.org,,Minico High School,hv,http://hv.minico.cdxsite.com/,,CDX Diesel Series
+Ron,Hoke,ron.hoke@wayne.k12.in.us,,Ben Davis High School,bdhs,http://bdhs.cdxsite.com,,CDX: Light Vehicle
+Jeff,Biggs,jbiggs@newtonnc.gov,,City of Newton,cityofnewton,http://cityofnewton.cdxsite.com,,CDX: Fleet
+Dan,Davis,ddavis@mccc.tec.pa.us,,Mercer County Career Center,mercer,http://mercer.cdxsite.com,,CDX: Light Vehicle
+Raymond,Fayo,fayorj@gm.sbac.edu,,Loften High School,loften,http://loften.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Brian,Peterson,brian.peterson@cherokee1.org,,Cherokee Technical Center,cherokee,http://cherokee.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+David,Macy,dmacy@pittsfield.net,,Taconic High School,taconic,http://taconic.cdxsite.com,,CDX: Light Vehicle
+Henry,Hall,henry.hall@pgcps.org,,Crossland High,crossland,http://crossland.cdxsite.com,,CDX: Light Vehicle
+Nicki,Howard,howard@cantonlocal.org,,Canton South High School,canton,http://canton.cdxsite.com,,CDX: Light Vehicle
+David,Myers,d_myers@southwesterncc.edu,,Southwestern Community College - NC,sccnc,http://sccnc.cdxsite.com,4358E4,CDX: Light Vehicle
+,,,,,,,462322,CDX: Light Vehicle 2 Year
+Ryne,Terao,ryne_terao@notes.k12.hi.us,,Kapaa High School,kapaa,http://kapaa.cdxsite.com,,CDX: Light Vehicle
+Ruben,Riojas,ruben.riojas@sfdr-cisd.org,,Del Rio High School,delrio,http://delrio.cdxsite.com,,CDX: Light Vehicle
+Larry,Dollars,ldollars@davidsonccc.edu,,Davidson County Community College,davidson,http://davidson.cdxsite.com,873928,CDX: Light Vehicle
+,,,,,,,8EF4C2,CDX: Light Vehicle 2 Year
+Bruce,Puryear,bpur04@yahoo.com,,West Allis Central High School,wach,http://wach.cdxsite.com,,CDX: Light Vehicle
+James,Williamson,jwilliamson@nocrop.us,,Buena Park High School,buena,http://buena.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Sean,Dooley,sdooley@nocrop.us,,Fullerton High School  ,fullerton,http://fullerton.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,LV 2014
+,,,,,,,,MLR 2014
+Joe,Rolf,jrolf@nocrop.us,,Katella High School,katella,http://katella.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Enrique,Aispuro,eaispuro@nocrop.us,,La Habra High School,habra,http://habra.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Russell,Bacarella,mastermech@sbcglobal.net,,Loara High School,loara,http://loara.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Enrique,Aispuro,eaispuro@nocrop.us,,Sonora High School,sonora,,,CDX: Light Vehicle
+,,,,,,,,MLR
+Charlie,Zepeda,czepeda@nocrop.us,,Sunny Hills High School,sunny,http://sunny.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Jim,Carrol,tjcarrol@rocketmail.com,,Conrad High School,conrad,http://conrad.cdxsite.com,,CDX: Light Vehicle
+Anthony,Saullo,AJSaullo@mail.worcester.k12.md.us,,Worcester Technical High School,worcester,http://worcester.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Kris,Kowalski,kkowalski@argohs.net,,Argo Community High School,argo,http://argo.cdxsite.com,,CDX: Light Vehicle
+Nate,Persing,npersing@miltonsd.org,,Milton Area High School,milton,http://milton.cdxsite.com,,CDX: Light Vehicle
+Johnny,Casas,johnny.casas@eac.edu,,Eastern Arizona College,easternaz,http://easternaz.cdxsite.com,92E565,CDX: Light Vehicle
+John,McCormick,mccormj@arc.losrios.edu,,American River College,ariver,http://ariver.cdxsite.com,77FF43,CDX: Light Vehicle
+,,,,,,,5D3F33,CDX: Light Vehicle 2 Year
+Wally,Smith,wallysjr@isu.edu,,Idaho State University,idstate,http://idstate.cdxsite.com,2F65E3,CDX: Light Vehicle
+Matt,Robertson,lrobertson@sfccmo.edu,,State fair Community College,sfccmo,http://sfccmo.cdxsite.com,,CDX: Light Vehicle
+Brad,Small,bsmall@warrensburgr6.org,,Warrensburg Area Vocational Technical School,wacc,http://wacc.cdxsite.com,,CDX: Light Vehicle
+Dan,Sheffer,D.Sheffer@dover.k12.nh.us,,Dover High School - Regional Vocational Center,doverhs,http://doverhs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+Mark,Wilson,mwilson@msad54.org,,Somerset Career and Technology Center,sctc,http://sctc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+John,Carmichael,carmij@portlandschools.org,,Portland Arts & Technology High School,paths,http://paths.cdxsite.com,,CDX: Light Vehicle
+Chris ,Spracklin,cspracklin@kcc.edu,,Kankakee Community College,kcc,http://kcc.cdxsite.com,DC2377,CDX: Light Vehicle
+Javier,Riveria,jrivera7@ivytech.edu,,Ivy Tech State College - East Chicago ,ivyec,http://ivyec.cdxsite.com,E373F6,CDX: Light Vehicle
+Raymond,Johnson,rjohnson@clcmn.edu,,Central Lakes College - Brainerd,clcb,http://clcb.cdxsite.com,22D35A,CDX: Light Vehicle
+Mark,Davis,mark.davis@shctc.k12.oh.us,(937) 378-6131,Southern Hills Vocational School,shvs,http://shvs.cdxsite.com,,CDX: Light Vehicle
+Mike,Hobson,thobson@sheltonstate.edu,(205) 862-9085,Shelton State Community College ,shelton,http://shelton.cdxsite.com,3D3EDB,CDX: Light Vehicle
+Greg,Odom,godom@wallace.edu,(334) 983-3521,Wallace State Community College - Dothan,wallacecc,http://wallacecc.cdxsite.com,FC5F6E,CDX: Light Vehicle 2 Year
+Dan,Trippier,DTrippier@ects.us,,Eastland Career Center,eastland,http://eastland.cdxsite.com,E626C7,CDX Diesel Online Course Series
+,,,,,,,8BB24F,CDX Hydraulics & Fluid Power: Level 1
+,,,,,,,,CDX: Light Vehicle
+Ron,Balis,rbalis@plcc.edu,,Portage Lakes Career Center,plcc,http://plcc.cdxsite.com,,CDX: Light Vehicle
+Tom,Chance,wild4teach@gmail.com,,Fairfield Career Center ,fairfieldcc,http://fairfieldcc.cdxsite.com,,CDX: Light Vehicle
+Paul,Anderlitch,anderlitchp@hayscisd.net,,Hays Consolidated High School,hays,http://hays.cdxsite.com,,CDX: Light Vehicle
+Mike,Wichtendahl,mwichtendahl@kckcc.edu,,Kansas City Kansas Community College ,kckcc,http://kckcc.cdxsite.com,2CFEDB,CDX: Light Vehicle
+Steve,Bertram,sbertram@palomar.edu,,Palomar College,palomar,http://palomar.cdxsite.com,5EDAF2,CDX: Light Vehicle
+Brad,Fisher,wfisher@buckeyecareercenter.org,,Buckeye Career Center,bcc,http://bcc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+,,,,,,,,
+Ryan,Ziegler,zieglerr@arcadia.k12.wi.us,,Arcadia HS,arhs,http://arhs.cdxsite.com,,CDX: Light Vehicle
+Jim,Nelson,nelsonji@vail.k12.az.us,,Andrada Polytechnic High School,andrada,http://andrada.cdxsite.com,,CDX: Light Vehicle
+Jim,Richmond,timric@niles-hs.k12.il.us,,Niles West High School,niwest,http://niwest.cdxsite.com,,CDX: Light Vehicle
+John,Kucab,johkuc@d219.org,,Niles North High School,ninorth,http://ninorth.cdxsite.com,,CDX: Light Vehicle
+Rick,Bruno,thebrunogroup@yahoo.com,,The Bruno Group,bruno,http://bruno.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,CDX Hydraulics & Fluid Power: Level 1
+,,,,,,,,HV Diesel complete
+Tom,Brandt,Tom Brandt,,Madison High School-OH,mahs,http://mahs.cdxsite.com,,CDX: Light Vehicle
+Scott,White,rwhite@natcem.com,,National Cement Company,nacc,http://nacc.cdxsite.com,,CDX Diesel Online Course Series
+Bob,Maupin,bmaupin@nbisd.org,,New Braunfels High School,nbhs,http://nbhs.cdxsite.com,,CDX: Light Vehicle
+Rich,Dinko,RLD2JC@jackson.sparcc.org,,Jackson High School-OH,jachs,http://jachs.cdxsite.com,,CDX: Light Vehicle
+Ethan,Hurley,ehurley@westshore.edu,,Mason-Lake Intermediate School District,mlsd,http://mlsd.cdxsite.com,,CDX: Light Vehicle
+Brandon,Brown,bbrown@hillcollege.edu,,Hill College,hillco,http://hillco.cdxsite.com,FE2223,CDX: Light Vehicle
+,,,,,,,A4AD98,CDX: Light Vehicle 2 Year
+Mike,Setzer,michael.setzer@browardschools.com,,Sheridan Technical Center - West,stcwest,http://stcwest.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,CDX Diesel Series
+David,Monroy,dmonroy@mpsaz.org,,Skyline High School (AZ)  ,skyhs,http://skyhs.cdxsite.com,,CDX: Light Vehicle
+Mike,Kerr,mgkerr@mpsaz.org,,Dobson High School,dobhs,http://dobhs.cdxsite.com,,CDX: Light Vehicle
+Nathan,Hinze, njhinze@mpsaz.org,,Mountain View High School - Mesa,mvhs,http://mvhs.cdxsite.com,,CDX: Light Vehicle
+Paul ,Finstrom,pjfinstrom@mpsaz.org,,Red Mountain High School - Mesa,rmhs,http://rmhs.cdxsite.com,,CDX: Light Vehicle
+Edward,Amado,emamado@mpsaz.org,,Westwood High School ,wwhs,http://wwhs.cdxsite.com,,CDX: Light Vehicle
+David,Lane,None Yet,,Mesa High School,mesahs,http://mesahs.cdxsite.com,,CDX: Light Vehicle
+John,Brock,johnb@fisd.org,,Fredericksburg High School,fredhs,http://fredhs.cdxsite.com,,CDX: Light Vehicle
+Thomas,Canter,tcanter@perryville.k12.mo.us,,Perryville Area Career & Technology Center,pactc,http://pactc.cdxsite.com,,CDX: Light Vehicle
+Abel,Castillo,abel.castillo@harlingen.tstc.edu,,Texas State Technical College - Harlingen,tstch,http://tstch.cdxsite.com,C3C9F9,CDX: Light Vehicle 2 Year
+Bob,Anderson, randerson@pentanet.k12.oh.us,,Penta Career Center,pecc,http://pecc.cdxsite.com,,CDX: Light Vehicle
+Diane,Gonzalez,dgonzal2@wcccd.edu,,Wayne County Community College - Downriver Campus ,wcccd,http://wcccd.cdxsite.com,3BF557,CDX: Light Vehicle
+Jon,Burkholder,awhj_burkhol@tccsa.net,,Ashland Co West - Holmes Career Center,acwh,http://acwh.cdxsite.com/,,CDX: Light Vehicle
+Brad,Rechkemmer,brechkemmer@kcc.edu,,Kankakee Community College (2nd site) ,kcc2,http://kcc2.cdxsite.com,F68342,CDX: Light Vehicle
+Lyle,Taylor,ltaylor@grantcareer.com,,Grant Career Center ,grcc,http://grcc.cdxsite.com,,MLR
+Tom,Lafrenz,tom.lafrenz@qvschools.org,,Forks High School  ,fohs,http://fohs.cdxsite.com,,MLR
+Dan,Bonette,bonnette.daniel@jobcorps.org,,Job Corps Center - Shriver,shjc,http://shjc.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Rob,Schuster,rschuster@cccneb.edu        ,,Hastings Senior High School,hshs,http://hshs.cdxsite.com,,MLR
+Brad,Johnson,brad.johnson@kearneypublic.org,,Kearney High School ,kehs,http://kehs.cdxsite.com,,MLR
+Jack,Ireland, jirelan3@jccc.edu,,Johnson County Community College,jccc,http://jccc.cdxsite.com,3353D2,CDX: Light Vehicle
+Maurice,Preston,maurice.preston@youngstown.k12.oh.us,,Choffin Career and Technical Center,cctc,http://cctc.cdxsite.com,,CDX: Light Vehicle
+Eric,Riddles,ERiddles@lebanon.k12.mo.us,,Lebanon Technical & Career Center,ltcc,http://ltcc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+Craig,Miller,cmiller@herkimer-boces.org,,Herkimer Fulton Hamilton Otsego BOCES,hfho,http://hfho.cdxsite.com,,CDX: Light Vehicle
+Richard,Shelter, RShetler@wcscc.org,,Wayne County Schools Career Center,wcscc,http://wcscc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Ken,Duesing,kduesing@nicoletcollege.edu,,Nicolet Area Technical College,natc,http://natc.cdxsite.com,523EA2,CDX: Light Vehicle 2 Year
+Peter,Mandt, peter.mandt@ndscs.edu,,Southeast Region Career & Technology Center,srctc,http://srctc.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Ahmed,Shaheen,sahmed@uwa.edu,,University of Western Alabama,uowa,http://uowa.cdxsite.com,4E3BE8,CDX: Light Vehicle
+John,Herrera, joherrera@dallasisd.org,,Wilmer-Hutchins High School,wilhs,http://wilhs.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Light Vehicle
+Glenn,Bowen,cbowen1@escambia.k12.fl.us,,George Stone Technical Center,gstc,http://gstc.cdxsite.com,56C664,CDX: Light Vehicle 2 Year
+,,,,,,,,LV 2014
+Mathew,Lindsey,mlindsey@hapevillecharter.org,,Hapeville Charter Career Academy,hcca,http://hcca.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Thom,Young, thom.young@atech.edu,,Ashtabula County Joint Vocational School ,acjvs,http://acjvs.cdxsite.com,,CDX: Light Vehicle
+Charlie,Sanders,charles.sanders@polk-fl.net,,Traviss Career Center,trcc,http://trcc.cdxsite.com,E43A95,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Charles,Pignatare,c.pignatare@schoolsofwestfield.org,,Westfield Vocational High School ,wvhs,http://wvhs.cdxsite.com,,CDX: Light Vehicle
+Tom,Smith,tdsmith@doniphanr1.k12.mo.us,,Current River Career Center,crcc,http://crcc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Doug,McCoy,douglas.mccoy@highlineschools.org,,Puget Sound Skills Center,pssc,http://pssc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Mike,Bower,michaelb@whtc.us,,Washington Holmes Technical Center,whtc,http://whtc.cdxsite.com,E46CC5,CDX: Light Vehicle
+,,,,,,,,HV Diesel complete
+Curt,Boylen, cboylen@access.k12.wv.us,,Marion County Technical Center,mactc,http://mactc.cdxsite.com,,CDX: Light Vehicle
+Rob,Turner, rturner@nocrop.us,,Savanna High School,savanna,http://savanna.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Justin,Godwin,jlgodwin@access.k12.wv.us,,Tucker County High School,tchs,http://tchs.cdxsite.com,,CDX: Light Vehicle
+Dave,Holubek,dholubek@robinsonschools.com,,Robinson High School - Twin Rivers,rhstr,http://rhstr.cdxsite.com,,CDX: Light Vehicle
+Ingo,Sandt,ingo.sandt@austinisd.org,,Eastside Memorial High School,emhs,http://emhs.cdxsite.com,,CDX: Light Vehicle
+Dale,McCraw,dmccraw@madison-schools.com,,Madison Career and Technical Center ,madctc,http://madctc.cdxsite.com,,MLR
+Richard,Kimball,rkimball@surreychristian.com,,Surrey Christian School,scs,http://scs.cdxsite.com,,MLR
+John,Stratton,jstratton@oneida-boces.org,,Oneida Herkimer Madison BOCES,ohmb,http://ohmb.cdxsite.com,,CDX: Light Vehicle
+Ernesto,Sanchez-Parodi,280401@dadeschools.net ,,South Dade Adult Education Center,sdaec,http://sdaec.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,
+,,,,,,,,LV 2014
+Gary,Kind,  gary.kind@nilesschools.org,,Niles High School,nihs,http://nihs.cdxsite.com,,CDX: Light Vehicle
+Ted,Hensley, hensleyt@butlertech.org,,Butler Tech,btech,http://btech.cdxsite.com,,CDX: Light Vehicle
+Tony,Rucker,tony.rucker@fleming.kyschools.us,,Fleming County High School,fchs,http://fchs.cdxsite.com,,Course Manager
+Bob,Kubosiak,rkubosiak@fcts.org,,Franklin County Technical School,fcts,http://fcts.cdxsite.com,,CDX: Light Vehicle
+John,Rutledge,johnrutledge@joplinschools.org,,Franklin Technical Center,frtc,http://frtc.cdxsite.com,,CDX: Light Vehicle
+Ryan,Brelinski,ryan.brelinski@jcisd.org,,Jackson Area Career Center  ,jacc,http://jacc.cdxsite.com,,CDX: Light Vehicle
+Heath,Uno,uno.heath@jobcorps.org,,Job Corps Center - Hawaii,jcch,http://jcch.cdxsite.com,,MLR
+Kevin,Williams, kevinwilliams@loyal.k12.wi.us,,Loyal High School,loyhs,http://loyhs.cdxsite.com,,CDX: Light Vehicle
+Ben,Burkhard,bburkhard@gonighthawks.com,,Natomas High School,nahs,http://nahs.cdxsite.com,,MLR
+Jim,Dortsen,jim.dorsten@celinaschools.org,,Celina High School - Tri Start,cehs,http://cehs.cdxsite.com,,CDX: Light Vehicle
+Ronald,Augustine,raugustine@greenville.k12.sc.us,,Golden Strip Career Center,gscc,http://gscc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Jim,Snyder, james.snyder@access.k12.wv.us,,Calhoun Gilmer Center,cagc,http://cagc.cdxsite.com,,CDX: Light Vehicle
+Edward,Jackson, diesel_doc3208@hotmail.com,,Greenville Technical Center,grtc,http://grtc.cdxsite.com,,CDX: Light Vehicle
+Bill,Caspole,wcaspole8934@columbus.k12.oh.us,,Fort Hayes Metro Center,fhmc,http://fhmc.cdxsite.com,,CDX: Light Vehicle
+Eddie,Bowman,ebowman@ftusd.org,,Fort Thomas High School,fths,http://fths.cdxsite.com/,,MLR
+,,,,,,,,MLR 2014
+Paul,Price,pprice@ntccschool.org,,Northern Tier Career Center,ntcc,http://ntcc.cdxsite.com,,MLR
+Charles,Elam,elamc@bibbed.org,,Bibb County Career Academy,bcca,http://bcca.cdxsite.com,,MLR
+Robert,Germaine,pat.stgermaine@sendit.nodak.edu,,Turtle Mountain High School,tmhs,http://tmhs.cdxsite.com,,MLR
+Chris,Dodge,CDodge@sau57.org,,Salem High School - NH,salhs,http://salhs.cdxsite.com,,MLR
+Michael,Cortese,mcortese@metroed.net,,Central County Occupational Center,ccoc,http://ccoc.cdxsite.com,77726F,HV Diesel complete
+Mark,Mantzke,mmantzke@ktc.edu,,Kiamichi Technology Center - Atoka,ktca,http://ktca.cdxsite.com,,CDX: Light Vehicle
+Danny,Black,danblack@ktc.edu,,Kiamichi Technology Center - Idabel,ktci,http://ktci.cdxsite.com,,CDX: Light Vehicle
+John,Helmer,jhelmer@ktc.edu,,Kiamichi Technology Center - Durant,ktcd,http://ktcd.cdxsite.com,,CDX: Light Vehicle
+Keith,Griffith,kgriffith@ktc.edu,,Kiamichi Technology Center - Poteau,ktcp,http://ktcp.cdxsite.com,,CDX: Light Vehicle
+Jimmy,Brigance,jbrigance@ktc.edu,,Kiamichi Technology Center - Stigler,ktcs,http://ktcs.cdxsite.com,,CDX: Light Vehicle
+Bryan,Peck              ,bpeck@ktc.edu,,Kiamichi Technology Center - McAlester,ktcm,http://ktcm.cdxsite.com,,CDX: Light Vehicle
+Scott,Noe,noesperformance@bellsouth.net,,Jefferson County High School,jchs,http://jchs.cdxsite.com,,MLR
+Steve,Shaeffer,sbshaffe@access.k12.wv.us,,United Technical Center,untc,http://untc.cdxsite.com,,CDX: Light Vehicle
+Doug,Fauley,douglas.fauley@saisd.org,,West Texas Training Center,wttc,http://wttc.cdxsite.com,,CDX: Light Vehicle
+Dale,Fasenmyer,fasenmyerd@pcsb.org,,Pinellas Technical Education Centers ,ptec,http://ptec.cdxsite.com,,CDX: Light Vehicle
+Viki,Lundmark,Vicki.Lundmark-Trujillo@mhcc.edu,,Mt Hood Community College,mhcc,http://mhcc.cdxsite.com,,MLR
+Leonard,Eason,leason@mabankisd.net,,Mabank High School,mabhs,http://mabhs.cdxsite.com,,CDX: Light Vehicle
+Aaron,Lemoine,Aaron.Lemoine@solacc.edu,,Southern Louisiana Community College - TH Harris Campus,thhc,http://thhc.cdxsite.com,,CDX Diesel Series
+Jeff,Ebner,ebner.jeffrey@jobcorps.org,,Job Corps Center - Fred G Acosta,fgajcc,http://fgajcc.cdxsite.com,,MLR
+Dan,Bryant,dbryant@shastacollege.edu,,Shasta College,shac,http://shac.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,BEFC73,CDX: Light Vehicle
+Kevin,Cornell,hpcornell@hotmail.com,,        Carver Career and Technical Education Center,cctec,http://cctec.cdxsite.com,,MLR
+Kyle,Fulleton,kfulleton@pcboe.net,,Central High School - AL,cenhs,http://cenhs.cdxsite.com,,MLR
+Eduardo,Cruz,CruzEd@collierschools.com,,Lorenzo Walker Institute of Technology,lwit,http://lwit.cdxsite.com,,CDX: Light Vehicle
+Charles,Kokel,charles.kokel@mvisd.com,,Medina Valley High School,mevhs,http://mevhs.cdxsite.com,,HV Diesel complete
+Thomas,Munde,thomas.munde@npc.edu,,Northland Pioneer College ,nopc,http://nopc.cdxsite.com,,CDX: Light Vehicle
+David,White,dawhite@wcboe.org,,Parkside High School,pahs,http://pahs.cdxsite.com,,CDX: Light Vehicle
+Kurt,Sitton,sitton.kirk@bgsd.k12.wa.us,,Prairie High School - WA,PRHS,http://PRHS.cdxsite.com,,MLR
+Joey,Jones,jsjones@dodge.k12.ga.us,,Dodge County High School,dchs,http://dchs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR
+,,,,,,,,MLR 2014
+Rusty,Parker,rparker@lewistonpublicschools.org,,Lewiston Regional Technology Center,lrtc,http://lrtc.cdxsite.com,,MLR
+David,Johnson,johnson.davidM@jobcorps.org,,Job Corps Center - Quentin Burdick,jccqb,http://jccqb.cdxsite.com,,MLR
+Matt,Janisin,janisinm@gtc.edu,,Gateway Technical College - Horizon Center,gtc,http://gtc.cdxsite.com,BE835B,CDX: Light Vehicle
+Tom,Coats,tcoats@icloud.com,,Delta College,deco,http://deco.cdxsite.com,3C9B49,CDX: Light Vehicle
+Timothy,Hull,thull@bcbe.org,,South Baldwin Center for Technology,sobct,http://sobct.cdxsite.com,,MLR
+,,,,,,,,LV 2014
+Tony,Welchans,awelchans@east-cleveland.k12.oh.us,,Shaw High School,shawhs,http://shawhs.cdxsite.com,,CDX: Light Vehicle
+Richard,McCuistian,rmccuistian@lbwcc.edu,,Lurleen B Wallace Community College,lbwcc,http://lbwcc.cdxsite.com,,CDX: Light Vehicle
+Mo,Urquidez, urquidez.mo@jobcorps.org,,Job Corps Center - Roswell,rjcc,http://rjcc.cdxsite.com,,MLR
+Danny,Paddock,danny.paddock@ntcmn.edu,,Northwest Technical College,nwtc,http://nwtc.cdxsite.com,457EBA,CDX: Light Vehicle
+,,,,,,,93725A,CDX: Light Vehicle 2 Year
+Anthony,Schuler,rschuler@bcbe.org,,North Baldwin Center for Technology,nobct,http://nobct.cdxsite.com,,MLR
+,,,,,,,,LV 2014
+Rudy,Cervantez,rudy.cervantez@tstc.edu,,Texas State Technical College - Waco,tstcw,http://tstcw.cdxsite.com,385636,CDX: Light Vehicle
+,,,,,,,,LV 2014 2 Year
+,,,,,,,F86BA7,CDX: Light Vehicle 2 Year
+David,McGowan,mcgowan.donald@jobcorps.org,,Job Corps Center - MTC - Oneonta,jcco,http://jcco.cdxsite.com,,MLR
+Brad,Vandenhul,bvandenhul@dickinsonisd.org,,Dickinson High School - TX,dihs,http://dihs.cdxsite.com,,CDX: Light Vehicle
+Mike,Wylie,Wyliem@eths.k12.il.us,,Evanston Township High School,eths,http://eths.cdxsite.com,,CDX: Light Vehicle
+Danny,Danny,drakes@dcc.vccs.edu,,Danville Community College,dacc,http://dacc.cdxsite.com,,CDX: Light Vehicle
+Joshua,Bondhus,joshua.bondhus@elkriver.k12.mn.us,,Elk River High School  ,erhs,http://erhs.cdxsite.com,,MLR
+Denver,White,denver.white@pusd.com,,Payson High School ,payhs,http://payhs.cdxsite.com,,CDX: Light Vehicle
+Rodney,Wolken,rwolken@lexington.k12.mo.us,,Lex La-Ray Tech Center,llrtc,http://llrtc.cdxsite.com,,CDX: Light Vehicle
+David,Gelfuso,dgelfuso@mail.oncboces.org,,Otsego Area Occupational Center,oaoc,http://oaoc.cdxsite.com,,CDX: Light Vehicle
+Kirk,Schultz, kirk.schultz@k12.sd.us,,Northeast Technical High School  ,neths,http://neths.cdxsite.com,,MLR
+Rene,Pellerin,rene_pellerin@kaltire.com,,Kal Tire,kaltire,http://kaltire.cdxsite.com,,MLR
+Brian,Barenscott,bbarenscott@richmond.sd38.bc.ca,,McNair Secondary School,mcnair,http://mcnair.cdxsite.com,,MLR
+Brian,Smallwood,brian1277@hotmail.com,,Career Development Center (ST VRAIN DISTRICT),vraincdc,http://vraincdc.cdxsite.com,,CDX: Light Vehicle
+Boe,Norwood, norwoods@pcsb.org,,PTEC St Petersburg Campus,ptecsp,http://ptecsp.cdxsite.com,,CDX: Light Vehicle
+Doug,Stimely,dstimely@cpi.edu,,Central PA Adult Program,cpiadult,http://cpiadult.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Hydraulics
+Gregory,Jones,gjones@compassrosefoundation.org,,Jones Technical Institute,jtech,http://jtech.cdxsite.com,5EC3D5,CDX: Light Vehicle
+,,,,,,,6CD2CE,HV Diesel complete
+,,,,,,,6DA753,LV 2014
+Eric,Clark,clarkeb@huron.k12.mi.us,,Downriver Career Technical Consortium : Huron High School,huron,http://huron.cdxsite.com,,CDX: Light Vehicle
+Leon,Simon,lsimon@tricreek.k12.in.us,,Lowell High School ,lowhs,http://lowhs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Jonathan,Yourga,jyourga@smithtec.org,,Smith Vocational High School,svhs,http://svhs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ronald,Ralph,ralph_r@hcsb.k12.fl.us,,Suncoast Technical Education Center,stec,http://stec.cdxsite.com,C23A93,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Don,Morisette,dmorisette@schools.nyc.gov,,NYC Automotive High School,nycahs,http://nycahs.cdxsite.com,,CDX: Light Vehicle
+Daniel,McNally,dmcnally@mansd.org,,Manchester School of Technology,msot,http://msot.cdxsite.com,,MLR
+Russ,Write,rusw@lander.k12.nv.us,,Battle Mountain High School,bamhs,http://bamhs.cdxsite.com,,CDX: Light Vehicle
+Marlo,Miranda,mmiranda@forsyth.k12.ga.us,,Forsyth Central High School,fochs,http://fochs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Ruben,Verdugo,RVerdugo@nusd.k12.az.us,,Nogales High School,noghs,http://noghs.cdxsite.com,,CDX: Light Vehicle
+Francisco,Ramirez,framirez@laredo.edu,,Laredo Community College-South ,lccs,http://lccs.cdxsite.com,,HV Diesel complete
+Eddie,Perez,Edward.Perez@sdhc.k12.fl.us,,DG Erwin Technical Center,dgetc,http://dgetc.cdxsite.com,,CDX: Light Vehicle
+Mike,Miruka,miruka.michael@jobcorps.org,,Job Corps Center - Timber Lake,tljcc,http://tljcc.cdxsite.com,,MLR
+Andy,Gullen,agullen@selkirk.ca,,Selkirk College,selkirk,http://selkirk.cdxsite.com,,HV Diesel complete
+Alfonso,Galvez,agalvez@theexcelinstitute.org,,Excel Institute,excel,http://excel.cdxsite.com,3A2475,CDX: Light Vehicle
+Chris,Kaufman,jkaufman13@ivytech.edu,,Ivy Tech - Evansville ,ivyte,http://ivyte.cdxsite.com,D4E992,CDX: Light Vehicle
+Chris,Wasson,cwasson@pasadenaisd.org,,LP Card Career and Technical Center,lpcctc,http://lpcctc.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,LV 2014
+Rich,Sikora,sikorar@lcti.org,,Lehigh Career & Technical Institute,lcti,http://lcti.cdxsite.com,,CDX: Light Vehicle
+Carl,Fedele,cfedele@pths209.org,,Proviso Township High School - West Campus,pthsw,http://pthsw.cdxsite.com,,CDX: Light Vehicle
+Frank,Bexes,fbexes@pths209.org,,Proviso East High School ,pthse,http://pthse.cdxsite.com,,CDX: Light Vehicle
+Greg,Dutt,gdutt@abileneschools.org,,Abilene High School,abhs,http://abhs.cdxsite.com,,CDX: Light Vehicle
+Keith,Charles,rkcharles@yahoo.com,,Job Corps Center - Fort Simcoe,fsjcc,http://fsjcc.cdxsite.com,,MLR
+Robbie,Thayer,rthayer@djusd.k12.ca.us,,Davis Senior High School,dshs,http://dshs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Jay,Covey,jay.covey@gccaz.edu,,Glendale Community College,gdcc,http://gdcc.cdxsite.com,39DB72,CDX: Light Vehicle
+Danny,Zook,danny.zook@sausd.us,,Valley High School ,valhs,http://valhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Dan,Curiel,d.curiel@sausd.org,,Santa Ana High School ,saahs,http://saahs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Mike,Sachs,sachsm@gptc.edu,,Georgia Piedmont Technical College - Clarkston Campus,gptcm,http://gptcm.cdxsite.com,2CF893,CDX: Light Vehicle
+Kyle,Renfro,kyler@pioneertech.org,,Pioneer Technology Center,pitc,http://pitc.cdxsite.com,,CDX: Light Vehicle
+Kelly,Kelly,kelly@leschwab.com,,Les Schwab Tires,lesschwab,http://lesschwab.cdxsite.com,,CDX: Light Vehicle
+Garrett,Roux,Garrett.Roux@indianriverschools.org,,Sebastian River High School ,srhs,http://srhs.cdxsite.com,,CDX: Light Vehicle
+Steve,Simms,steve.simms@ashe.k12.nc.us,,Ashe County High School ,achs,http://achs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+John,Farley,jfarley@fullcoll.edu,,Fullerton College,fulco,http://fulco.cdxsite.com,,CDX: Light Vehicle
+Patrick,Graham,patrick.graham@sjsd.k12.mo.us,,Hillyard Technical Center,hilltc,http://hilltc.cdxsite.com,,CDX: Light Vehicle
+Gary,Taylor,taylorg@bcsc.k12.in.us,,Columbus East High School,coehs,http://coehs.cdxsite.com,,CDX: Light Vehicle
+Lindbergh,Norris,lindberghn@craven.k12.nc.us,,Havelock High School,havhs,http://havhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+David,Burtch, dburtch@mcps.k12.mt.us,,Sentinel High School ,senhs,http://senhs.cdxsite.com,,MLR
+Dennis,Hogel,HogelD@greatoaks.com,,Scarlet Oaks Career Development Campus ,socdc,http://socdc.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Hydraulics
+Gary,Bronson,BronsonG@greatoaks.com,,Laurel Oaks Career Development Center,locdc,http://locdc.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Hydraulics
+Clay,Knoph,cknoph1@ggusd.us,,Los Amigos High School,losahs,http://losahs.cdxsite.com,,MLR
+Carlos,Sanchez,csanchez@ggusd.us,,Santiago High School,sanths,http://sanths.cdxsite.com,,MLR
+David,Le,dle1@ggusd.us,,Rancho Alimedos,Ranahs,http://rahs.cdxsite.com,,MLR
+Ryan,Monroe,rmonroe@sdccd.edu,,San Diego Miramar College,sdmc,http://mcga.cdxsite.com,,LV 2014
+Rich,Archer,richa@bigbend.edu,,Columbia Basin Technical Skills Center,cbtsc,http://cbtsc.cdxsite.com,,LV 2014
+David,Protano,dprotano@bfit.edu,,Benjamin Franklin Institute of Technology ,bfit,http://bfit.cdxsite.com,,LV 2014
+Brian,Johnson,bp_johnson@blueridge.edu,,Blue Ridge Community College,brcc,http://brcc.cdxsite.com,,LV 2014
+Steve,Angove,sangove@wctc.edu,,Waukesha County Technical College,wactc,http://wactc.cdxsite.com,,LV 2014
+David,Walker,DWalker@abtech.edu,,A-B Tech Community College,abtech,http://abtech.cdxsite.com,,LV 2014
+Al,Fagan,afagan@drage.stark.k12.oh.us,,RG Drage Career Center,drage,http://drage.cdxsite.com,,LV 2014
+Mike,Moeller,mike.moeller@minnesota.edu,,Minnesota State Comm & Tech College - Detroit Lakes,mictd,http://mictd.cdxsite.com,,LV 2014
+Todd,Gullett,todd.gullett@mywccc.org,,Warren County Career Center-OH,wcccoh,http://wcccoh.cdxsite.com,,LV 2014
+Tracy,Tudor,ttudor@campverdeschools.org,,Camp Verde High School ,cvhs,http://cvhs.cdxsite.com,,LV 2014
+Santiago,Arredondo,jayracings@yahoo.com,,Silver High School,silhs,http://silhs.cdxsite.com,,LV 2014
+Brad,Bever,bbever@fayette.k12.in.us,,Whitewater Technical Career Center,whtcc,http://whtcc.cdxsite.com,,LV 2014
+Kevin,Giles,kevingiles@dcccd.edu,,Eastfield College,eastc,http://eastc.cdxsite.com,F63B64,LV 2014
+James,Krause,krausej@cochise.edu,,Cochise College,cocol,http://cocol.cdxsite.com,253F6D,LV 2014
+Michael,Hedger,mhedger@ccisd.net,,Clear Springs High School,cshs,http://cshs.cdxsite.com,,LV 2014
+Brian,Coppola,brian.coppola@eac.edu,,Gila Institute of Technology ,gila,http://gila.cdxsite.com,834535,LV 2014
+Kelly,Vold,kelly.vold@indianriverschools.org,,Vero Beach High School,vebhs,http://vebhs.cdxsite.com,,LV 2014
+Mike,Goss,mgoss@mail.scdsb.on.ca,,Georgian College,geco,http://geco.cdxsite.com,BB2EBA,LV 2014
+Willie,Quindt,wquindt@wncc.edu,,Western Nebraska Community College ,wncc,http://wncc.cdxsite.com,,LV 2014
+Randy,Bridges,rbridges@esc5.net,,Brookeland High School - Brookeland ISD,brohs,http://brohs.cdxsite.com,,LV 2014
+Ray,Sbriscia,sbriscia@stcc.edu,,Springfield Technical Community College,stcc,http://stcc.cdxsite.com,5F9C87,LV 2014
+Jeff,Phillips,jeffp@coffeyville.edu,,Coffeyville Community College,cocc,http://cocc.cdxsite.com,A3CA2A,LV 2014
+Monroe,Sorton,msorton@gwinnetttech.edu,,Gwinnett Tech,ganwtc,http://gtcat.cdxsite.com,A96222,LV 2014
+,,,,,,,75FB3A,CDX Diesel Series
+Bill,Bently,bbentley@gntc.edu,,Georgia NW Technical College,gntcr,http://gntcr.cdxsite.com,CF2465,LV 2014
+Ken,Collins,Kenneth.Collins@cpcc.edu,,Central Piedmont Community College,cpcc,http://cpcc.cdxsite.com,2F96C6,LV 2014
+Rick,Elmore,rick.elmore@gpisd.org,,Dubiski Career High School  ,duchs,http://duchs.cdxsite.com,,LV 2014
+Jeff,Gieniec,jlgienie@hacc.edu,,Harrisburg Area Community College  ,harcc,http://harcc.cdxsite.com,C43E34,LV 2014 2 Year
+David,Wilkins, p.arntsen2@msad17.org,, Oxford Hills Tech - Region 11 ,oxhtech,http://oxhtech.cdxsite.com,,LV 2014
+John,Chicharro,  jchicharro@dimanregional.org,,Diman Regional Vocational Technical High School,drvths,http://drvths.cdxsite.com,,LV 2014
+John,Sheehan, johnsheehan@gltech.org,,Greater Lowell Regional Vo Tech ,glrvt,http://glrvt.cdxsite.com,,LV 2014
+Layton,Peterman,layton.peterman@njc.edu,,Northeastern Junior College,nojc,http://nojc.cdxsite.com,A63FCF,LV 2014
+,,,,,,,943DF4,LV 2014 2 Year
+,,,,,,,89A67C,HV Diesel complete
+Ron,Finney,  rfinney@ivytech.edu,,Ivy Tech State College - Central Indiana,ivyci,http://ivyci.cdxsite.com,"82AB33
+",LV 2014
+Clayton,Powell,  cpowell3350@gmail.com,,Montcalm Area Career Center ,montacc,http://montacc.cdxsite.com,,LV 2014
+John,Larson,  larsonj@pearlandisd.org,,Pearland High School  ,pearlhs,http://pearlhs.cdxsite.com,,LV 2014
+Jesse,Hackfeld,olin.harrington@birdvilleschools.net,,Birdville Center of Technology and Advanced Learning,bctal,http://bctal.cdxsite.com,,LV 2014
+Jimmy,Black,blackj@sandhills.edu,,Sandhills Community College,sandcc,http://sandcc.cdxsite.com,EADED3,LV 2014 2 Year
+Jeremy,Curley,  jcurley@mccanntech.org,,Charles McCann Technical School,cmts,http://cmts.cdxsite.com,,LV 2014
+Kenneth,Graham,kgraham@gocats.org,,Valdosta High School,valdostahs,http://valdostahs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Mark,Strumble,Strublema@hickoryschools.net,,Hickory High School,hickoryhs,http://hickory.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Seth,James, jamess@davie.k12.nc.us,,Davie County High School,daviechs,http://daviechs.cdxsite.com,,MLR
+Anthony,Bermudez,abermudez@cumberland.tec.nj.us,,Cumberland County Technical Education Center,cumberland,http://cumberland.cdxsite.com,,LV 2014
+David,Preciado,dpreciado@swccd.edu,,Southwestern College,souco,http://souco.cdxsite.com,AE7297,LV 2014 2 Year
+Ron 2,Luellen,Ronald.Luellen@yc.edu,,Mountain Institute JTED,mountjted,http://mountjted.cdxsite.com,,LV 2014
+Jon,Friton,jonathan.friton@ridgewater.edu,,Ridgewater College - Willmar,ricowi,http://ricowi.cdxsite.com,CF2BD7,LV 2014
+Paul,Sobolik,psobolik@byngschools.com,,Byng High School,bynghs,http://bynghs.cdxsite.com,,CDX: Light Vehicle
+Tony,Maurer,maurert@turnerusd202.org,,Turner High School,turnerhs,http://turnerhs.cdxsite.com,,LV 2014
+James,Cox,jamescox@johnston.k12.nc.us,,South Johnston High School                      ,sjohnston                    ,http://sjohnston                    .cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Terry,Braswell,terrybraswell@johnston.k12.nc.us,,Princeton High school,princetonhs,http://princetonhs.cdxsite.com,,CDX: Light Vehicle
+,,,,,,,,MLR 2014
+,,,,,,,,MLR
+Jay,Winters,jay.wiinters@hesperiausd.org,,Sultana High School,sultanahs,http://sultanahs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Mark,Mullen,mark_mullen@sarasota.k12.fl.us,,Sarasota County Technical Institute,sarasotacti,http://sarasotacti.cdxsite.com,,LV 2014
+Andrew,Bordeaux,andrew.bordeaux@cabarrus.k12.nc.us,,Hickory Ridge High School,hicrhs,http://hrauto.cdxsite.com,,MLR
+Jeff,Murray,Jeffrey.Murray@cabarrus.k12.nc.us,,Jay Robinson High School,jayrhs,http://jayrhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Andy,Dobson,ira.dobson@cabarrus.k12.nc.us,,Mt Pleasant High School-NC,pleasanths,http://pleasanths.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Mike,Porter,Michael.Porter@cabarrus.k12.nc.us,,Northwest Cabarrus High School,nwcabarrus,http://nwcabarrus.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Steve,Sumner,steve.sumner@carrollcountyschools.com,,Technical Education Center of Carroll County,teccc,http://teccc.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Rick,Marzen,rmarzen@bedford.k12.oh.us,,Bedford Highschool,bedfordhs,http://bedfordhs.cdxsite.com,,MLR
+William,balch,William.Balch@ct.gov,,AI Prince Technical High School-CT,aiprince,http://aiprince.cdxsite.com,,LV 2014
+Richard,Dulac,Richard.Dulac@ct.gov,,Bristol Technical Education Center,bristoltec,http://bristoltec.cdxsite.com,,LV 2014
+Reuben,Charles,  Reuben.Charles@ct.gov,,EC Goodwin Technical High School,ecgoodwin,http://ecgoodwin.cdxsite.com,,LV 2014
+John,Welch,  JWelch@ct.gov,,Eli Whitney Regional Technical High School,eliwhitney,http://eliwhitney.cdxsite.com,,LV 2014
+Jack,Smith,  Jack.Smith@po.state.ct.us,,HC Wilcox Technical High School,hcwilcox,http://hcwilcox.cdxsite.com,,LV 2014
+Alan,Salicki,   ath1958@aol.com,,JM Wright Technical High School,jmwright,http://jmwright.cdxsite.com,,LV 2014
+Al,Howard,  Alan.Howard@ct.gov,,Oliver Wolcott Technical High School,owolcott,http://owolcott.cdxsite.com,,LV 2014
+Kirk,Stankiewicz,  Kirk.Stankiewicz@ct.gov,,Platt Regional Technical High School,prths,http://prths.cdxsite.com,,LV 2014
+Roger,Brogis,  Roger.Brogis@ct.gov,,WF Kaynor Vocational Technical High School,wfkaynor,http://wfkaynor.cdxsite.com,,LV 2014
+James,Harrington, j_harrington@sau9.org,,MWV Career and Technology Center,mwvctc,http://mwvctc.cdxsite.com,,LV 2014
+Larry,Jones,joneslm@watauga.k12.nc.us,,Watauga High School ,wataugahs,http://wataugahs.cdxsite.com,,LV 2014
+Nate,Penn,npenn@landerschools.org,,Lander Valley High School,landervhs,http://landervhs.cdxsite.com,,"MLR 2014
+"
+Jeff,Kostelecky,jeffry.kostelecky@msd1.org,,Mandan Senior High School ,mandanhs,http://mandanhs.cdxsite.com,,MLR 2014
+Tim,Biegert,tim.biegert@nfld.k12.mn.us,,Northfield Senior High School,northfieldhs,http://northfieldhs.cdxsite.com,,MLR 2014
+Dan,Miller,dmiller@phxhs.k12.az.us ,,Metro Tech High School,metrotech,http://metrotech.cdxsite.com,,MLR 2014
+Larry,Turner,turnerld@puyallup.k12.wa.us,,Puyallup High School,puyalluphs,http://puyalluphs.cdxsite.com,,MLR 2014
+Mark,Maund,Autocoordttt@tidewatertechtrades.edu,,Tidewater Tech Trades,tidewatertt,http://tidewatertt.cdxsite.com,4D33E6,LV 2014 2 Year
+Matt,Rannila,matthew.rannila@isd709.org,,Denfeld High School ,denfeldhs,http://denfieldhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Al,Johnson,fishinjohnson@yahoo.com,,ACTE Adult Education,acteae,http://acteae.cdxsite.com,,LV 2014
+Chuck,Nichols,chuck_nichols@msvl.k12.wa.us,,Marysville-Pilchuck High School,marysvillehs,http://marysvillehs.cdxsite.com,,LV 2014
+Ron,Robak,rrobak@elmhurst205.org,,York Community High School  ,yorkcomhs,http://yorkcomhs.cdxsite.com,,LV 2014
+Dennis,Kenny,dkenny@wmisd.org,,Wexford Missaukee Career & Technical Center,wmctc,http://wmctc.cdxsite.com,,MLR 2014
+Richard,Sneed,rsneed@cherokeecentral.gaggle.net,,Cherokee Central High School,cherokeechs,http://cherokeechs.cdxsite.com,,MLR
+Brandon,Adams,brandonadams@johnston.k12.nc.us,,Corinth Holders HS,corinthhs,http://corinthhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+James,Massey,jamesmassey@johnston.k12.nc.us,,Smithfield Selma HS  ,smithfieldhs,http://smithfieldhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Gary,Maune,gary.maune@washington.k12.mo.us,,Four Rivers Career Center ,foricc,http://foricc.cdxsite.com,,LV 2014
+Roger,Pressley,roger.pressley@ucps.k12.nc.us,,Union County Career Center,unionccc,http://unionccc.cdxsite.com,,LV 2014
+,,,,,,,,MLR 2014
+Charles,Clair,charles.clair@tcatjacksboro.edu,,Tennessee Technology Center - Jacksboro,tcatjack,http://tcatjack.cdxsite.com,BA4B56,LV 2014 2 Year
+Jack,Joyce,jjoyce@plymouth.k12.ma.us,,Plymouth South Technical ,plymouthtech,http://plymouthtech.cdxsite.com,,LV 2014
+Joseph,Kingsland,rambowrench@hotmail.com,,Chamberlain International School,chamberlainis,http://chamberlainis.cdxsite.com,,LV 2014
+Jim,Cushing,cushing.jim@mansfieldschools.org,,Mansfield Senior High School,mansfieldshs,http://mansfieldshs.cdxsite.com,,LV 2014
+Joseph,Granteed,jgranteed@ctclc.edu,,Career & Technology Center of Lackawanna County,lackawannactc,http://lackawannactc.cdxsite.com,,LV 2014
+Carlos,Caraballo,ccaraba@schools.nyc.gov,,School of Cooperative Technical Education,scte,http://scte.cdxsite.com,,LV 2014
+Rich,Grier,geier.richard@district205.net,,Thornwood High School  ,thornwoodhs,http://thornwoodhs.cdxsite.com,,LV 2014
+Andy,Jensen,jensen.andrew@district205.net,,Thornridge High School ,thornridgehs,http://thornridgehs.cdxsite.com,,LV 2014
+Fred,McGee,mcgee.fred@district205.net,,Thornton Township High School District 205  ,hsd205,http://hsd205.cdxsite.com,,LV 2014
+,,,,,,,,HV Diesel complete
+,,,,,,,,CDX: Hydraulics
+James,Stone,James_Stone@abss.k12.nc.us,,Western Alamance High School,alamancehs,http://alamancehs.cdxsite.com,,MLR 2014
+Adam,Bradley,Adam.Bradley@greene.k12.ga.us,,Green County High School,greenchs,http://greenchs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Quint,Dunlap,QUINT.DUNLAP@MONTGOMERY.K12.NC.US,,East Montgomery HS,eastmhs,http://eastmhs.cdxsite.com,,MLR
+John,Wiggins,JOHN.WIGGINS@MONTGOMERY.K12.NC.US,,West Montgomery HS,westmhs,http://westmhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Sergio,Salinas,strglide10@aol.com,,Judson High School,judsonhs,http://judsonhs.cdxsite.com,,LV 2014
+Mark,Mitchell,mmitchel@cscc.edu,,Columbus State Community College,cstatecc,http://cstatecc.cdxsite.com,,LV 2014
+Bob,Faoro,FaoroR@morainevalley.edu,,Moraine Valley Community College,morainevcc,http://morainevcc.cdxsite.com,,LV 2014
+Brad,Parker,Brad.Parker@MorganCC.edu,,Morgan Community College,morgancc,http://morgancc.cdxsite.com,,LV 2014
+Tony,Gumushian,agumushian@prairiestate.edu,,Prairie State College,prairiesc,http://prairiesc.cdxsite.com,,LV 2014
+James,Cordova,james.cordova@pueblocc.edu,,Pueblo Community College,pueblocc,http://pueblocc.cdxsite.com,,LV 2014
+Allen,Day,amday@wccnet.edu,,Washtenaw Community College,washtenawcc,http://washtenawcc.cdxsite.com,,LV 2014
+Michael,Spangler,Michael.Spangler@csn.edu,,College of Southern Nevada,cosn,http://cosn.cdxsite.com,,LV 2014
+Ray,Scow,rscow@tmcc.edu,,Truckee Meadows Community College,truckeemcc,http://truckeemcc.cdxsite.com,,LV 2014
+Bob,Oakes,oakesb@kirtland.edu,,Kirtland Community College,kirtlandcc,http://kirtlandcc.cdxsite.com,,LV 2014
+,,,,,,,,
+Robert,Winterstein,rwinters@btboces.org,,Broome Delaware Tioga BOCES,btboces,http://btboces.cdxsite.com,,LV 2014
+Shane,Schmidt,Shane.schmidt@lexschools.org,,Lexington High School,lexingtonhs,http://lexingtonhs.cdxsite.com,,MLR 2014
+Don,Miller,dmiller@havasu.k12.az.us,,Lake Havasu High School,havasuhs,http://havasuhs.cdxsite.com,,MLR 2014
+Mark,Franklin,mark.franklin@bremertonschools.org,,West Sound Technical Skills Center,wsoundtsc,http://wsoundtsc.cdxsite.com,,MLR 2014
+Angelo,Montez,monteaj@d11.org,,Mitchell High School,mitchellhs,http://mitchellhs.cdxsite.com,,LV 2014
+Brad,Wheaton,wheatbd@d11.org,,Doherty High School,dohertyhs,http://dohertyhs.cdxsite.com,,LV 2014
+Bill,Mahar,william.mahar@d11.org,,Wasson High School,wassonhs,http://wassonhs.cdxsite.com,,LV 2014
+Greg,Atencio,Gregory.Atencio@ccaurora.edu,,Community College of Aurora,ccaurora,http://ccaurora.cdxsite.com,,HV Diesel complete
+,,,,,,,,CDX: Hydraulics
+Richard,Beasley,rlbeasley@smcps.org,,Dr James Forest Career and Technology Center,djforestctc,http://djforestctc.cdxsite.com/,,LV 2014
+John,Dowling,johndo@cciu.org,,Chester County Technical College High School,cctchs,http://cctchs.cdxsite.com,,LV 2014
+James,Dickens,jdickens@bertie.k12.nc.us,,Bertie High School,bertiehs,http://bertiehs.cdxsite.com,,MLR 2014
+Kevin,Karnes,KKarnes@fuhsd.net,,Fallbrook High School,fallbrook,http://fallbrook.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+James,Liston,jliston@chccs.k12.nc.us,,Chapel Hill High School,chapelhhs,http://chapelhhs.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
+Robert,Moore,robertmoore@mgsd.k12.nc.us,,NF Woods Advanced Technology Center,nfwoods,http://nfwoods.cdxsite.com,,MLR
+,,,,,,,,MLR 2014
